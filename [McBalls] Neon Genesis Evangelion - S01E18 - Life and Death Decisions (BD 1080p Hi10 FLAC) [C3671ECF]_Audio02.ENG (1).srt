@@ -1,0 +1,1660 @@
+1
+00:00:00,620 --> 00:00:05,580
+Speaker 1: The young man like a young man
+
+2
+00:00:05,580 --> 00:00:10,700
+Speaker 1: You are a young man, you are a young man
+
+3
+00:00:22,560 --> 00:00:26,880
+Speaker 1: The wind is now on the door
+
+4
+00:00:29,140 --> 00:00:33,580
+Speaker 1: I'm just looking at you
+
+5
+00:00:35,680 --> 00:01:03,560
+Speaker 1: I'm so happy
+
+6
+00:01:31,380 --> 00:01:31,380
+Speaker 2: This
+
+7
+00:01:31,380 --> 00:01:33,540
+Speaker 3: is Ecta64 calling the
+
+8
+00:01:33,540 --> 00:01:33,540
+Speaker 2: end of the world.
+
+9
+00:01:33,600 --> 00:01:37,400
+Speaker 2: Neopat 400, confirm cumulonimbus clouds in your immediate flight path, over.
+
+10
+00:01:37,780 --> 00:01:40,700
+Speaker 2: This is Neopat 400, cumulonimbus clouds confirmed.
+
+11
+00:01:41,180 --> 00:01:42,380
+Speaker 2: Parameter indicates no hazard.
+
+12
+00:01:42,860 --> 00:01:45,060
+Speaker 2: We'll maintain course. Expect to arrive on schedule.
+
+13
+00:01:45,560 --> 00:01:47,060
+Speaker 2: This is Ecta 64. Roger it out.
+
+14
+00:01:55,260 --> 00:01:56,900
+Speaker 4: I'm ready. Where's Asuka?
+
+15
+00:01:57,600 --> 00:01:58,660
+Speaker 4: She's taken off already.
+
+16
+00:01:59,220 --> 00:02:00,020
+Speaker 4: It would seem that
+
+17
+00:02:00,020 --> 00:02:01,960
+Speaker 5: she doesn't want to face us right now.
+
+18
+00:02:02,520 --> 00:02:02,960
+Speaker 5: But why?
+
+19
+00:02:03,960 --> 00:02:06,580
+Speaker 5: A teenage girl can be difficult to understand, Shinji.
+
+20
+00:02:10,039 --> 00:02:10,340
+Speaker 3: By the way...
+
+21
+00:02:10,340 --> 00:02:11,480
+Speaker 3: Um, well...
+
+22
+00:02:12,120 --> 00:02:12,760
+Speaker 4: Well, go ahead.
+
+23
+00:02:13,320 --> 00:02:15,680
+Speaker 4: Are the rumors about Unit 4 really true?
+
+24
+00:02:15,980 --> 00:02:19,060
+Speaker 4: I heard that there was some kind of accident and it exploded.
+
+25
+00:02:19,780 --> 00:02:21,300
+Speaker 5: Yes, I'm afraid so.
+
+26
+00:02:21,680 --> 00:02:24,900
+Speaker 5: Unit 4 is gone, alone with the second branch of nerve.
+
+27
+00:02:25,440 --> 00:02:27,640
+Speaker 5: It happened while they were testing the S2 engine.
+
+28
+00:02:28,480 --> 00:02:30,080
+Speaker 5: But don't worry, we'll be all right.
+
+29
+00:02:30,540 --> 00:02:32,400
+Speaker 5: All three of our Avas are functioning properly,
+
+30
+00:02:32,780 --> 00:02:33,160
+Speaker 5: And our pilots
+
+31
+00:02:33,160 --> 00:02:34,580
+Speaker 4: and staff are in good shape, too.
+
+32
+00:02:34,660 --> 00:02:37,260
+Speaker 4: I also heard that Unit 3 is being brought here.
+
+33
+00:02:37,540 --> 00:02:40,280
+Speaker 4: You're performing the activation tests at Matsushiro, aren't you?
+
+34
+00:02:40,580 --> 00:02:40,960
+Speaker 5: Uh-huh.
+
+35
+00:02:42,000 --> 00:02:44,380
+Speaker 5: I'll be out for four days or so, but don't worry.
+
+36
+00:02:44,580 --> 00:02:46,060
+Speaker 5: Akashi's coming over to take care of you guys.
+
+37
+00:02:46,320 --> 00:02:47,340
+Speaker 4: But what about the test?
+
+38
+00:02:47,440 --> 00:02:49,500
+Speaker 5: Oh, Ritsuko will be supervising everything.
+
+39
+00:02:49,850 --> 00:02:50,920
+Speaker 5: There won't be any problems.
+
+40
+00:02:51,180 --> 00:02:52,120
+Speaker 4: And who will be the pilot?
+
+41
+00:02:52,840 --> 00:02:54,999
+Speaker 5: Well, the pilot is...
+
+42
+00:03:02,240 --> 00:03:02,600
+Speaker 6: Yes.
+
+43
+00:03:05,420 --> 00:03:08,720
+Speaker 6: Good morning, Major Katsuragi. I've come to ask for your help.
+
+44
+00:03:09,400 --> 00:03:10,960
+Speaker 6: I'm begging you. Please, please.
+
+45
+00:03:11,360 --> 00:03:14,940
+Speaker 6: You've just got to choose me as the pilot for Evangelion Unit 3. You gotta!
+
+46
+00:03:22,140 --> 00:03:24,040
+Speaker 7: So, Shinji still doesn't know, huh?
+
+47
+00:03:24,360 --> 00:03:27,980
+Speaker 7: I just can't find a chance to tell him. I'm worried.
+
+48
+00:03:28,820 --> 00:03:30,740
+Speaker 7: Sometimes I just can't figure out what he's
+
+49
+00:03:30,740 --> 00:03:31,300
+Speaker 5: thinking about.
+
+50
+00:03:31,300 --> 00:03:31,940
+Speaker 5: Oh,
+
+51
+00:03:32,090 --> 00:03:35,240
+Speaker 7: get a grip, kid. You're the one who wanted to be his guardian.
+
+52
+00:03:35,880 --> 00:03:37,500
+Speaker 5: Yeah, you're right, of course.
+
+53
+00:03:38,630 --> 00:03:41,960
+Speaker 5: Um, so, when will you acquire the new pilot?
+
+54
+00:03:42,340 --> 00:03:44,900
+Speaker 7: Tomorrow. There's still a few details to be ironed out.
+
+55
+00:03:45,340 --> 00:03:47,660
+Speaker 7: Maybe the new pilot will tell Shinji himself.
+
+56
+00:03:48,260 --> 00:03:52,460
+Speaker 7: Oh, I rather doubt it. This one wasn't very enthused about the prospect at all.
+
+57
+00:03:52,830 --> 00:03:58,600
+Speaker 7: He won't talk. He only accepted under the condition that his younger sister be transferred into our private hospital.
+
+58
+00:03:59,720 --> 00:04:02,000
+Speaker 6: How can Miss Otto be so cruel?
+
+59
+00:04:02,820 --> 00:04:05,860
+Speaker 6: I'm dying to be pilot, so why won't she use me?
+
+60
+00:04:06,240 --> 00:04:08,780
+Speaker 6: Even as a backup pilot, it's just not fair.
+
+61
+00:04:10,260 --> 00:04:10,660
+Speaker 8: Yeah.
+
+62
+00:04:15,220 --> 00:04:16,140
+Speaker 4: Hey, what's up?
+
+63
+00:04:16,660 --> 00:04:18,640
+Speaker 4: You left before me, but you're getting here late.
+
+64
+00:04:19,420 --> 00:04:21,640
+Speaker 8: No fight between the newlyweds today?
+
+65
+00:04:22,940 --> 00:04:25,360
+Speaker 9: I just didn't want to see your ugly faces!
+
+66
+00:04:25,620 --> 00:04:27,700
+Speaker 9: You damn three students!
+
+67
+00:04:28,170 --> 00:04:29,340
+Speaker 9: Oh, for dust, idiot!
+
+68
+00:04:29,740 --> 00:04:30,200
+Speaker 6: Ow!
+
+69
+00:04:30,290 --> 00:04:30,420
+Speaker 6: Ow!
+
+70
+00:04:30,580 --> 00:04:30,700
+Speaker 6: Ow!
+
+71
+00:04:34,320 --> 00:04:36,900
+Speaker 6: Ah, the precious moment of lunchtime.
+
+72
+00:04:37,220 --> 00:04:38,680
+Speaker 6: Hey, where's Toji?
+
+73
+00:04:38,980 --> 00:04:40,060
+Speaker 6: I haven't seen him.
+
+74
+00:04:40,860 --> 00:04:41,620
+Speaker 6: You mean he left?
+
+75
+00:04:42,050 --> 00:04:43,040
+Speaker 6: Without his lunch?
+
+76
+00:04:43,480 --> 00:04:44,440
+Speaker 6: Toji the stomach?
+
+77
+00:04:44,900 --> 00:04:45,480
+Speaker 4: That's impossible!
+
+78
+00:04:46,320 --> 00:04:47,960
+Speaker 4: Well, he's been acting different.
+
+79
+00:04:54,000 --> 00:04:54,920
+Speaker 4: Mr. Susahoe?
+
+80
+00:04:55,500 --> 00:04:57,180
+Speaker 8: Oh, it's you, Ayanami.
+
+81
+00:04:57,800 --> 00:04:59,680
+Speaker 8: If you're looking for Shinji, he's not here.
+
+82
+00:05:01,040 --> 00:05:03,640
+Speaker 8: You know, don't you, about everything?
+
+83
+00:05:04,180 --> 00:05:05,760
+Speaker 8: I think Asuka knows, too.
+
+84
+00:05:07,980 --> 00:05:10,060
+Speaker 8: So Shinji's the only one who doesn't know.
+
+85
+00:05:10,860 --> 00:05:14,060
+Speaker 8: You know, it's pretty rare for you to be concerned about someone else.
+
+86
+00:05:14,420 --> 00:05:16,880
+Speaker 10: It is? I'm not sure I understand.
+
+87
+00:05:17,420 --> 00:05:19,580
+Speaker 8: Oh, you have a thing about Shinji, all right.
+
+88
+00:05:19,820 --> 00:05:22,600
+Speaker 10: I? Maybe that
+
+89
+00:05:22,600 --> 00:05:23,080
+Speaker 4: is true.
+
+90
+00:05:23,760 --> 00:05:24,380
+Speaker 8: You do.
+
+91
+00:05:28,220 --> 00:05:29,880
+Speaker 4: - Hikari! - Let's have lunch
+
+92
+00:05:29,880 --> 00:05:30,140
+Speaker 5: together!
+
+93
+00:05:31,040 --> 00:05:31,340
+Speaker 5: Okay.
+
+94
+00:05:33,080 --> 00:05:34,380
+Speaker 5: He's over two hours late,
+
+95
+00:05:34,640 --> 00:05:36,700
+Speaker 7: but at last he's finally here.
+
+96
+00:05:37,180 --> 00:05:39,380
+Speaker 7: This is the first time I've ever waited for someone this long.
+
+97
+00:05:39,660 --> 00:05:42,500
+Speaker 7: That's because you never waited for guys back when you could still get a date.
+
+98
+00:05:42,660 --> 00:05:43,380
+Speaker 7: Oh, shut up.
+
+99
+00:05:43,960 --> 00:05:46,100
+Speaker 11: This was the so-called second impact.
+
+100
+00:05:46,700 --> 00:05:49,640
+Speaker 11: At that time, I was living in a place called Nebukawa,
+
+101
+00:05:50,000 --> 00:05:53,500
+Speaker 11: but the rising water levels caused by the melting of Antarctica
+
+102
+00:05:54,000 --> 00:05:55,520
+Speaker 11: have buried it beneath the sea.
+
+103
+00:06:00,180 --> 00:06:03,180
+Speaker 8: I'm sorry, newcomer, but I had to clobber you.
+
+104
+00:06:03,370 --> 00:06:05,240
+Speaker 8: I had to beat you to work off my own anger.
+
+105
+00:06:16,900 --> 00:06:18,320
+Speaker 10: Um, I'm sorry, Asuka.
+
+106
+00:06:18,770 --> 00:06:20,640
+Speaker 10: You usually walk home with Shinji, don't you?
+
+107
+00:06:20,960 --> 00:06:23,260
+Speaker 9: I only walk with Shinji because we work together.
+
+108
+00:06:23,900 --> 00:06:25,720
+Speaker 9: And right now I don't be like looking at him.
+
+109
+00:06:26,260 --> 00:06:26,440
+Speaker 9: Oh.
+
+110
+00:06:29,580 --> 00:06:30,300
+Speaker 10: This is about
+
+111
+00:06:30,300 --> 00:06:31,520
+Speaker 9: Toji, isn't it?
+
+112
+00:06:32,320 --> 00:06:33,620
+Speaker 9: Yeah, how'd you know?
+
+113
+00:06:33,840 --> 00:06:34,940
+Speaker 9: Everybody knows.
+
+114
+00:06:35,340 --> 00:06:37,800
+Speaker 9: The Three Stooges are the only ones who don't.
+
+115
+00:06:38,060 --> 00:06:40,260
+Speaker 10: Shinji seems sensitive in a naive kind
+
+116
+00:06:40,260 --> 00:06:40,580
+Speaker 9: of way.
+
+117
+00:06:40,820 --> 00:06:42,200
+Speaker 9: Shinji's a big fat dork!
+
+118
+00:06:42,660 --> 00:06:44,080
+Speaker 9: And he's denser than lead, too.
+
+119
+00:06:44,460 --> 00:06:47,100
+Speaker 9: He wouldn't know how to relate to another person if you gave him a manual!
+
+120
+00:06:48,240 --> 00:06:49,200
+Speaker 10: Oh, I
+
+121
+00:06:49,200 --> 00:06:49,560
+Speaker 9: see.
+
+122
+00:06:52,060 --> 00:06:52,500
+Speaker 10: Asuka?
+
+123
+00:06:52,520 --> 00:06:55,960
+Speaker 10: I think that Toji might be interested in Rei.
+
+124
+00:06:56,880 --> 00:06:57,880
+Speaker 10: Are you kidding?
+
+125
+00:06:58,440 --> 00:06:59,560
+Speaker 10: Toji and Wonder Girl?
+
+126
+00:06:59,960 --> 00:07:01,460
+Speaker 10: Well, lunch, they
+
+127
+00:07:01,460 --> 00:07:02,220
+Speaker 9: seem...
+
+128
+00:07:02,240 --> 00:07:03,100
+Speaker 9: Don't worry, Hikari.
+
+129
+00:07:03,140 --> 00:07:03,960
+Speaker 9: It'll never happen.
+
+130
+00:07:04,100 --> 00:07:08,600
+Speaker 9: If Shinji is denser than lead, then Rei Ayanami is off the atomic scale.
+
+131
+00:07:09,380 --> 00:07:09,700
+Speaker 9: Really?
+
+132
+00:07:10,600 --> 00:07:10,800
+Speaker 9: Yep.
+
+133
+00:07:12,980 --> 00:07:13,120
+Hmm.
+
+134
+00:07:14,360 --> 00:07:15,460
+Speaker 12: Can I ask you something?
+
+135
+00:07:15,940 --> 00:07:16,340
+Speaker 12: Okay.
+
+136
+00:07:17,100 --> 00:07:19,280
+Speaker 12: Just what do you see in a dumb jock like that?
+
+137
+00:07:21,360 --> 00:07:21,920
+Speaker 12: Is
+
+138
+00:07:21,920 --> 00:07:22,480
+Speaker 10: the...
+
+139
+00:07:22,500 --> 00:07:23,500
+Speaker 10: passionate side.
+
+140
+00:07:24,020 --> 00:07:24,240
+Speaker 10: What?
+
+141
+00:07:28,560 --> 00:07:30,740
+It was a mistake to get back with you.
+
+142
+00:07:31,080 --> 00:07:32,920
+How can you say that now?
+
+143
+00:07:33,420 --> 00:07:35,100
+There are a lot of pit holes in life,
+
+144
+00:07:35,440 --> 00:07:36,960
+but you just have to dig your way out.
+
+145
+00:07:36,980 --> 00:07:38,020
+Speaker 9: You know, Asuka...
+
+146
+00:07:38,100 --> 00:07:40,600
+Speaker 9: Kashi sure spends a lot of time in the tub.
+
+147
+00:07:42,860 --> 00:07:44,880
+Speaker 4: I wonder who's going to pilot Unit 3.
+
+148
+00:07:45,540 --> 00:07:47,280
+Speaker 9: What? You mean you haven't heard?
+
+149
+00:07:48,060 --> 00:07:48,640
+Speaker 4: Who is it?
+
+150
+00:07:48,920 --> 00:07:49,500
+Speaker 4: Yes.
+
+151
+00:07:49,720 --> 00:07:51,700
+The only reason I came back to you
+
+152
+00:07:51,720 --> 00:07:53,180
+so we could break up again.
+
+153
+00:07:53,500 --> 00:07:54,220
+Speaker 9: I don't know.
+
+154
+00:07:55,260 --> 00:07:56,500
+Speaker 13: Yeah, that was refreshing.
+
+155
+00:07:58,680 --> 00:07:59,700
+Speaker 13: Are you two fighting again?
+
+156
+00:08:00,020 --> 00:08:00,860
+Speaker 13: I don't believe it.
+
+157
+00:08:01,180 --> 00:08:03,240
+Speaker 13: Are you two always like this whenever Katsuragi's gone?
+
+158
+00:08:03,240 --> 00:08:03,720
+Speaker 13: It's not like
+
+159
+00:08:03,720 --> 00:08:04,040
+Speaker 14: that.
+
+160
+00:08:04,640 --> 00:08:06,180
+Speaker 14: I want to be happy, Kaji,
+
+161
+00:08:06,660 --> 00:08:08,320
+Speaker 14: especially since you're spending the night,
+
+162
+00:08:08,440 --> 00:08:09,760
+Speaker 14: but I can't.
+
+163
+00:08:10,100 --> 00:08:10,760
+Speaker 14: Not tonight.
+
+164
+00:08:11,580 --> 00:08:12,260
+Speaker 14: Not now.
+
+165
+00:08:12,760 --> 00:08:13,740
+Speaker 14: Not with everything.
+
+166
+00:08:15,500 --> 00:08:16,000
+Speaker 13: I understand.
+
+167
+00:08:16,720 --> 00:08:17,240
+Speaker 13: Let's go to bed.
+
+168
+00:08:17,700 --> 00:08:19,500
+Speaker 13: I find that's usually the best thing to do
+
+169
+00:08:19,500 --> 00:08:20,540
+Speaker 13: in this kind of situation.
+
+170
+00:08:27,820 --> 00:08:29,660
+Speaker 4: Hey, are you asleep yet, Gachi?
+
+171
+00:08:30,400 --> 00:08:31,860
+Speaker 13: No, not yet.
+
+172
+00:08:32,979 --> 00:08:35,360
+Speaker 4: Well, can you tell me what my father's like?
+
+173
+00:08:35,740 --> 00:08:37,020
+Speaker 13: Well, there's a surprise question.
+
+174
+00:08:37,750 --> 00:08:39,640
+Speaker 13: I would have thought you'd have asked about Katsuragi.
+
+175
+00:08:40,620 --> 00:08:42,500
+Speaker 4: It seems like you're always with my father.
+
+176
+00:08:43,659 --> 00:08:45,660
+Speaker 13: Commander Fuyutsuki is the one who's always with him.
+
+177
+00:08:46,740 --> 00:08:48,640
+Speaker 13: Have you been asking around about your father?
+
+178
+00:08:48,700 --> 00:08:49,380
+Speaker 13: I
+
+179
+00:08:49,380 --> 00:08:51,840
+Speaker 4: just haven't been around him much.
+
+180
+00:08:52,360 --> 00:08:54,200
+Speaker 13: So, you really don't know him.
+
+181
+00:08:54,740 --> 00:08:56,720
+Speaker 4: But I've learned a lot about him lately.
+
+182
+00:08:58,620 --> 00:09:00,820
+Speaker 4: I've learned how he feels about his work.
+
+183
+00:09:01,520 --> 00:09:02,060
+Speaker 4: About my
+
+184
+00:09:02,060 --> 00:09:02,380
+Speaker 13: mother.
+
+185
+00:09:03,220 --> 00:09:04,320
+Speaker 13: No, you're wrong, Shinji.
+
+186
+00:09:04,770 --> 00:09:06,040
+Speaker 13: You only believe that you've learned.
+
+187
+00:09:06,740 --> 00:09:10,220
+Speaker 13: But people really can't understand themselves, much less each other.
+
+188
+00:09:10,900 --> 00:09:14,040
+Speaker 13: Understanding 100% of anything is impossible.
+
+189
+00:09:15,140 --> 00:09:18,660
+Speaker 13: That's why we spend so much time trying to understand our own motivations
+
+190
+00:09:18,680 --> 00:09:22,200
+Speaker 13: and those of others. That's what makes life so interesting.
+
+191
+00:09:22,560 --> 00:09:24,640
+Speaker 4: So you can't understand Misato either.
+
+192
+00:09:25,260 --> 00:09:31,200
+Speaker 13: The kanji that we use for the word she means a woman far away, and women will always seem
+
+193
+00:09:31,200 --> 00:09:37,000
+Speaker 13: to be on a distant shore. The gulf that separates male and female is broader and deeper than
+
+194
+00:09:37,060 --> 00:09:37,600
+Speaker 13: any ocean.
+
+195
+00:09:38,540 --> 00:09:39,680
+Speaker 4: I just don't understand
+
+196
+00:09:39,680 --> 00:09:40,140
+Speaker 13: adults.
+
+197
+00:09:42,120 --> 00:09:45,660
+Speaker 1: T-minus 300 minutes to Unit 3 activation test.
+
+198
+00:09:46,040 --> 00:09:47,580
+Speaker 15: Primary power standing by.
+
+199
+00:09:47,980 --> 00:09:50,320
+Speaker 1: Repairs to left arm crimp log completed.
+
+200
+00:09:50,680 --> 00:09:52,960
+Speaker 1: Returning system in all sections of the unit.
+
+201
+00:09:54,060 --> 00:09:56,340
+Speaker 1: Roger. Team B, commence operation.
+
+202
+00:09:57,080 --> 00:09:59,460
+Speaker 15: Data link to Avangelion Unit 1 established.
+
+203
+00:10:00,240 --> 00:10:02,120
+Speaker 7: The system's all up and ready for full activation.
+
+204
+00:10:03,020 --> 00:10:04,280
+Speaker 7: Terrific. Let's get started.
+
+205
+00:10:05,060 --> 00:10:05,780
+Speaker 7: That was enthusiastic.
+
+206
+00:10:06,540 --> 00:10:10,820
+Speaker 7: You're aware that this unit will be assigned to your detachment once it's passed its tests, aren't you?
+
+207
+00:10:11,060 --> 00:10:12,920
+Speaker 7: Exclusive control of four Avas.
+
+208
+00:10:13,560 --> 00:10:16,180
+Speaker 7: If you wanted to, you could conquer the world.
+
+209
+00:10:17,500 --> 00:10:19,340
+Speaker 7: So, have you told Shinji yet?
+
+210
+00:10:19,860 --> 00:10:21,380
+Speaker 7: I'll tell him after the test.
+
+211
+00:10:22,900 --> 00:10:24,240
+Speaker 5: The fourth child has arrived.
+
+212
+00:10:24,940 --> 00:10:27,280
+Speaker 5: Squad 2, begin entry preparations immediately.
+
+213
+00:10:29,660 --> 00:10:30,020
+Speaker 5: Toji
+
+214
+00:10:30,020 --> 00:10:31,720
+Speaker 10: hasn't shown up yet, Asuka.
+
+215
+00:10:32,940 --> 00:10:34,620
+Speaker 10: Yeah, he may not come today.
+
+216
+00:10:36,260 --> 00:10:38,080
+Speaker 10: I thought we might eat together today.
+
+217
+00:10:39,800 --> 00:10:40,360
+Speaker 10: Do you want this?
+
+218
+00:10:42,900 --> 00:10:45,460
+Speaker 6: Unit 3's already arrived in Japan, hasn't it?
+
+219
+00:10:46,120 --> 00:10:46,460
+Speaker 4: Yeah,
+
+220
+00:10:46,900 --> 00:10:47,920
+Speaker 6: it got here yesterday.
+
+221
+00:10:49,360 --> 00:10:52,060
+Speaker 6: This sucks. Who's going to pilot it then?
+
+222
+00:10:53,340 --> 00:10:56,560
+Speaker 6: Told you he was absent today. Maybe it's him.
+
+223
+00:10:56,980 --> 00:10:58,320
+Speaker 6: I don't think so.
+
+224
+00:10:59,380 --> 00:10:59,940
+Speaker 6: Entry flux
+
+225
+00:10:59,940 --> 00:11:00,200
+Speaker 16: secure.
+
+226
+00:11:00,540 --> 00:11:02,060
+Speaker 16: Initiating burst connection.
+
+227
+00:11:02,520 --> 00:11:04,820
+Speaker 15: Transmitting pulse. Graph readout is normal.
+
+228
+00:11:05,200 --> 00:11:08,200
+Speaker 16: All checklists up to 1350 have been cleared.
+
+229
+00:11:08,600 --> 00:11:10,500
+Speaker 15: Phase 1 contact all cleared.
+
+230
+00:11:10,800 --> 00:11:13,240
+Speaker 7: Roger. Operation will proceed to Phase 2.
+
+231
+00:11:13,540 --> 00:11:14,840
+Speaker 15: Full nerve link established.
+
+232
+00:11:14,860 --> 00:11:19,040
+Speaker 15: Level is 10-5-5. Harmonics are reading standard.
+
+233
+00:11:20,700 --> 00:11:22,420
+Speaker 15: We are now approaching the absolute border.
+
+234
+00:11:24,800 --> 00:11:26,900
+Speaker 7: Break the nerve circuits! Abort the test!
+
+235
+00:11:27,500 --> 00:11:28,540
+Speaker 7: No! Mission
+
+236
+00:11:28,540 --> 00:11:30,020
+Speaker 3: failure! We've got high
+
+237
+00:11:30,020 --> 00:11:31,100
+Speaker 1: energy readings in
+
+238
+00:11:31,100 --> 00:11:31,560
+Speaker 14: the body!
+
+239
+00:11:31,860 --> 00:11:32,440
+Speaker 14: An angel!
+
+240
+00:11:34,160 --> 00:11:34,800
+Speaker 3: No!
+
+241
+00:11:34,860 --> 00:11:34,880
+Speaker 3: No!
+
+242
+00:11:55,160 --> 00:11:56,620
+Speaker 2: There's been an explosion in
+
+243
+00:11:56,620 --> 00:11:57,320
+Speaker 3: Matsushiro!
+
+244
+00:11:57,780 --> 00:11:58,060
+Speaker 3: Damage
+
+245
+00:11:58,060 --> 00:11:58,700
+Speaker 16: level unknown.
+
+246
+00:11:59,420 --> 00:12:01,140
+Speaker 2: Send the rescue squad in 3rd Battalion.
+
+247
+00:12:01,500 --> 00:12:03,820
+Speaker 2: We've gotta handle this before the self-defense force gets involved.
+
+248
+00:12:04,060 --> 00:12:04,300
+Speaker 17: Roger!
+
+249
+00:12:04,740 --> 00:12:07,280
+Speaker 17: We've got an unidentified object detected at the site.
+
+250
+00:12:07,370 --> 00:12:08,400
+Speaker 17: Its pattern is orange.
+
+251
+00:12:08,630 --> 00:12:10,380
+Speaker 17: We can't confirm that it's an angel yet.
+
+252
+00:12:10,520 --> 00:12:11,760
+Speaker 17: Go to first stage alert.
+
+253
+00:12:12,320 --> 00:12:14,360
+Speaker 18: All personnel, go to first stage alert.
+
+254
+00:12:14,780 --> 00:12:16,480
+Speaker 18: Prepare for surface-to-surface combat.
+
+255
+00:12:17,020 --> 00:12:18,320
+Speaker 18: All Avas, prepare for launch.
+
+256
+00:12:18,680 --> 00:12:20,320
+Speaker 18: First for maximum intercept potential.
+
+257
+00:12:20,780 --> 00:12:22,880
+Speaker 18: Air transportation to Matsushiro will go in 20.
+
+258
+00:12:28,820 --> 00:12:29,260
+Speaker 3: An accident
+
+259
+00:12:29,260 --> 00:12:30,300
+Speaker 4: in Matsushiro?
+
+260
+00:12:30,680 --> 00:12:31,500
+Speaker 4: It can't be.
+
+261
+00:12:32,120 --> 00:12:32,860
+Speaker 4: What happened
+
+262
+00:12:32,860 --> 00:12:33,380
+Speaker 9: to Misato?
+
+263
+00:12:33,900 --> 00:12:35,480
+Speaker 9: Contact hasn't been restored yet.
+
+264
+00:12:35,880 --> 00:12:37,740
+Speaker 4: What are we going to do? We need her.
+
+265
+00:12:38,280 --> 00:12:39,860
+Speaker 9: We're going to have to go for it ourselves.
+
+266
+00:12:40,500 --> 00:12:43,300
+Speaker 9: There aren't any other options left open for us, are there?
+
+267
+00:12:43,640 --> 00:12:45,680
+Speaker 4: But how can we find an angel without her?
+
+268
+00:12:46,520 --> 00:12:49,020
+Speaker 16: Commander Curry will command this operation.
+
+269
+00:12:49,840 --> 00:12:50,880
+Speaker 6: My father will?
+
+270
+00:12:51,260 --> 00:12:54,180
+Speaker 6: We're receiving an image of the target from the Nobe Mountain Station.
+
+271
+00:12:54,780 --> 00:12:55,940
+Speaker 6: Transpiring to the main monitor.
+
+272
+00:13:01,480 --> 00:13:02,700
+Speaker 17: As we suspected.
+
+273
+00:13:03,660 --> 00:13:06,960
+Speaker 17: Transmit the abort signal. Eject the unit's entry plug.
+
+274
+00:13:09,300 --> 00:13:13,020
+Speaker 18: It's not working, sir. Neither the abort or plug ejection codes are being accepted.
+
+275
+00:13:13,400 --> 00:13:14,260
+Speaker 17: What about the pilot?
+
+276
+00:13:14,740 --> 00:13:19,320
+Speaker 17: His heart's still beating and he's still breathing. But he's probably...
+
+277
+00:13:19,380 --> 00:13:25,080
+Speaker 17: I see. Then we must accept the loss of Evangelion Unit 3. Reclassify it as the 13th Angel.
+
+278
+00:13:25,300 --> 00:13:25,600
+Speaker 7: What?
+
+279
+00:13:25,690 --> 00:13:26,400
+Speaker 7: But, sir...
+
+280
+00:13:26,620 --> 00:13:30,540
+Speaker 17: Deploy our forces around the base of Mount Nobe. The target must be destroyed.
+
+281
+00:13:33,260 --> 00:13:36,480
+Speaker 2: Target is approaching. All units, prepare to engage.
+
+282
+00:13:37,400 --> 00:13:39,360
+Speaker 19: Huh? It can't be.
+
+283
+00:13:40,180 --> 00:13:40,940
+Speaker 19: Is that the
+
+284
+00:13:40,940 --> 00:13:41,240
+Speaker 4: Angel?
+
+285
+00:13:41,880 --> 00:13:43,560
+Speaker 17: Correct. That is your target.
+
+286
+00:13:45,000 --> 00:13:48,160
+Speaker 4: It may be our target, but it's also an Ava, isn't it?
+
+287
+00:13:49,960 --> 00:13:53,620
+Speaker 4: God damn him. How could it have been possessed?
+
+288
+00:13:54,400 --> 00:13:58,700
+Speaker 4: If that thing is an Ava, then there must be another pilot inside it, isn't there?
+
+289
+00:13:58,880 --> 00:14:00,900
+Speaker 3: You mean you still don't know that? The
+
+290
+00:14:00,900 --> 00:14:02,320
+pilot of Unit 3--
+
+291
+00:14:02,720 --> 00:14:03,740
+Speaker 3: Huh? Asuka?
+
+292
+00:14:04,740 --> 00:14:05,220
+Speaker 3: *Screams*
+
+293
+00:14:09,120 --> 00:14:09,520
+Speaker 19: *Screams*
+
+294
+00:14:10,200 --> 00:14:10,680
+Speaker 19: ASKUAAA!
+
+295
+00:14:10,960 --> 00:14:11,560
+Speaker 19: *Screams
+
+296
+00:14:11,560 --> 00:14:13,420
+*
+
+297
+00:14:13,420 --> 00:14:13,860
+*Screams*
+
+298
+00:14:14,760 --> 00:14:16,720
+Speaker 18: AVA Unit 2, cease transmitting!
+
+299
+00:14:16,920 --> 00:14:19,820
+Speaker 18: The pilot's ejected. Recovery teams are moving in for retrieval.
+
+300
+00:14:19,880 --> 00:14:21,900
+Speaker 18: Target is moving towards Unit 0's position.
+
+301
+00:14:22,180 --> 00:14:24,760
+Speaker 17: Ray, stop it, but avoid close range combat.
+
+302
+00:14:25,460 --> 00:14:27,200
+Speaker 17: I'll send Unit 1 in to support you.
+
+303
+00:14:27,380 --> 00:14:27,920
+Speaker 17: Yes, sir.
+
+304
+00:14:44,800 --> 00:14:46,800
+Speaker 10: But the pilot is...
+
+305
+00:15:03,700 --> 00:15:05,960
+Speaker 18: The angel is merging itself into Unit Zero's arm!
+
+306
+00:15:06,380 --> 00:15:07,640
+Speaker 18: Nerve contamination spreading!
+
+307
+00:15:07,980 --> 00:15:09,460
+Speaker 17: Sever the left arm immediately.
+
+308
+00:15:10,120 --> 00:15:12,300
+Speaker 18: But the pilot's nerve connections are still active!
+
+309
+00:15:12,680 --> 00:15:13,600
+Speaker 17: Cut it off!
+
+310
+00:15:14,540 --> 00:15:14,680
+Speaker 18: Right.
+
+311
+00:15:42,779 --> 00:15:44,180
+Speaker 4: *Screams
+
+312
+00:15:44,180 --> 00:15:45,060
+*
+
+313
+00:15:47,380 --> 00:15:49,180
+Speaker 4: There's somebody inside it, isn't there?
+
+314
+00:15:53,980 --> 00:15:55,540
+Speaker 4: Another kid just like me.
+
+315
+00:16:16,920 --> 00:16:18,460
+Speaker 19: Oh, an injury plug.
+
+316
+00:16:19,110 --> 00:16:19,740
+Speaker 19: I knew it.
+
+317
+00:16:19,930 --> 00:16:21,240
+Speaker 19: I knew there was someone in there.
+
+318
+00:16:37,140 --> 00:16:38,880
+Speaker 15: You don't want life support systems failing!
+
+319
+00:16:39,220 --> 00:16:40,740
+Speaker 15: Pilot life functions are endangered!
+
+320
+00:16:41,120 --> 00:16:41,400
+Speaker 15: Damn it!
+
+321
+00:16:41,680 --> 00:16:44,060
+Speaker 15: Cut our pilot's seek ratio down to 60%!
+
+322
+00:16:44,400 --> 00:16:44,800
+Speaker 17: Belay that!
+
+323
+00:16:45,060 --> 00:16:47,740
+Speaker 17: But Akari, if we don't, the pilot could be killed.
+
+324
+00:16:48,340 --> 00:16:49,920
+Speaker 17: Shinji, why aren't you fighting?
+
+325
+00:16:50,200 --> 00:16:51,120
+Speaker 19: I can't!
+
+326
+00:16:51,180 --> 00:16:53,520
+Speaker 19: There's still a person inside that thing.
+
+327
+00:16:54,060 --> 00:16:56,740
+Speaker 17: Irrelevant. It's an angel. Destroy our enemy.
+
+328
+00:16:57,040 --> 00:17:00,520
+Speaker 19: I can't. If he's alive, we've got to help him.
+
+329
+00:17:00,700 --> 00:17:02,440
+Speaker 19: I can't kill another human being.
+
+330
+00:17:02,740 --> 00:17:03,940
+Speaker 17: It's him or you.
+
+331
+00:17:04,380 --> 00:17:06,439
+Speaker 19: No! I'd rather die!
+
+332
+00:17:07,079 --> 00:17:11,319
+Speaker 17: Damn it. Shut down all of Unit 1's synchronization circuits immediately.
+
+333
+00:17:11,900 --> 00:17:12,800
+Speaker 18: Shut them down?
+
+334
+00:17:13,500 --> 00:17:16,420
+Speaker 17: Correct. Switch all control to the dummy plug system.
+
+335
+00:17:16,500 --> 00:17:16,699
+Speaker 17: But
+
+336
+00:17:16,699 --> 00:17:19,300
+Speaker 18: sir, the dummy plug isn't fully operational yet.
+
+337
+00:17:19,640 --> 00:17:21,199
+Speaker 18: Dr. Akagi hasn't approved its use!
+
+338
+00:17:21,600 --> 00:17:23,579
+Speaker 17: It's still better than the current pilot!
+
+339
+00:17:24,180 --> 00:17:24,680
+Speaker 17: Do it!
+
+340
+00:17:25,040 --> 00:17:25,720
+Speaker 17: Yes, sir.
+
+341
+00:17:36,040 --> 00:17:37,200
+Speaker 15: What's going on?
+
+342
+00:17:39,880 --> 00:17:41,440
+Speaker 15: What the hell are you doing, father?
+
+343
+00:17:42,280 --> 00:17:43,620
+Speaker 15: Signal reception is green.
+
+344
+00:17:44,440 --> 00:17:45,020
+Speaker 18: Control system
+
+345
+00:17:45,020 --> 00:17:45,920
+Speaker 16: switching is complete.
+
+346
+00:17:46,900 --> 00:17:48,280
+Speaker 15: All nerves linked to the dummy system.
+
+347
+00:17:48,480 --> 00:17:48,860
+Speaker 15: 32
+
+348
+00:17:48,860 --> 00:17:52,740
+Speaker 16: .8% of emotional elements are unclear. It can't be monitored.
+
+349
+00:17:53,200 --> 00:17:53,480
+Speaker 16: Sir?
+
+350
+00:17:54,180 --> 00:17:56,880
+Speaker 17: Irrelevant. Engage the system. Commence attack.
+
+351
+00:17:57,200 --> 00:17:57,680
+Speaker 17: *BANG*
+
+352
+00:18:17,860 --> 00:18:20,780
+Speaker 18: My god, is this what the dummy plug is for?
+
+353
+00:18:22,220 --> 00:18:23,620
+Gains are still increasing.
+
+354
+00:18:29,700 --> 00:18:31,100
+I'm gonna die.
+
+355
+00:19:16,060 --> 00:19:16,660
+Speaker 3: Stop it!
+
+356
+00:19:17,600 --> 00:19:18,160
+Speaker 3: Father!
+
+357
+00:19:19,200 --> 00:19:19,340
+Speaker 1: Stop
+
+358
+00:19:19,340 --> 00:19:20,120
+Speaker 3: this goddamn
+
+359
+00:19:20,120 --> 00:19:22,120
+Speaker 1: thing for God's sake!
+
+360
+00:19:23,000 --> 00:19:24,860
+Speaker 1: Please, please, just stop it!
+
+361
+00:19:25,200 --> 00:19:29,640
+Speaker 1: If I can stop, dear God, if I can stop, stop, stop, stop!
+
+362
+00:19:29,660 --> 00:19:29,880
+Speaker 1: Stop!
+
+363
+00:19:39,000 --> 00:19:39,840
+Speaker 3: Omega, stop!
+
+364
+00:19:40,920 --> 00:19:41,580
+Speaker 3: Stop!
+
+365
+00:19:53,580 --> 00:19:54,620
+Speaker 8: AV Unit 3.
+
+366
+00:19:55,660 --> 00:19:59,240
+Speaker 8: I mean, the target has gone completely silent, sir.
+
+367
+00:20:06,580 --> 00:20:08,320
+Speaker 10: Now what shall I cook?
+
+368
+00:20:08,790 --> 00:20:10,960
+Speaker 10: For Godama, Nozomi, and myself?
+
+369
+00:20:11,680 --> 00:20:12,920
+Speaker 10: But these all serve four.
+
+370
+00:20:13,780 --> 00:20:15,140
+Speaker 10: I sure hope he's hungry tomorrow.
+
+371
+00:20:16,900 --> 00:20:18,000
+Speaker 15: Over here, over here!
+
+372
+00:20:18,240 --> 00:20:19,300
+Speaker 15: There's a survivor here!
+
+373
+00:20:20,600 --> 00:20:21,840
+Third squad, erase...
+
+374
+00:20:21,840 --> 00:20:23,200
+Locate the entire Highway 20.
+
+375
+00:20:23,430 --> 00:20:23,920
+Do it now!
+
+376
+00:20:24,040 --> 00:20:24,540
+Order's breakfast.
+
+377
+00:20:25,080 --> 00:20:26,400
+Two survivors found in each.
+
+378
+00:20:27,400 --> 00:20:28,020
+Speaker 3: I'm alive?
+
+379
+00:20:30,520 --> 00:20:31,120
+Speaker 4: Kaji?
+
+380
+00:20:31,840 --> 00:20:33,540
+Speaker 13: You were lucky, Katsuragi.
+
+381
+00:20:35,400 --> 00:20:36,600
+Speaker 4: Where's Ritsuko?
+
+382
+00:20:37,780 --> 00:20:38,540
+Speaker 13: Don't worry.
+
+383
+00:20:39,170 --> 00:20:40,740
+Speaker 13: She wasn't hurt as bad as you.
+
+384
+00:20:41,640 --> 00:20:42,460
+Speaker 5: Oh, good.
+
+385
+00:20:43,860 --> 00:20:45,100
+Speaker 5: What about Ava 3?
+
+386
+00:20:45,740 --> 00:20:46,460
+Speaker 13: It was destroyed.
+
+387
+00:20:47,260 --> 00:20:47,820
+Speaker 13: As an angel.
+
+388
+00:20:48,840 --> 00:20:49,360
+Speaker 13: By Unit 1.
+
+389
+00:20:50,220 --> 00:20:50,660
+Speaker 5: I...
+
+390
+00:20:51,760 --> 00:20:53,940
+Speaker 5: I never told Shinji.
+
+391
+00:20:55,940 --> 00:20:56,620
+Speaker 5: Shinji.
+
+392
+00:21:06,620 --> 00:21:07,300
+Speaker 4: Shinji?
+
+393
+00:21:08,779 --> 00:21:10,840
+Speaker 4: Misato, you're okay?
+
+394
+00:21:11,680 --> 00:21:12,420
+Speaker 4: I'm sorry.
+
+395
+00:21:13,460 --> 00:21:14,460
+Speaker 16: God, I'm sorry.
+
+396
+00:21:15,170 --> 00:21:16,300
+Speaker 16: I had to tell you something.
+
+397
+00:21:17,080 --> 00:21:20,140
+Speaker 16: Something important, but oh, dear God, I'm sorry.
+
+398
+00:21:21,019 --> 00:21:22,520
+Speaker 4: Misato, I...
+
+399
+00:21:23,100 --> 00:21:23,940
+Speaker 4: I killed you.
+
+400
+00:21:23,940 --> 00:21:23,960
+Speaker 4: I killed you.
+
+401
+00:21:25,460 --> 00:21:26,400
+Speaker 4: My dad forced me to.
+
+402
+00:21:27,820 --> 00:21:29,620
+Speaker 4: I begged him and begged him, but...
+
+403
+00:21:30,020 --> 00:21:30,700
+Speaker 19: Shinji,
+
+404
+00:21:30,900 --> 00:21:32,880
+Speaker 16: I'm sorry.
+
+405
+00:21:33,560 --> 00:21:35,640
+Speaker 16: Report from the entry plug recovery squad.
+
+406
+00:21:36,220 --> 00:21:37,940
+Speaker 16: The pilot's life signs are confirmed.
+
+407
+00:21:38,720 --> 00:21:39,480
+Speaker 19: He's alive!
+
+408
+00:21:40,179 --> 00:21:44,360
+Speaker 16: Shinji, the pilot of Unit 3 is...
+
+409
+00:21:45,180 --> 00:21:47,720
+Speaker 16: The fourth child is...
+
+410
+00:21:49,180 --> 00:21:49,640
+Speaker 16: Shinji?
+
+411
+00:21:51,980 --> 00:21:52,180
+Speaker 16: Shinji?
+
+412
+00:21:52,200 --> 00:21:52,500
+Speaker 16: Shinji?
+
+413
+00:21:53,880 --> 00:21:55,880
+Speaker 16: Shenji! Shenji!
+
+414
+00:21:57,280 --> 00:21:57,900
+Speaker 3: No!
+
+415
+00:23:29,720 --> 00:23:30,620
+I'm not sure
+

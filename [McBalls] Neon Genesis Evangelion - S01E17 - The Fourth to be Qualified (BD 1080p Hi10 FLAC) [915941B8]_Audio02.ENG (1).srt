@@ -1,0 +1,1704 @@
+1
+00:00:00,640 --> 00:00:04,580
+Speaker 1: As a poor man,
+
+2
+00:00:59,080 --> 00:00:59,400
+Speaker 1: This is the end of my mind.
+
+3
+00:01:00,000 --> 00:01:14,360
+Speaker 1: I hope you enjoyed the future.
+
+4
+00:01:32,040 --> 00:01:40,220
+Speaker 2: Major Katsuragi, do you still refuse to allow us to question the only person who was directly involved in this incident, the pilot of Unit 1?
+
+5
+00:01:40,600 --> 00:01:47,820
+Speaker 3: Yes, sir. It is my belief that he is still very unstable emotionally, and that bringing him here into this situation would be very unwise at the current time.
+
+6
+00:01:48,120 --> 00:01:51,900
+Speaker 4: Then, as his proxy, let us ask you, Major Katsuragi.
+
+7
+00:01:52,310 --> 00:01:55,260
+Speaker 5: Did the Angels attempt communication with a human being?
+
+8
+00:01:55,640 --> 00:01:55,980
+Speaker 5: After
+
+9
+00:01:55,980 --> 00:02:00,000
+Speaker 3: reading the subject's reports, I found no concrete evidence to validate that theory.
+
+10
+00:02:00,430 --> 00:02:03,460
+Speaker 3: In all likelihood, this irregularity is simply an odd coincidence.
+
+11
+00:02:03,760 --> 00:02:05,200
+Speaker 6: If the subject's memory is correct.
+
+12
+00:02:05,620 --> 00:02:08,000
+Speaker 3: There was no evidence that his memory had been tampered with.
+
+13
+00:02:08,119 --> 00:02:11,980
+Speaker 6: But the Ava's AC recorder was not functioning. There is no way to confirm it.
+
+14
+00:02:12,160 --> 00:02:13,900
+Speaker 6: Was the Angel interested in the human mind?
+
+15
+00:02:14,380 --> 00:02:15,740
+Speaker 3: I am unable to answer that question.
+
+16
+00:02:16,190 --> 00:02:19,120
+Speaker 3: Whether the Angels even have a concept of what the human mind is,
+
+17
+00:02:19,360 --> 00:02:22,200
+Speaker 3: or whether they can understand our thought patterns is completely unknown.
+
+18
+00:02:22,600 --> 00:02:24,840
+Speaker 6: A new factor has been revealed in this incident.
+
+19
+00:02:24,860 --> 00:02:27,680
+Speaker 6: in that the Angel tried to take Ava into itself.
+
+20
+00:02:28,120 --> 00:02:29,780
+Speaker 6: Is there any possibility that this
+
+21
+00:02:29,780 --> 00:02:33,880
+Speaker 5: aspect may be linked to the predicted 13th Angel and all Angels thereafter?
+
+22
+00:02:34,180 --> 00:02:39,220
+Speaker 3: Based on the previous patterns we have observed, there would appear to be no systematic organization among the Angels.
+
+23
+00:02:39,540 --> 00:02:42,200
+Speaker 3: Correct. They have worked independently thus far.
+
+24
+00:02:42,600 --> 00:02:43,460
+Speaker 3: What do you mean, sir?
+
+25
+00:02:43,760 --> 00:02:45,580
+Speaker 2: You may not ask questions.
+
+26
+00:02:45,960 --> 00:02:46,220
+Speaker 3: Understood.
+
+27
+00:02:46,760 --> 00:02:48,380
+Speaker 2: That will be all. Dismissed.
+
+28
+00:02:48,540 --> 00:02:48,860
+Speaker 3: Yes, sir.
+
+29
+00:02:51,280 --> 00:02:52,520
+Speaker 2: Well, what do you
+
+30
+00:02:52,520 --> 00:02:53,540
+Speaker 7: think, Ikari?
+
+31
+00:02:54,420 --> 00:02:58,780
+Speaker 7: The Angels appear to be getting more intelligent. There's not much time left.
+
+32
+00:02:59,600 --> 00:02:59,920
+Speaker 7: Left
+
+33
+00:02:59,920 --> 00:03:01,100
+Speaker 2: for us, you mean.
+
+34
+00:03:04,680 --> 00:03:06,240
+Speaker 8: Who's the patient in room 12?
+
+35
+00:03:06,600 --> 00:03:11,240
+Speaker 4: That's the emergency room patient from the first Ava incident. She's been here for a long time.
+
+36
+00:03:12,160 --> 00:03:14,160
+Speaker 4: Her injuries are really complicated.
+
+37
+00:03:14,900 --> 00:03:17,360
+Speaker 4: Poor girl. And she's still in elementary school.
+
+38
+00:03:17,860 --> 00:03:18,860
+Speaker 9: He's here again today?
+
+39
+00:03:19,280 --> 00:03:22,420
+Speaker 9: Yeah. He comes to see her at least twice a week.
+
+40
+00:03:22,640 --> 00:03:25,560
+Speaker 9: He's a good brother. Thinking about his sister like that...
+
+41
+00:03:25,610 --> 00:03:27,600
+Speaker 9: Yeah, boys like that are pretty rare.
+
+42
+00:03:31,980 --> 00:03:33,700
+Speaker 7: Ray, are things satisfactory?
+
+43
+00:03:34,180 --> 00:03:37,060
+Speaker 3: Yes. I will be with Dr. Akagi all day tomorrow.
+
+44
+00:03:37,660 --> 00:03:39,280
+Speaker 3: And the day after that, I will be in school.
+
+45
+00:03:39,940 --> 00:03:40,700
+Speaker 7: And how is school?
+
+46
+00:03:41,460 --> 00:03:42,400
+Speaker 3: No problem, sir.
+
+47
+00:03:42,880 --> 00:03:44,440
+Speaker 7: I see. That's good.
+
+48
+00:03:45,740 --> 00:03:46,160
+Speaker 9: Class attention!
+
+49
+00:03:47,120 --> 00:03:48,440
+Speaker 9: Okay, sit down.
+
+50
+00:03:49,599 --> 00:03:52,360
+Speaker 2: Well, Ayanami is absent as usual.
+
+51
+00:03:52,480 --> 00:03:54,000
+Speaker 2: and so's Mr. Ida.
+
+52
+00:03:54,940 --> 00:03:55,100
+Speaker 2: Hey,
+
+53
+00:03:55,220 --> 00:03:56,200
+Speaker 3: what's up with Kinsuke?
+
+54
+00:03:56,480 --> 00:03:58,400
+Speaker 2: He's in New Yokosuka
+
+55
+00:03:58,560 --> 00:04:00,080
+Speaker 2: to see some dumb battleship.
+
+56
+00:04:00,700 --> 00:04:02,440
+Speaker 2: Ship called Miyoko or something like that
+
+57
+00:04:02,580 --> 00:04:03,220
+Speaker 2: is in port.
+
+58
+00:04:03,500 --> 00:04:04,520
+Speaker 2: Mr. Suzuhara!
+
+59
+00:04:04,520 --> 00:04:05,220
+Speaker 2: Yes, yes, yes, sir!
+
+60
+00:04:06,540 --> 00:04:08,540
+Speaker 2: Will you deliver this document to Miss Ayanami
+
+61
+00:04:08,700 --> 00:04:09,100
+Speaker 2: after school?
+
+62
+00:04:09,460 --> 00:04:09,900
+Speaker 10: Yes, sir!
+
+63
+00:04:13,620 --> 00:04:14,900
+Speaker 11: The first branch is still okay?
+
+64
+00:04:15,660 --> 00:04:16,480
+Speaker 11: No, no, don't bother.
+
+65
+00:04:16,820 --> 00:04:18,700
+Speaker 11: The data from the recon set is still being confirmed
+
+66
+00:04:18,720 --> 00:04:19,400
+Speaker 11: by the Magi.
+
+67
+00:04:19,760 --> 00:04:19,920
+Speaker 11: Right.
+
+68
+00:04:20,940 --> 00:04:21,739
+Speaker 12: It disappeared.
+
+69
+00:04:22,460 --> 00:04:24,320
+Speaker 12: The entire second branch just vanished?
+
+70
+00:04:24,780 --> 00:04:25,320
+Speaker 12: Yes, sir.
+
+71
+00:04:25,520 --> 00:04:26,620
+Speaker 13: It's been confirmed.
+
+72
+00:04:27,300 --> 00:04:28,320
+Speaker 13: It's been wiped off the map.
+
+73
+00:04:29,260 --> 00:04:30,480
+Speaker 13: Oh my god.
+
+74
+00:04:31,200 --> 00:04:32,820
+Speaker 12: That second insect had gone crazy.
+
+75
+00:04:33,320 --> 00:04:34,780
+Speaker 12: General affairs is total chaos.
+
+76
+00:04:35,400 --> 00:04:37,700
+Speaker 8: What do you think happened over there?
+
+77
+00:04:37,920 --> 00:04:38,920
+Speaker 8: It's under investigation.
+
+78
+00:04:39,660 --> 00:04:41,560
+Speaker 8: Our only clues are these recon photos
+
+79
+00:04:41,660 --> 00:04:43,000
+Speaker 8: from the geosynchronous satellite.
+
+80
+00:04:43,720 --> 00:04:43,880
+Speaker 8: There's
+
+81
+00:04:43,880 --> 00:04:44,280
+Speaker 14: nothing else
+
+82
+00:04:44,280 --> 00:04:44,700
+Speaker 8: left.
+
+83
+00:04:45,380 --> 00:04:45,740
+Speaker 8: 10 seconds.
+
+84
+00:04:46,360 --> 00:04:46,520
+Speaker 8: Nine,
+
+85
+00:04:46,740 --> 00:04:52,180
+Speaker 15: eight, seven, six, five, four, three,
+
+86
+00:04:52,220 --> 00:04:55,200
+Speaker 15: 3, 2, 1, contact.
+
+87
+00:05:05,060 --> 00:05:05,840
+Speaker 15: This is horrible.
+
+88
+00:05:06,560 --> 00:05:12,920
+Speaker 15: Evangelion Unit 4, its support group, and all the other facilities within an 89 kilometer radius were completely destroyed.
+
+89
+00:05:13,260 --> 00:05:14,780
+Speaker 15: Along with thousands of people.
+
+90
+00:05:15,360 --> 00:05:20,680
+Speaker 13: Looking at the time schedule, it would appear that they were in the middle of installing the experimental S-2 unit from Germany.
+
+91
+00:05:21,140 --> 00:05:26,100
+Speaker 15: Potential causes range from an insufficient structural integrity to an error in calculation during the preliminary design stage.
+
+92
+00:05:26,540 --> 00:05:28,840
+Speaker 15: That's 32,768 possibilities.
+
+93
+00:05:28,900 --> 00:05:29,840
+Speaker 15: And that's not mentioning
+
+94
+00:05:29,840 --> 00:05:30,700
+Speaker 8: sabotage.
+
+95
+00:05:31,260 --> 00:05:33,540
+Speaker 5: But it wasn't really an explosion, was it?
+
+96
+00:05:34,280 --> 00:05:35,260
+Speaker 5: It just disappeared.
+
+97
+00:05:36,260 --> 00:05:40,200
+Speaker 8: In all probability, they were swallowed by a Dirac-C, just as Unit 1 was.
+
+98
+00:05:40,560 --> 00:05:42,440
+Speaker 8: Then the restored S-2 engine is...
+
+99
+00:05:42,600 --> 00:05:42,920
+Speaker 8: Gone.
+
+100
+00:05:43,880 --> 00:05:44,740
+Speaker 8: Along with our hopes.
+
+101
+00:05:45,060 --> 00:05:47,020
+Speaker 8: We're being forced to use things we don't understand.
+
+102
+00:05:47,920 --> 00:05:48,200
+Speaker 8: Yes.
+
+103
+00:05:48,980 --> 00:05:49,820
+Speaker 8: Things like the Avis.
+
+104
+00:05:51,800 --> 00:05:53,520
+Speaker 8: So what'll we do with Unit 3?
+
+105
+00:05:54,080 --> 00:05:55,620
+Speaker 8: It's being shipped here as we speak.
+
+106
+00:05:56,000 --> 00:05:58,960
+Speaker 8: The U.S. government doesn't want to risk losing their first branch as well.
+
+107
+00:05:59,440 --> 00:06:02,400
+Speaker 8: Didn't they insist on the right to build Units 3 and 4 in the first place?
+
+108
+00:06:02,840 --> 00:06:04,240
+Speaker 8: And now they're forcing it off on us?
+
+109
+00:06:04,760 --> 00:06:05,740
+Speaker 8: They're really pushing it.
+
+110
+00:06:06,080 --> 00:06:07,900
+Speaker 8: Well, you can't blame them, can you?
+
+111
+00:06:08,320 --> 00:06:10,860
+Speaker 8: After a disaster like that, anyone would get nervous.
+
+112
+00:06:11,540 --> 00:06:12,160
+Speaker 8: We'll handle it.
+
+113
+00:06:12,800 --> 00:06:14,400
+Speaker 8: And how are you going to handle the test activation?
+
+114
+00:06:15,040 --> 00:06:16,280
+Speaker 8: Will you use Ray's dummy plug?
+
+115
+00:06:17,380 --> 00:06:18,240
+Speaker 8: I'll decide soon.
+
+116
+00:06:20,560 --> 00:06:27,920
+Speaker 8: This is the dummy plug prototype. Ray's personal data has been transferred into it, but our current technology can't really digitize a human mind and soul.
+
+117
+00:06:28,520 --> 00:06:35,220
+Speaker 8: In the end, this is nothing but a pale duplication that emulates the real pilot's thinking processes. It's still only a machine.
+
+118
+00:06:35,800 --> 00:06:42,500
+Speaker 7: It transmits a signal pattern to the AVA. If the AVA believes that there is a pilot and synchronizes, then that's good enough.
+
+119
+00:06:43,320 --> 00:06:44,880
+Speaker 7: Load the data into units one and two.
+
+120
+00:06:45,760 --> 00:06:47,840
+Speaker 8: But we're still working out the bugs, sir.
+
+121
+00:06:48,060 --> 00:06:49,720
+Speaker 7: Just do it. It's sufficient.
+
+122
+00:06:50,500 --> 00:06:50,880
+Speaker 8: Yes, sir.
+
+123
+00:06:54,620 --> 00:06:56,880
+Speaker 7: I've delegated the transport of the unit to the UN.
+
+124
+00:06:57,560 --> 00:06:59,080
+Speaker 7: It will be here by the end of the weekend.
+
+125
+00:06:59,540 --> 00:07:01,400
+Speaker 7: At that time, you will take care of it.
+
+126
+00:07:01,760 --> 00:07:05,140
+Speaker 8: Yes, sir. We'll perform the modifications and activation test in Matsushiro.
+
+127
+00:07:05,520 --> 00:07:07,100
+Speaker 7: Hmm. And the test pilot?
+
+128
+00:07:07,740 --> 00:07:09,540
+Speaker 8: Use of the dummy plug is not recommended.
+
+129
+00:07:10,020 --> 00:07:11,100
+Speaker 8: One of our candidates...
+
+130
+00:07:11,140 --> 00:07:12,720
+Speaker 7: Will be chosen as the fourth.
+
+131
+00:07:13,120 --> 00:07:16,800
+Speaker 8: Yes, sir. There is one child available whose core can be prepared immediately.
+
+132
+00:07:17,760 --> 00:07:18,880
+Speaker 7: Then make it so.
+
+133
+00:07:19,120 --> 00:07:19,540
+Speaker 8: Yes, sir.
+
+134
+00:07:20,540 --> 00:07:22,220
+Speaker 7: Ray, we're finished now.
+
+135
+00:07:24,080 --> 00:07:24,400
+Speaker 8: Right.
+
+136
+00:07:25,560 --> 00:07:26,220
+Speaker 7: Let's eat.
+
+137
+00:07:27,740 --> 00:07:27,960
+Speaker 8: Yes,
+
+138
+00:07:28,100 --> 00:07:28,240
+Speaker 3: sir.
+
+139
+00:07:35,020 --> 00:07:35,440
+Speaker 9: Stand up.
+
+140
+00:07:36,280 --> 00:07:36,840
+Speaker 9: Dismissed.
+
+141
+00:07:37,140 --> 00:07:38,760
+Speaker 10: Yeah, it's lunchtime at last.
+
+142
+00:07:39,180 --> 00:07:41,620
+Speaker 10: My very favorite part of the entire school day.
+
+143
+00:07:42,200 --> 00:07:42,720
+Speaker 10: What?
+
+144
+00:07:43,100 --> 00:07:43,320
+Speaker 10: Huh?
+
+145
+00:07:44,600 --> 00:07:44,680
+Speaker 16: Hmm?
+
+146
+00:07:44,980 --> 00:07:47,540
+Speaker 16: What do you mean you didn't make our lunches?
+
+147
+00:07:47,880 --> 00:07:49,680
+Speaker 16: I didn't have time to cook last night.
+
+148
+00:07:49,920 --> 00:07:50,780
+Speaker 16: I had too much homework.
+
+149
+00:07:50,880 --> 00:07:52,200
+Speaker 16: Oh, you did, did you?
+
+150
+00:07:52,520 --> 00:07:55,120
+Speaker 16: And that's your excuse for me having to go without lunch?
+
+151
+00:07:55,460 --> 00:07:55,760
+Speaker 10: Uh-oh.
+
+152
+00:07:56,160 --> 00:07:57,280
+Speaker 10: The newlyweds are fighting.
+
+153
+00:08:02,500 --> 00:08:03,400
+Speaker 9: Oh, shut up!
+
+154
+00:08:05,520 --> 00:08:06,540
+Speaker 8: What's with the grim face?
+
+155
+00:08:07,060 --> 00:08:09,980
+Speaker 8: Uh, well, it's the Unit 3 activation test.
+
+156
+00:08:10,340 --> 00:08:12,300
+Speaker 8: We'll be using the fourth as the test pilot.
+
+157
+00:08:12,820 --> 00:08:13,320
+Speaker 8: The fourth?
+
+158
+00:08:14,060 --> 00:08:15,320
+Speaker 8: The fourth child's been found?
+
+159
+00:08:16,280 --> 00:08:16,740
+Speaker 8: Yesterday.
+
+160
+00:08:18,020 --> 00:08:20,060
+Speaker 8: I haven't received a report from the Marduk Institute.
+
+161
+00:08:21,000 --> 00:08:23,080
+Speaker 8: Don't worry, Major. You'll get your report.
+
+162
+00:08:26,300 --> 00:08:28,700
+Speaker 8: Dr. Okagi, are you hiding something from me again?
+
+163
+00:08:29,420 --> 00:08:30,880
+Speaker 8: No, of course not.
+
+164
+00:08:32,300 --> 00:08:33,120
+Speaker 8: Well, okay.
+
+165
+00:08:34,120 --> 00:08:34,820
+Speaker 8: So who's the kid?
+
+166
+00:08:40,219 --> 00:08:41,580
+Speaker 8: You're kidding! Him?
+
+167
+00:08:42,440 --> 00:08:46,080
+Speaker 8: Yes, well, the prospective candidates have to be kept together for their own protection.
+
+168
+00:08:46,460 --> 00:08:47,160
+Speaker 8: It can't be helped.
+
+169
+00:08:47,900 --> 00:08:48,980
+Speaker 8: I don't know how to tell them.
+
+170
+00:08:49,580 --> 00:08:50,100
+Speaker 8: It's hard.
+
+171
+00:08:51,140 --> 00:08:52,180
+Speaker 3: Asuka will be fine.
+
+172
+00:08:52,860 --> 00:08:54,360
+Speaker 3: She's committed to piloting in Ava.
+
+173
+00:08:55,020 --> 00:08:55,580
+Speaker 8: And Rei
+
+174
+00:08:55,580 --> 00:08:56,380
+Speaker 3: is exceptional.
+
+175
+00:08:57,040 --> 00:08:58,520
+Speaker 3: We've never had any problems with her.
+
+176
+00:08:59,540 --> 00:09:00,060
+Speaker 3: Shinji, on
+
+177
+00:09:00,060 --> 00:09:02,440
+Speaker 8: the other hand, has gone through some pretty bad phases.
+
+178
+00:09:02,860 --> 00:09:03,480
+Speaker 8: Even depression.
+
+179
+00:09:04,620 --> 00:09:06,120
+Speaker 8: I don't want to expose him to any more stress.
+
+180
+00:09:07,060 --> 00:09:10,080
+Speaker 8: I know, but gathering children of this kind is an imperative.
+
+181
+00:09:10,560 --> 00:09:11,960
+Speaker 8: It's for the sake of our own survival.
+
+182
+00:09:12,740 --> 00:09:13,560
+Speaker 8: You shouldn't...
+
+183
+00:09:13,600 --> 00:09:14,700
+Speaker 8: Shouldn't complicate things?
+
+184
+00:09:15,500 --> 00:09:15,760
+Speaker 8: Of course.
+
+185
+00:09:19,600 --> 00:09:20,180
+Speaker 9: Class dismissed!
+
+186
+00:09:21,020 --> 00:09:21,340
+Speaker 17: Bye!
+
+187
+00:09:22,080 --> 00:09:22,720
+Speaker 17: See you later!
+
+188
+00:09:24,100 --> 00:09:24,360
+Speaker 17: Hey,
+
+189
+00:09:24,480 --> 00:09:27,520
+Speaker 9: don't forget that you've got bulletin duty this week, Suzuhara.
+
+190
+00:09:28,040 --> 00:09:28,820
+Speaker 10: I've got what?
+
+191
+00:09:29,360 --> 00:09:30,320
+Speaker 10: The class bulletin,
+
+192
+00:09:30,400 --> 00:09:30,800
+Speaker 9: remember?
+
+193
+00:09:31,110 --> 00:09:33,080
+Speaker 9: You're supposed to deliver this to Miss Ayanami.
+
+194
+00:09:33,840 --> 00:09:34,100
+Speaker 9: Aw,
+
+195
+00:09:34,340 --> 00:09:35,860
+Speaker 10: come on. Who else has duty?
+
+196
+00:09:36,600 --> 00:09:38,220
+Speaker 10: It's you and Ayanami this week.
+
+197
+00:09:38,560 --> 00:09:39,960
+Speaker 10: It's Ayanami and me?
+
+198
+00:09:40,790 --> 00:09:41,700
+Speaker 10: Then I guess I got it.
+
+199
+00:09:41,920 --> 00:09:45,400
+Speaker 10: Huh! But I can't go to some girl's place by myself!
+
+200
+00:09:45,840 --> 00:09:47,140
+Speaker 10: Well, I can go with you!
+
+201
+00:09:47,220 --> 00:09:50,040
+Speaker 10: Hey! Shinji! Welcome home with me, will ya?
+
+202
+00:09:51,270 --> 00:09:52,400
+Speaker 10: You know where Iyanami lives, right?
+
+203
+00:10:04,360 --> 00:10:07,840
+Speaker 18: Uh, uh, mm-hmm.
+
+204
+00:10:14,520 --> 00:10:16,860
+Speaker 10: Hey, Ray, I'm coming in.
+
+205
+00:10:17,320 --> 00:10:20,100
+Speaker 10: Hey, you can't enter a girl's place without her permission.
+
+206
+00:10:20,580 --> 00:10:21,580
+Speaker 10: We've got no choice.
+
+207
+00:10:22,160 --> 00:10:22,880
+Speaker 10: She won't see it
+
+208
+00:10:22,880 --> 00:10:23,040
+Speaker 14: if we
+
+209
+00:10:23,040 --> 00:10:23,580
+Speaker 10: leave it here.
+
+210
+00:10:26,020 --> 00:10:27,840
+Speaker 17: Uh, is anybody home?
+
+211
+00:10:37,240 --> 00:10:38,240
+Speaker 10: My God.
+
+212
+00:10:39,340 --> 00:10:40,980
+Speaker 10: This is a girl's room?
+
+213
+00:10:41,580 --> 00:10:43,620
+Speaker 10: It's so decrepit.
+
+214
+00:10:43,640 --> 00:10:43,660
+Speaker 10: Please.
+
+215
+00:10:59,140 --> 00:11:00,120
+Speaker 11: You shouldn't touch
+
+216
+00:11:00,120 --> 00:11:00,460
+Speaker 10: anything.
+
+217
+00:11:01,000 --> 00:11:01,920
+Speaker 10: You should get pissed.
+
+218
+00:11:02,260 --> 00:11:02,960
+Speaker 17: I'm just cleaning
+
+219
+00:11:02,960 --> 00:11:03,340
+Speaker 11: up.
+
+220
+00:11:04,800 --> 00:11:06,540
+Speaker 10: Well, I won't help you do it.
+
+221
+00:11:07,120 --> 00:11:08,560
+Speaker 10: It's just not manly.
+
+222
+00:11:09,020 --> 00:11:09,640
+Speaker 11: Well, okay.
+
+223
+00:11:10,240 --> 00:11:12,520
+Speaker 11: But you know, Misato hates guys like that.
+
+224
+00:11:13,940 --> 00:11:16,760
+Speaker 11: I don't care. It's my policy,
+
+225
+00:11:17,100 --> 00:11:17,480
+Speaker 10: all right?
+
+226
+00:11:20,860 --> 00:11:25,320
+Speaker 10: You know, now that I think about it, you've changed.
+
+227
+00:11:26,000 --> 00:11:26,340
+Speaker 10: What?
+
+228
+00:11:27,340 --> 00:11:27,860
+Speaker 10: You, Shinji.
+
+229
+00:11:30,580 --> 00:11:33,700
+Speaker 10: The first time I saw you, I really thought you were the world's biggest jerk.
+
+230
+00:11:33,960 --> 00:11:38,600
+Speaker 10: I mean, you sure didn't seem like someone who'd do something for someone else back then.
+
+231
+00:11:39,880 --> 00:11:43,560
+Speaker 10: I guess you were so deep in your shell that I couldn't see the real you.
+
+232
+00:11:53,000 --> 00:11:54,400
+Speaker 10: Hi. Excuse us.
+
+233
+00:11:54,580 --> 00:11:54,860
+Speaker 3: What for?
+
+234
+00:11:55,520 --> 00:11:57,100
+Speaker 10: We brought you your school bulletins.
+
+235
+00:12:02,580 --> 00:12:06,840
+Speaker 11: I'm sorry. I kind of cleaned up. It was just trash, right?
+
+236
+00:12:06,940 --> 00:12:07,020
+Speaker 11: - I...
+
+237
+00:12:11,360 --> 00:12:11,720
+Speaker 8: Thank you.
+
+238
+00:12:16,940 --> 00:12:20,520
+Speaker 10: Man, you Ava pilots sure are a bunch of wackos, huh?
+
+239
+00:12:29,880 --> 00:12:30,320
+Speaker 10: Thank
+
+240
+00:12:30,320 --> 00:12:30,560
+Speaker 3: you.
+
+241
+00:12:31,940 --> 00:12:33,060
+Speaker 3: Words of gratitude.
+
+242
+00:12:34,660 --> 00:12:36,020
+Speaker 3: Words I've never used.
+
+243
+00:12:38,780 --> 00:12:39,860
+Speaker 3: Not even with him.
+
+244
+00:12:49,260 --> 00:12:51,820
+Speaker 12: The city. A paradise made by mankind.
+
+245
+00:12:53,220 --> 00:12:57,720
+Speaker 7: Driven from paradise, man escaped to this earthly existence on the edge of death.
+
+246
+00:12:59,080 --> 00:13:03,240
+Speaker 7: Created by the weakest of beings, created by the sapience born from that weakness,
+
+247
+00:13:03,780 --> 00:13:05,680
+Speaker 7: this paradise is our creation.
+
+248
+00:13:06,680 --> 00:13:09,020
+Speaker 12: To protect ourselves from the fear death instills,
+
+249
+00:13:09,640 --> 00:13:14,200
+Speaker 12: To satiate our beings with pleasure, we created a paradise by and of ourselves.
+
+250
+00:13:14,880 --> 00:13:18,940
+Speaker 12: This city surely is such a paradise. A city designed and built to
+
+251
+00:13:18,940 --> 00:13:19,500
+Speaker 7: protect us.
+
+252
+00:13:19,680 --> 00:13:23,960
+Speaker 7: A city for those who run in fear from the outside world. The world of our enemies.
+
+253
+00:13:26,720 --> 00:13:30,160
+Speaker 7: Of course, cowards do tend to live longer. That's
+
+254
+00:13:30,160 --> 00:13:30,680
+Speaker 12: one benefit.
+
+255
+00:13:31,280 --> 00:13:31,820
+Speaker 17: The
+
+256
+00:13:31,820 --> 00:13:34,940
+Speaker 12: third new Tokyo. Nerve's hidden intercept base.
+
+257
+00:13:35,120 --> 00:13:39,880
+Speaker 12: And now, the long-delayed seventh construction phase is about to be finished at last.
+
+258
+00:13:40,200 --> 00:13:41,000
+Speaker 12: It's almost complete.
+
+259
+00:13:44,600 --> 00:13:49,360
+Speaker 12: Now, about Unit 4's accident, how will you present that to the committee?
+
+260
+00:13:50,300 --> 00:13:53,000
+Speaker 12: With the facts. The cause is unknown.
+
+261
+00:13:54,140 --> 00:13:56,680
+Speaker 12: But this was a major catastrophe.
+
+262
+00:13:57,380 --> 00:13:59,560
+Speaker 7: It was of no consequence to us.
+
+263
+00:14:00,120 --> 00:14:04,500
+Speaker 7: The S-2 engine sample may have been lost, but the data is still in Germany.
+
+264
+00:14:04,900 --> 00:14:07,480
+Speaker 7: This installation and Unit 1 will be sufficient.
+
+265
+00:14:07,920 --> 00:14:09,920
+Speaker 7: But the committee is in a total panic!
+
+266
+00:14:11,100 --> 00:14:13,320
+Speaker 7: Of course they're panicked. It wasn't scheduled.
+
+267
+00:14:13,760 --> 00:14:16,160
+Speaker 12: Yes. Zele must be busy rewriting
+
+268
+00:14:16,160 --> 00:14:17,220
+Speaker 7: their schedules now.
+
+269
+00:14:17,920 --> 00:14:22,800
+Speaker 7: Incidents not depicted in the Dead Sea Scrolls may occur. This should teach the old men a lesson.
+
+270
+00:14:27,720 --> 00:14:30,140
+Speaker 7: The Intercept system is completed, and they're not going to have any
+
+271
+00:14:30,140 --> 00:14:30,780
+Speaker 5: party for it?
+
+272
+00:14:31,120 --> 00:14:35,160
+Speaker 5: NERVE has got to be the most inflexible and stifling organization on Earth!
+
+273
+00:14:35,500 --> 00:14:37,480
+Speaker 5: Well, it's because of Commander Ikari.
+
+274
+00:14:38,060 --> 00:14:38,980
+Speaker 5: And are you
+
+275
+00:14:38,980 --> 00:14:39,720
+Speaker 15: approved too?
+
+276
+00:14:40,180 --> 00:14:41,940
+Speaker 15: I don't think that's pertinent data, sir.
+
+277
+00:14:42,260 --> 00:14:45,300
+Speaker 15: And I'm going to have to tell Major Katsuragi and Dr. Akagi about this.
+
+278
+00:14:45,680 --> 00:14:47,260
+Speaker 5: Not if I cover your mouth with
+
+279
+00:14:47,260 --> 00:14:47,540
+Speaker 15: mine.
+
+280
+00:14:47,560 --> 00:14:48,720
+Speaker 15: Kashi! How's it going?
+
+281
+00:14:49,060 --> 00:14:51,060
+Speaker 5: Uh, well, it's going, I guess.
+
+282
+00:14:51,520 --> 00:14:53,720
+Speaker 3: Oh, I have work to do. Excuse me?
+
+283
+00:14:54,240 --> 00:14:56,960
+Speaker 3: Far be it for me to make judgments on your private life,
+
+284
+00:14:56,980 --> 00:15:02,680
+Speaker 3: But under the current situation, is it wise to be hitting on girls who are under certain chains of command?
+
+285
+00:15:03,200 --> 00:15:06,620
+Speaker 5: Who's under who's not your concern? Would you prefer to be hit on?
+
+286
+00:15:07,280 --> 00:15:12,120
+Speaker 3: That depends on how you answer this. You know the secrets behind the Marduk Institute and that Adam thing, right?
+
+287
+00:15:13,180 --> 00:15:13,960
+Speaker 3: What secrets?
+
+288
+00:15:14,580 --> 00:15:15,580
+Speaker 3: Don't play games!
+
+289
+00:15:15,980 --> 00:15:17,660
+Speaker 5: Asking for help isn't like you, Misato.
+
+290
+00:15:18,340 --> 00:15:25,800
+Speaker 3: Well, I'm asking, Kaji. Something stinks here. The way the fourth child was found was too convenient. Something funny's going on.
+
+291
+00:15:26,060 --> 00:15:27,060
+Speaker 5: I'll tell you one thing.
+
+292
+00:15:30,240 --> 00:15:34,160
+Speaker 5: The Marduk Institute doesn't exist. Nerve is pulling the strings all by itself.
+
+293
+00:15:34,840 --> 00:15:37,540
+Speaker 3: Nerve's pulling the strings? Commander Ikari?
+
+294
+00:15:38,300 --> 00:15:39,740
+Speaker 5: 707 is a good starting place.
+
+295
+00:15:40,140 --> 00:15:43,560
+Speaker 3: Code 707? But isn't that Shinji's school?
+
+296
+00:15:44,779 --> 00:15:45,220
+Speaker 3: Misato...
+
+297
+00:15:45,480 --> 00:15:46,040
+Speaker 3: Yes?
+
+298
+00:15:47,040 --> 00:15:49,580
+Speaker 3: Ritsuko says she's expecting you for a meeting about tomorrow's trip.
+
+299
+00:15:49,980 --> 00:15:52,460
+Speaker 3: All right, thank you. I'll see you later.
+
+300
+00:15:53,180 --> 00:15:53,620
+Speaker 5: Uh-huh.
+
+301
+00:15:57,680 --> 00:15:59,480
+Speaker 5: So, can I buy you a drink, cup of tea?
+
+302
+00:16:00,460 --> 00:16:01,820
+Speaker 11: Kaji, I'm a boy.
+
+303
+00:16:07,180 --> 00:16:09,800
+Speaker 11: I thought you'd be a more serious person, Kaji.
+
+304
+00:16:10,720 --> 00:16:14,680
+Speaker 5: You're saying that to someone as straight arrow and reliable as me, Mr. Ikari?
+
+305
+00:16:15,380 --> 00:16:16,680
+Speaker 5: I... I'm sorry.
+
+306
+00:16:17,380 --> 00:16:20,480
+Speaker 5: I'm sorry, too. I didn't mean to sound rude.
+
+307
+00:16:21,840 --> 00:16:24,120
+Speaker 5: Hey, I want to show you something.
+
+308
+00:16:27,640 --> 00:16:28,280
+Speaker 2: You grow
+
+309
+00:16:28,280 --> 00:16:29,620
+Speaker 18: melons?
+
+310
+00:16:30,240 --> 00:16:31,020
+Speaker 5: Yeah, aren't they cute?
+
+311
+00:16:31,690 --> 00:16:32,380
+Speaker 5: This is my hobby.
+
+312
+00:16:33,240 --> 00:16:34,540
+Speaker 5: But keep it a secret, okay?
+
+313
+00:16:36,000 --> 00:16:37,980
+Speaker 5: Making something grow is really great.
+
+314
+00:16:38,560 --> 00:16:40,900
+Speaker 5: One can see and learn so many things from the process.
+
+315
+00:16:41,680 --> 00:16:42,700
+Speaker 5: It also brings pleasure.
+
+316
+00:16:43,420 --> 00:16:44,560
+Speaker 5: But pain too, right?
+
+317
+00:16:47,920 --> 00:16:48,840
+Speaker 5: Do you hate pain?
+
+318
+00:16:50,260 --> 00:16:51,480
+Speaker 5: I don't like it.
+
+319
+00:16:51,980 --> 00:16:54,540
+Speaker 5: Ah, but have you found what gives you pleasure?
+
+320
+00:16:57,000 --> 00:16:58,220
+Speaker 5: That's not so bad.
+
+321
+00:16:58,830 --> 00:17:02,100
+Speaker 5: If you've known pain and hardship, it's easier to be kind to others.
+
+322
+00:17:02,680 --> 00:17:04,140
+Speaker 5: Being kind isn't a weakness.
+
+323
+00:17:06,580 --> 00:17:07,959
+Speaker 5: Hello? Yes?
+
+324
+00:17:11,140 --> 00:17:14,100
+Speaker 5: It's Katsuragi. The sync test will be starting soon.
+
+325
+00:17:16,520 --> 00:17:19,800
+Speaker 8: I was afraid of this. Shinji's sync ratio is dropping.
+
+326
+00:17:19,819 --> 00:17:21,180
+Speaker 8: And what's that mean?
+
+327
+00:17:21,600 --> 00:17:26,220
+Speaker 8: I can't say for sure, but I think that something may have happened to him during that last incident.
+
+328
+00:17:26,959 --> 00:17:28,140
+Speaker 8: Something's affected him.
+
+329
+00:17:28,439 --> 00:17:31,240
+Speaker 8: This makes it even harder to tell him about the pilot.
+
+330
+00:17:31,700 --> 00:17:34,400
+Speaker 8: Well, the new pilot will be informed officially tomorrow.
+
+331
+00:17:38,360 --> 00:17:40,780
+Speaker 9: Everyone stand up! Dismissed!
+
+332
+00:17:42,120 --> 00:17:43,980
+Speaker 11: All right! Lunchtime!
+
+333
+00:17:44,600 --> 00:17:45,920
+Speaker 9: Report to the principal's
+
+334
+00:17:45,920 --> 00:17:46,180
+Speaker 3: office.
+
+335
+00:17:46,720 --> 00:17:47,240
+Speaker 14: What?
+
+336
+00:17:48,540 --> 00:17:49,500
+Speaker 11: What'd you do now?
+
+337
+00:17:52,100 --> 00:17:53,580
+Speaker 11: I don't know.
+
+338
+00:17:57,000 --> 00:17:57,960
+Speaker 10: Excuse me,
+
+339
+00:17:58,160 --> 00:17:58,620
+Speaker 14: I'm
+
+340
+00:17:58,620 --> 00:17:59,600
+Speaker 10: Toji Suzuhara.
+
+341
+00:17:59,880 --> 00:18:00,540
+Speaker 11: You're Toji
+
+342
+00:18:00,540 --> 00:18:01,040
+Speaker 1: Suzuhara?
+
+343
+00:18:03,980 --> 00:18:05,940
+Speaker 1: How was your trip to New Yokosuka?
+
+344
+00:18:06,220 --> 00:18:07,920
+Speaker 11: Oh, it was way cool.
+
+345
+00:18:08,540 --> 00:18:11,540
+Speaker 11: Speaking of which, I did pick up some disturbing information.
+
+346
+00:18:12,940 --> 00:18:14,060
+Speaker 11: EVA Unit 3?
+
+347
+00:18:14,590 --> 00:18:16,580
+Speaker 11: Yeah, the one they built in the U.S.
+
+348
+00:18:16,880 --> 00:18:18,140
+Speaker 11: It's been completed, hasn't it?
+
+349
+00:18:18,940 --> 00:18:19,540
+Speaker 11: I don't know.
+
+350
+00:18:20,140 --> 00:18:21,900
+Speaker 11: I know it's classified, but come on.
+
+351
+00:18:22,210 --> 00:18:23,280
+Speaker 11: You gotta tell me something.
+
+352
+00:18:23,780 --> 00:18:25,120
+Speaker 11: But I really don't know.
+
+353
+00:18:25,340 --> 00:18:27,460
+Speaker 11: Haven't you heard the rumor that the activation test
+
+354
+00:18:27,530 --> 00:18:29,960
+Speaker 11: will be held at the second test facility in Matsushiro?
+
+355
+00:18:30,520 --> 00:18:31,500
+Speaker 11: No, I hadn't.
+
+356
+00:18:31,720 --> 00:18:33,400
+Speaker 11: Then the pilot hasn't been chosen yet?
+
+357
+00:18:34,100 --> 00:18:35,180
+Speaker 11: How would I know?
+
+358
+00:18:35,640 --> 00:18:37,400
+Speaker 11: Misato could choose me for the position.
+
+359
+00:18:37,940 --> 00:18:39,420
+Speaker 11: Shinji, would you ask her for me?
+
+360
+00:18:39,690 --> 00:18:41,620
+Speaker 11: I really want to be an EVA pilot.
+
+361
+00:18:42,100 --> 00:18:43,760
+Speaker 11: I don't know if she could or not.
+
+362
+00:18:44,640 --> 00:18:44,860
+Speaker 11: Hmm.
+
+363
+00:18:46,100 --> 00:18:48,900
+Speaker 11: Well, what about the story that Unit 4 was lost?
+
+364
+00:18:49,520 --> 00:18:50,460
+Speaker 11: Was lost?
+
+365
+00:18:50,760 --> 00:18:51,780
+Speaker 11: You really didn't know?
+
+366
+00:18:52,320 --> 00:18:54,500
+Speaker 11: It disappeared along with the entire second branch.
+
+367
+00:18:55,120 --> 00:18:56,860
+Speaker 11: My dad's whole section was in a panic.
+
+368
+00:18:57,420 --> 00:18:58,480
+Speaker 11: Are you sure?
+
+369
+00:18:58,780 --> 00:18:59,840
+Speaker 11: I've got my sources.
+
+370
+00:19:00,740 --> 00:19:02,280
+Speaker 17: Misato didn't tell me anything.
+
+371
+00:19:04,360 --> 00:19:08,040
+Speaker 11: Well, you know, I guess it doesn't directly concern the pilots.
+
+372
+00:19:08,300 --> 00:19:10,880
+Speaker 11: If she didn't tell you, it's probably because you don't need to know.
+
+373
+00:19:12,820 --> 00:19:15,320
+Speaker 11: I'm sorry about bothering you with all these weird questions.
+
+374
+00:19:17,700 --> 00:19:19,220
+Speaker 11: - Hasn't Toji come back yet?
+
+375
+00:19:20,760 --> 00:19:24,820
+Speaker 2: - Thus we, mankind, survived the hell called Second Impact
+
+376
+00:19:25,460 --> 00:19:26,160
+Speaker 2: and rose again.
+
+377
+00:19:26,410 --> 00:19:28,040
+Speaker 2: The number of children have been decreasing
+
+378
+00:19:28,130 --> 00:19:29,240
+Speaker 2: on a year-to-year basis.
+
+379
+00:19:29,920 --> 00:19:31,460
+Speaker 2: - Uh, sorry I'm late.
+
+380
+00:19:31,760 --> 00:19:33,460
+Speaker 2: - I know about it. Be seated.
+
+381
+00:19:33,920 --> 00:19:35,880
+Speaker 2: Anyway, it is you, the younger generation,
+
+382
+00:19:36,260 --> 00:19:37,840
+Speaker 2: who will lead the way to the future.
+
+383
+00:19:41,480 --> 00:19:42,840
+Speaker 19: - Let's get out of here!
+
+384
+00:19:43,760 --> 00:19:44,260
+Speaker 19: - And Toji?
+
+385
+00:19:44,340 --> 00:19:47,740
+Speaker 19: Oh, he's gonna be here late. He's got clean-up duty today.
+
+386
+00:19:57,840 --> 00:20:00,660
+Speaker 17: The school is now closing. All students
+
+387
+00:20:00,660 --> 00:20:02,100
+Speaker 9: must go to their homes immediately.
+
+388
+00:20:02,120 --> 00:20:02,780
+Speaker 9: Um, Suzahara?
+
+389
+00:20:03,040 --> 00:20:03,220
+Speaker 10: Huh?
+
+390
+00:20:04,620 --> 00:20:05,800
+Speaker 9: You're... on clean-up duty.
+
+391
+00:20:07,280 --> 00:20:10,160
+Speaker 9: You have to line up these desks and clean off the blackboards.
+
+392
+00:20:10,760 --> 00:20:14,280
+Speaker 10: I haven't had lunch yet. I'll do it as soon as I've eaten.
+
+393
+00:20:14,620 --> 00:20:16,840
+Speaker 9: Do you always buy your lunch from the school shop?
+
+394
+00:20:17,820 --> 00:20:20,480
+Speaker 10: Well, of course. There's no one at home who can cook.
+
+395
+00:20:22,440 --> 00:20:22,960
+Speaker 9: Suzuhara?
+
+396
+00:20:25,240 --> 00:20:28,900
+Speaker 9: I have two sisters. Their names are Kadami and Nozomi,
+
+397
+00:20:29,500 --> 00:20:32,040
+Speaker 9: and I always make lunches for them every day.
+
+398
+00:20:32,440 --> 00:20:33,580
+Speaker 10: That's a lot of work.
+
+399
+00:20:33,940 --> 00:20:38,500
+Speaker 9: I am actually a pretty good cook, though I guess you might not expect that.
+
+400
+00:20:38,900 --> 00:20:39,020
+Speaker 10: Hmm?
+
+401
+00:20:40,300 --> 00:20:43,980
+Speaker 9: And you see, I always end up cooking too much for our lunches.
+
+402
+00:20:44,840 --> 00:20:46,420
+Speaker 10: That's definitely a waste.
+
+403
+00:20:47,120 --> 00:20:49,600
+Speaker 10: If you need help getting rid of the leftovers, I'll help.
+
+404
+00:20:51,620 --> 00:20:52,380
+Speaker 9: Yes, please.
+
+405
+00:21:00,640 --> 00:21:01,380
+Speaker 16: Hi, Akaji!
+
+406
+00:21:01,580 --> 00:21:02,400
+Speaker 16: Oh, Asuka.
+
+407
+00:21:02,580 --> 00:21:04,620
+Speaker 5: Sorry, I'm busy right now. Can it wait?
+
+408
+00:21:06,600 --> 00:21:08,180
+Speaker 16: Do you have time for Misato?
+
+409
+00:21:08,240 --> 00:21:08,260
+Speaker 16: No.
+
+410
+00:21:11,440 --> 00:21:11,980
+Speaker 16: Gaji!
+
+411
+00:21:12,940 --> 00:21:14,700
+Speaker 5: Dammit! Not right now.
+
+412
+00:21:15,620 --> 00:21:18,280
+Speaker 16: Oh, these are our sync data reports.
+
+413
+00:21:19,040 --> 00:21:23,940
+Speaker 16: Huh? Four? Oh my god, the hammer! It can't be!
+
+414
+00:21:24,400 --> 00:21:26,540
+Speaker 16: Who in the hell made him the fourth child?
+
+415
+00:21:27,120 --> 00:21:28,680
+Speaker 16: I won't stand for it!
+
+416
+00:21:57,960 --> 00:21:59,200
+*Loud noise*
+
+417
+00:22:01,920 --> 00:22:02,700
+I'm not sure what you're doing
+
+418
+00:22:30,880 --> 00:22:33,660
+Speaker 18: Fill my heart with songs
+
+419
+00:22:34,060 --> 00:22:37,040
+Speaker 18: And let me sing forevermore
+
+420
+00:22:38,500 --> 00:22:40,960
+Speaker 18: You are all I long for
+
+421
+00:22:41,260 --> 00:22:43,900
+Speaker 18: All I worship and adore
+
+422
+00:22:45,240 --> 00:22:47,000
+Speaker 18: In other words
+
+423
+00:22:48,040 --> 00:22:49,620
+Speaker 17: Please be true
+
+424
+00:22:51,920 --> 00:22:53,660
+Speaker 17: In other words
+
+425
+00:22:54,600 --> 00:22:57,120
+I love you
+
+426
+00:22:57,140 --> 00:23:03,360
+Another one, I love you.
+
