@@ -1,0 +1,9892 @@
+1
+00:00:02,860 --> 00:00:04,760
+Hi, my name is Amanda Wyn Lee.
+
+2
+00:00:05,160 --> 00:00:09,520
+I wrote the script, I directed and produced the Evangelion movies,
+
+3
+00:00:09,940 --> 00:00:11,480
+and this is the commentary.
+
+4
+00:00:12,340 --> 00:00:12,500
+Yay!
+
+5
+00:00:14,820 --> 00:00:16,100
+Hi, I'm Jason Lee.
+
+6
+00:00:16,260 --> 00:00:19,300
+I was co-producer on the Evangelion movies,
+
+7
+00:00:19,540 --> 00:00:21,520
+and also I play the voice of Aoba.
+
+8
+00:00:23,060 --> 00:00:24,200
+And I'm Taliesin Jaffe.
+
+9
+00:00:24,400 --> 00:00:28,480
+I'm a voice actor, General Eva Monkey,
+
+10
+00:00:28,740 --> 00:00:29,840
+and color commentary for this
+
+11
+00:00:29,840 --> 00:00:30,160
+commentary.
+
+12
+00:00:30,910 --> 00:00:32,980
+- Oh yes, and I also played Ray and Yui.
+
+13
+00:00:33,230 --> 00:00:34,280
+I forgot about that part.
+
+14
+00:00:34,340 --> 00:00:35,140
+- They don't wanna know about that.
+
+15
+00:00:35,160 --> 00:00:35,380
+- They don't
+
+16
+00:00:35,380 --> 00:00:35,840
+care about that.
+
+17
+00:00:35,920 --> 00:00:36,320
+- Not at all.
+
+18
+00:00:36,320 --> 00:00:36,920
+- No one cares about that.
+
+19
+00:00:37,220 --> 00:00:40,740
+And this is the section of 1001 Logos.
+
+20
+00:00:40,920 --> 00:00:41,160
+- Yeah,
+
+21
+00:00:41,340 --> 00:00:44,340
+apparently everybody but the Chrysler Corporation
+
+22
+00:00:44,530 --> 00:00:46,800
+was involved in the logo process here.
+
+23
+00:00:49,540 --> 00:00:51,080
+This is literally like two minutes of logos.
+
+24
+00:00:51,820 --> 00:00:54,080
+- It took a lot to get this film going.
+
+25
+00:00:54,200 --> 00:00:56,100
+Apparently a lot of people wanted to be involved with it.
+
+26
+00:00:56,140 --> 00:00:57,520
+- Wow, we, on our end,
+
+27
+00:00:57,640 --> 00:00:59,340
+We know that this film takes a lot.
+
+28
+00:00:59,570 --> 00:01:02,520
+All right, let me just, a little disclaimer ahead of time here.
+
+29
+00:01:03,520 --> 00:01:08,660
+If there's a little levity on this commentary track, please forgive us, but this movie was
+
+30
+00:01:08,760 --> 00:01:11,680
+so intense and serious, we thought it was definitely necessary.
+
+31
+00:01:12,100 --> 00:01:15,160
+So Taliesin will be providing serious stuff, plenty of
+
+32
+00:01:15,160 --> 00:01:16,640
+that for all
+
+33
+00:01:16,640 --> 00:01:18,080
+of us, but you'll learn
+
+34
+00:01:18,180 --> 00:01:21,720
+a lot and you'll learn a bit about the dub process that we did.
+
+35
+00:01:22,420 --> 00:01:30,120
+Okay, I am especially proud of this opening scene because the dialogue was so hard to translate.
+
+36
+00:01:30,240 --> 00:01:36,580
+We had three different translators working on this one scene until we got it line for line.
+
+37
+00:01:36,600 --> 00:01:39,360
+The problem is there's three different conversations that are overlapping,
+
+38
+00:01:40,100 --> 00:01:42,240
+and so it's just
+
+39
+00:01:42,240 --> 00:01:42,900
+difficult
+
+40
+00:01:42,900 --> 00:01:44,900
+to pick out who is saying what.
+
+41
+00:01:45,020 --> 00:01:48,240
+But I was really proud of this. I thought we pretty much nailed this one.
+
+42
+00:01:48,320 --> 00:01:54,180
+Yeah, if you check out the subtitle also, you'll find that the three conversations going on right now, there's this, there's a
+
+43
+00:01:54,180 --> 00:01:55,440
+id
+
+44
+00:01:55,440 --> 00:01:56,960
+ego, super ego thing going on.
+
+45
+00:01:56,990 --> 00:02:00,100
+We have a pleasure center over on the left complaining about the food and about the smoking.
+
+46
+00:02:00,300 --> 00:02:01,860
+We've got the scientists trying to figure everything out.
+
+47
+00:02:02,000 --> 00:02:07,840
+And we have Gendo as the super ego just laughing at everybody else trying to deal with this.
+
+48
+00:02:08,140 --> 00:02:08,660
+Wow, that's
+
+49
+00:02:08,660 --> 00:02:09,340
+pretty deep.
+
+50
+00:02:09,619 --> 00:02:10,899
+That is really deep, Taliesin.
+
+51
+00:02:10,940 --> 00:02:11,160
+We'll have
+
+52
+00:02:11,160 --> 00:02:11,600
+more of that.
+
+53
+00:02:11,620 --> 00:02:14,980
+I told you, Towson, we'll be the deep part of the commentary,
+
+54
+00:02:15,380 --> 00:02:17,220
+and I will be the superficial part,
+
+55
+00:02:17,220 --> 00:02:18,300
+and Amanda will be the...
+
+56
+00:02:18,540 --> 00:02:19,080
+Bubbly part.
+
+57
+00:02:19,200 --> 00:02:23,240
+Bubbly, nuts and bolts part of the whole deal.
+
+58
+00:02:24,700 --> 00:02:25,660
+But yeah, the opening sequence,
+
+59
+00:02:26,200 --> 00:02:28,400
+we literally had several translators working on it,
+
+60
+00:02:28,460 --> 00:02:30,980
+and even they were going,
+
+61
+00:02:31,140 --> 00:02:32,960
+there's too much stuff going on,
+
+62
+00:02:33,100 --> 00:02:35,700
+so we put them through their paces as well.
+
+63
+00:02:36,580 --> 00:02:38,900
+But I think we were very all happy the way it came out.
+
+64
+00:02:40,260 --> 00:02:41,560
+I'm hoping English
+
+65
+00:02:41,560 --> 00:02:46,360
+audiences are going to get a lot more out of this than even the Japanese audiences did.
+
+66
+00:02:46,380 --> 00:02:48,180
+You can really pick out a lot more.
+
+67
+00:02:49,440 --> 00:02:53,840
+Well, how the second impact just happened, and half the world dies now.
+
+68
+00:02:54,360 --> 00:02:55,220
+I hate it when that happens.
+
+69
+00:02:55,980 --> 00:03:02,360
+Now, it was interesting, with the sound design for this, our basic motto was,
+
+70
+00:03:02,480 --> 00:03:06,260
+if you don't feel the rumble in your rear end, then it doesn't count as an explosion.
+
+71
+00:03:07,140 --> 00:03:11,600
+So, Sean did an amazing job with the 5.1 surround mix.
+
+72
+00:03:11,600 --> 00:03:12,000
+Sean being
+
+73
+00:03:12,000 --> 00:03:14,000
+the sound mixer.
+
+74
+00:03:14,140 --> 00:03:14,640
+Sound god.
+
+75
+00:03:15,240 --> 00:03:20,120
+On the 5.1 mix, which I think we're also proud of the 5.1 mix.
+
+76
+00:03:20,410 --> 00:03:23,140
+Especially that opening sequence, you should have heard it coming from all kinds of places.
+
+77
+00:03:23,380 --> 00:03:26,700
+So, you could thank Sean for just the mastery of that.
+
+78
+00:03:26,800 --> 00:03:29,480
+If you didn't get that, you have to buy more expensive equipment right now.
+
+79
+00:03:29,660 --> 00:03:29,860
+Exactly.
+
+80
+00:03:30,370 --> 00:03:31,120
+Oh, before you
+
+81
+00:03:31,120 --> 00:03:33,180
+continue watching, go buy a 5.1.
+
+82
+00:03:33,380 --> 00:03:34,260
+If you do not have it, yes.
+
+83
+00:03:34,260 --> 00:03:35,640
+We won't come to your house, certainly not.
+
+84
+00:03:35,740 --> 00:03:35,820
+No.
+
+85
+00:03:36,540 --> 00:03:37,040
+This is
+
+86
+00:03:37,040 --> 00:03:42,040
+Alison Keith and Aaron Crone, both of whom I absolutely love and adore.
+
+87
+00:03:42,320 --> 00:03:44,940
+Alison Keith is a really, really good friend of mine.
+
+88
+00:03:45,380 --> 00:03:46,620
+She was actually in our wedding.
+
+89
+00:03:47,160 --> 00:03:47,720
+Yes, she was.
+
+90
+00:03:49,320 --> 00:03:50,220
+Wonderful actress.
+
+91
+00:03:50,460 --> 00:03:54,740
+She flew in from New York just to reprise the role of Miss Tato.
+
+92
+00:03:56,680 --> 00:03:56,980
+Did an
+
+93
+00:03:56,980 --> 00:03:57,740
+amazing job.
+
+94
+00:03:57,940 --> 00:04:02,740
+Do you want to talk about the bi-coastal, or it was bi-coastal, Gulf Coast and West Coast
+
+95
+00:04:02,740 --> 00:04:04,480
+difficulties
+
+96
+00:04:04,480 --> 00:04:05,340
+of doing this?
+
+97
+00:04:06,200 --> 00:04:10,060
+Getting all the actors in one place was very, very difficult.
+
+98
+00:04:10,080 --> 00:04:12,140
+We actually recorded in three different studios.
+
+99
+00:04:12,600 --> 00:04:12,780
+Oh,
+
+100
+00:04:12,900 --> 00:04:16,739
+just a quick note, this scene was actually in the original series,
+
+101
+00:04:17,060 --> 00:04:19,079
+but it was cut from the television broadcast.
+
+102
+00:04:19,079 --> 00:04:21,000
+I don't have any stupid little kids.
+
+103
+00:04:21,400 --> 00:04:23,340
+My heart belongs to you, Kaji.
+
+104
+00:04:25,720 --> 00:04:28,800
+Mama! Mama! They chose me!
+
+105
+00:04:29,340 --> 00:04:31,100
+I'm an elite pilot now!
+
+106
+00:04:31,560 --> 00:04:33,080
+I'm the best in the whole world!
+
+107
+00:04:35,620 --> 00:04:39,220
+There's a director's cut of the television series wandering around of Part 2.
+
+108
+00:04:40,290 --> 00:04:43,380
+And Asuka basically throws herself at Kaji, undoes her blouse,
+
+109
+00:04:43,760 --> 00:04:45,980
+says "Take me, take me, you wild, passionate thing."
+
+110
+00:04:46,160 --> 00:04:47,720
+And he says, "No!"
+
+111
+00:04:47,720 --> 00:04:48,560
+He's so cool.
+
+112
+00:04:49,200 --> 00:04:51,120
+I want to be him when I grow up.
+
+113
+00:04:52,380 --> 00:04:54,580
+And this is the wonderful Tiffany Grant...
+
+114
+00:04:55,639 --> 00:04:59,020
+...doing one of the most traumatizing scenes known to anime.
+
+115
+00:04:59,800 --> 00:05:01,820
+It's wonderful we introduce her at the hanging scene.
+
+116
+00:05:02,880 --> 00:05:03,980
+I need you to concentrate.
+
+117
+00:05:04,420 --> 00:05:04,560
+I'm
+
+118
+00:05:04,560 --> 00:05:05,420
+trying to.
+
+119
+00:05:05,420 --> 00:05:06,140
+There is Sue Uluas
+
+120
+00:05:06,140 --> 00:05:07,780
+Ritsko reprising her role.
+
+121
+00:05:08,400 --> 00:05:09,260
+What do you think it means,
+
+122
+00:05:09,480 --> 00:05:09,580
+ma'am?
+
+123
+00:05:09,680 --> 00:05:10,860
+That is Amy Seeley
+
+124
+00:05:10,860 --> 00:05:12,640
+doing the role of Ibuki.
+
+125
+00:05:13,660 --> 00:05:13,940
+Originally,
+
+126
+00:05:14,260 --> 00:05:15,680
+Kendra Spencer did the role.
+
+127
+00:05:16,839 --> 00:05:20,840
+She was not available and basically deferred and said,
+
+128
+00:05:20,840 --> 00:05:24,100
+you know what, find somebody that could do this justice,
+
+129
+00:05:24,420 --> 00:05:25,640
+and I think we did.
+
+130
+00:05:26,040 --> 00:05:27,140
+Absolutely. Amy Seeley
+
+131
+00:05:27,140 --> 00:05:27,600
+is amazing.
+
+132
+00:05:28,760 --> 00:05:30,920
+Oh, this is Tristan McAvery does Gendo.
+
+133
+00:05:31,980 --> 00:05:33,960
+Wonderful, wonderful job with Gendo.
+
+134
+00:05:35,259 --> 00:05:38,160
+And Lauren Chapman was Dr. Akagi.
+
+135
+00:05:38,400 --> 00:05:39,000
+And of course,
+
+136
+00:05:39,120 --> 00:05:40,080
+Spike
+
+137
+00:05:40,080 --> 00:05:40,820
+Spencer.
+
+138
+00:05:43,280 --> 00:05:45,000
+And we haven't heard from Ray yet, have we?
+
+139
+00:05:45,340 --> 00:05:45,420
+No?
+
+140
+00:05:46,120 --> 00:05:46,300
+Nope.
+
+141
+00:05:46,420 --> 00:05:48,040
+She comes a little longer.
+
+142
+00:05:49,960 --> 00:05:54,720
+The effort, though, getting all these actors and studios together for the...
+
+143
+00:05:54,860 --> 00:05:59,580
+Basically, we did part of In Texas to try to get as much of the original cast as we
+
+144
+00:05:59,580 --> 00:05:59,940
+could.
+
+145
+00:06:00,640 --> 00:06:05,940
+And a lot of them still live in Texas, where ADV did the original series.
+
+146
+00:06:06,650 --> 00:06:09,240
+And then a lot of the actors lived in Los Angeles,
+
+147
+00:06:09,520 --> 00:06:15,640
+so we did all the mixing and sound and all that stuff as well.
+
+148
+00:06:16,380 --> 00:06:17,920
+It was a bi-coastal production.
+
+149
+00:06:17,950 --> 00:06:18,260
+It was a
+
+150
+00:06:18,260 --> 00:06:19,080
+bi-coastal production.
+
+151
+00:06:19,250 --> 00:06:22,320
+And I don't think we'll ever do it again, but it was...
+
+152
+00:06:22,780 --> 00:06:24,240
+It was a wonderful learning experience.
+
+153
+00:06:25,260 --> 00:06:25,900
+Oh, there went Ray.
+
+154
+00:06:26,200 --> 00:06:27,080
+She went...
+
+155
+00:06:28,160 --> 00:06:29,120
+Her first gasps.
+
+156
+00:06:31,620 --> 00:06:33,300
+and Shinji's immortal words here,
+
+157
+00:06:33,430 --> 00:06:35,040
+which will run through the rest of the series.
+
+158
+00:06:35,460 --> 00:06:36,700
+Ready? Here it goes.
+
+159
+00:06:37,690 --> 00:06:38,640
+Do it, do it, do it.
+
+160
+00:06:38,970 --> 00:06:40,760
+I must have run away. I must have run away.
+
+161
+00:06:41,050 --> 00:06:41,740
+I must have run away.
+
+162
+00:06:43,440 --> 00:06:43,800
+Yay!
+
+163
+00:06:44,980 --> 00:06:46,720
+A lot of kanji in the--
+
+164
+00:06:48,020 --> 00:06:49,500
+Boy, all over the place in this
+
+165
+00:06:49,500 --> 00:06:49,980
+and--
+
+166
+00:06:50,010 --> 00:06:50,620
+Especially in death.
+
+167
+00:06:50,760 --> 00:06:50,840
+In
+
+168
+00:06:50,840 --> 00:06:51,440
+death.
+
+169
+00:06:52,400 --> 00:06:53,620
+Now, this actually--
+
+170
+00:06:53,980 --> 00:06:59,120
+Aaron Crone also did the voice of Kwaru for this
+
+171
+00:06:59,120 --> 00:07:00,900
+brilliant job I think
+
+172
+00:07:00,900 --> 00:07:01,400
+personally
+
+173
+00:07:01,400 --> 00:07:02,060
+I'll
+
+174
+00:07:02,060 --> 00:07:03,540
+second that one there the
+
+175
+00:07:03,540 --> 00:07:04,300
+original actor
+
+176
+00:07:04,880 --> 00:07:08,620
+Kyle Sturdivant was unavailable we had a hard time finding some of these guys
+
+177
+00:07:08,640 --> 00:07:12,340
+they just kind of disappeared off the face of the earth but Aaron I mean you
+
+178
+00:07:12,360 --> 00:07:17,160
+would he just did a wonderful job if not mimicking taking this to a level I mean
+
+179
+00:07:17,520 --> 00:07:23,120
+the original guy did a wonderful job but Aaron just I mean I just felt this
+
+180
+00:07:23,760 --> 00:07:29,120
+just, Kwaru's humanity just pour through his performance in this. It was pretty amazing.
+
+181
+00:07:29,640 --> 00:07:30,120
+She really
+
+182
+00:07:30,120 --> 00:07:30,880
+did a brilliant job.
+
+183
+00:07:33,460 --> 00:07:38,840
+And we set up for the frame of this entire film, which is this practice at the school
+
+184
+00:07:39,440 --> 00:07:44,080
+with all of our children, the first children, the second children, a third child. We're in English now.
+
+185
+00:07:44,280 --> 00:07:44,640
+That's right.
+
+186
+00:07:45,460 --> 00:07:49,220
+In the original Japanese, they call it the first children instead of the first child.
+
+187
+00:07:49,660 --> 00:07:50,860
+second children, third children.
+
+188
+00:07:52,020 --> 00:07:56,060
+So for those of you who wanted us to remain absolutely hardcore faithful to the original Japanese,
+
+189
+00:07:57,000 --> 00:07:59,340
+I'm sorry, but that just would have sounded stupid.
+
+190
+00:07:59,920 --> 00:08:00,060
+Yeah,
+
+191
+00:08:00,140 --> 00:08:04,380
+most WordPerfect spell checks are intelligent enough to change this.
+
+192
+00:08:04,500 --> 00:08:06,580
+You kind of got to go with WordPerfect occasionally.
+
+193
+00:08:06,860 --> 00:08:11,760
+What was the artistry of moving the, like, the Evangelion was backwards.
+
+194
+00:08:11,940 --> 00:08:13,400
+Was that just kind of a funky, artsy thing?
+
+195
+00:08:13,900 --> 00:08:17,760
+I think it's the Evangelion was backwards for death and then for rebirth.
+
+196
+00:08:18,640 --> 00:08:21,060
+Because we are kind of re-seeing...
+
+197
+00:08:21,220 --> 00:08:23,640
+You want a moment of fun here?
+
+198
+00:08:24,280 --> 00:08:27,920
+There's a definite Christ metaphor for anybody who has watched the show...
+
+199
+00:08:27,920 --> 00:08:29,700
+...and we have Shinji kind of stuck in here.
+
+200
+00:08:30,220 --> 00:08:33,360
+And crucifixion, it's not just a Catholic thing.
+
+201
+00:08:33,360 --> 00:08:35,440
+It goes through various, various religions.
+
+202
+00:08:36,300 --> 00:08:39,780
+And it's all about going into death, looking at death and coming out of it again...
+
+203
+00:08:39,780 --> 00:08:41,840
+...and seeing where you come from afterwards.
+
+204
+00:08:42,560 --> 00:08:43,780
+That's really what's happening here.
+
+205
+00:08:43,880 --> 00:08:46,800
+And this is really what is going on on that level of this film.
+
+206
+00:08:47,500 --> 00:08:50,620
+So it's about going into something and coming out of it again. It's a trial.
+
+207
+00:08:52,100 --> 00:08:52,460
+That's cool.
+
+208
+00:08:52,920 --> 00:08:53,340
+Well, thank
+
+209
+00:08:53,340 --> 00:08:53,440
+you.
+
+210
+00:08:53,800 --> 00:08:55,040
+Removing primary restraints.
+
+211
+00:08:55,340 --> 00:08:56,880
+Removing secondary restraints.
+
+212
+00:08:57,320 --> 00:08:57,440
+Roger.
+
+213
+00:08:57,640 --> 00:09:00,500
+Now we go into our first Eva angel attack.
+
+214
+00:09:01,680 --> 00:09:02,360
+Eva, launch!
+
+215
+00:09:03,060 --> 00:09:10,280
+Oh, it was funny. The original series that they sent us,
+
+216
+00:09:10,320 --> 00:09:14,100
+the sounds of the original series, did not have any of the Eva monster noises.
+
+217
+00:09:15,100 --> 00:09:20,340
+So, Taliesin and Jason actually got into the studio and made all the other noises.
+
+218
+00:09:21,040 --> 00:09:22,040
+As well as the angels.
+
+219
+00:09:22,320 --> 00:09:22,920
+As well as the angels.
+
+220
+00:09:23,220 --> 00:09:26,820
+Except for one specific one. We'll see later.
+
+221
+00:09:26,900 --> 00:09:27,960
+We'll get to that one now.
+
+222
+00:09:29,180 --> 00:09:30,900
+So, now this first one is you, isn't it, Taliesin?
+
+223
+00:09:30,960 --> 00:09:33,220
+Yes, I am Satyel, the angel of water.
+
+224
+00:09:34,080 --> 00:09:37,000
+And angel of Thursdays, which is odd, because I can never quite get the hang of Thursdays.
+
+225
+00:09:37,020 --> 00:09:38,800
+We're having trouble maintaining activation!
+
+226
+00:09:39,580 --> 00:09:43,080
+This kind of cerebrum feel to it with the bird face
+
+227
+00:09:43,360 --> 00:09:45,460
+and kind of the shape of a lot of the original drawings
+
+228
+00:09:45,620 --> 00:09:48,760
+of the six wings and strange multiple heads of angels
+
+229
+00:09:49,040 --> 00:09:50,520
+that they had before they got cute and fluffy.
+
+230
+00:09:51,560 --> 00:09:53,200
+Was this you, Taliesin, or was it? I can't remember.
+
+231
+00:09:53,200 --> 00:09:54,120
+No, that one was Taliesin.
+
+232
+00:09:54,480 --> 00:09:56,700
+I guess that one was me still. We switched off a bit.
+
+233
+00:09:57,060 --> 00:09:59,100
+Our voice would give out and somebody else would
+
+234
+00:09:59,100 --> 00:09:59,660
+come in to
+
+235
+00:09:59,660 --> 00:09:59,900
+take
+
+236
+00:09:59,900 --> 00:10:00,380
+its place.
+
+237
+00:10:00,480 --> 00:10:05,500
+Yeah, it was quite interesting doing all the ava noises.
+
+238
+00:10:05,600 --> 00:10:06,900
+Then we would pitch them, of course.
+
+239
+00:10:07,520 --> 00:10:11,120
+And then we put this effect on it called grumpy flutter, which I just loved.
+
+240
+00:10:11,980 --> 00:10:14,120
+Please compare between the Japanese and the English rule.
+
+241
+00:10:14,220 --> 00:10:16,280
+We want you to hear what we did for this.
+
+242
+00:10:17,820 --> 00:10:18,200
+Personally,
+
+243
+00:10:18,340 --> 00:10:19,600
+I'm really proud of what we did.
+
+244
+00:10:20,300 --> 00:10:23,380
+I thought, see, now that was a Jason growl.
+
+245
+00:10:23,420 --> 00:10:24,120
+That one I recognize.
+
+246
+00:10:24,620 --> 00:10:25,840
+I'm not capable of that.
+
+247
+00:10:26,180 --> 00:10:29,420
+And I don't know if you went into depth about it,
+
+248
+00:10:29,560 --> 00:10:31,680
+but we just didn't have the...
+
+249
+00:10:32,819 --> 00:10:36,940
+A lot of times, say, the Ava noises would be on the M&E track,
+
+250
+00:10:37,100 --> 00:10:41,540
+music and effects track and this happened to be on the dialogue track of the Japanese which
+
+251
+00:10:42,100 --> 00:10:49,020
+we couldn't separate for the 5.1 to clean sound so that's why we recreated it. It wasn't
+
+252
+00:10:49,460 --> 00:10:52,800
+an artistic choice on our part, it was a necessity that we had to do it.
+
+253
+00:10:52,840 --> 00:10:59,540
+Yes, which we did just, we managed to pull that together which it was kind of fun and
+
+254
+00:11:00,060 --> 00:11:02,120
+we got creative with some of the stranger
+
+255
+00:11:02,120 --> 00:11:02,940
+angels.
+
+256
+00:11:04,920 --> 00:11:07,880
+He did actually, by the way, just pierce the soul of that angel with a rib.
+
+257
+00:11:08,010 --> 00:11:08,860
+I don't know what that means.
+
+258
+00:11:09,240 --> 00:11:09,420
+Is
+
+259
+00:11:09,420 --> 00:11:11,780
+that some sort of, yeah, something Adam-esque.
+
+260
+00:11:11,790 --> 00:11:12,160
+There might
+
+261
+00:11:12,160 --> 00:11:12,840
+be something there.
+
+262
+00:11:13,620 --> 00:11:14,160
+I'm not sure.
+
+263
+00:11:14,600 --> 00:11:14,980
+There could be.
+
+264
+00:11:15,040 --> 00:11:16,140
+Maybe he just likes spare ribs.
+
+265
+00:11:18,300 --> 00:11:18,980
+Angels taste like chicken.
+
+266
+00:11:19,400 --> 00:11:20,320
+Angels taste like chicken.
+
+267
+00:11:20,520 --> 00:11:20,780
+Is that true?
+
+268
+00:11:20,830 --> 00:11:20,940
+Very true.
+
+269
+00:11:21,980 --> 00:11:22,340
+Fabulous.
+
+270
+00:11:23,240 --> 00:11:27,540
+And what you'll find, oddly enough, is Masato's apartment is an exact replica of Amanda.
+
+271
+00:11:27,590 --> 00:11:29,540
+We have this exact same apartment.
+
+272
+00:11:29,680 --> 00:11:30,140
+It's very strange.
+
+273
+00:11:30,820 --> 00:11:32,980
+Other than the Krispy Kreme thing, yeah, it's
+
+274
+00:11:32,980 --> 00:11:33,880
+just down there.
+
+275
+00:11:34,280 --> 00:11:35,900
+And she doesn't have a Space Invaders machine.
+
+276
+00:11:37,800 --> 00:11:38,140
+And if you caught,
+
+277
+00:11:38,280 --> 00:11:40,440
+Miss Alda did just move in also, if you caught that too.
+
+278
+00:11:40,620 --> 00:11:41,480
+She moved in yesterday,
+
+279
+00:11:41,820 --> 00:11:42,160
+I think she
+
+280
+00:11:42,160 --> 00:11:42,280
+says.
+
+281
+00:11:42,460 --> 00:11:44,720
+That's why it looks exactly like our apartment at this point.
+
+282
+00:11:45,340 --> 00:11:45,700
+Fantastic.
+
+283
+00:11:46,000 --> 00:11:47,640
+Wish I could destroy apartment that quickly.
+
+284
+00:11:48,440 --> 00:11:50,100
+Now this is a flashback,
+
+285
+00:11:50,520 --> 00:11:52,280
+and we actually have Mike Ross
+
+286
+00:11:52,880 --> 00:11:54,580
+doing the voice of Hugheski.
+
+287
+00:11:55,710 --> 00:11:57,420
+We were unable to find Gil Lundy.
+
+288
+00:11:57,840 --> 00:11:58,200
+He's
+
+289
+00:11:58,200 --> 00:11:58,840
+one of those actors
+
+290
+00:11:58,840 --> 00:11:59,580
+that just disappeared
+
+291
+00:11:59,610 --> 00:11:59,840
+off the
+
+292
+00:11:59,840 --> 00:12:00,360
+face of the earth.
+
+293
+00:12:00,810 --> 00:12:01,420
+But once
+
+294
+00:12:01,420 --> 00:12:03,300
+again, Mike Ross stepped up to the role.
+
+295
+00:12:03,560 --> 00:12:08,900
+He studied it so thoroughly before he even got in the studio that I think he did a really wonderful job.
+
+296
+00:12:10,000 --> 00:12:10,980
+I was very impressed.
+
+297
+00:12:11,780 --> 00:12:12,000
+This
+
+298
+00:12:12,000 --> 00:12:20,080
+next sequence, this kind of flashback, is kind of one of my favorites because Masato gets a little tipsy and Allison's a lot of fun.
+
+299
+00:12:20,320 --> 00:12:21,840
+It comes up in a couple of minutes here.
+
+300
+00:12:24,519 --> 00:12:29,560
+We laughed quite a bit doing the mix on this because there's so many voices layered, especially in this part.
+
+301
+00:12:30,600 --> 00:12:36,200
+Some of the most fun lines we buried, especially when they show up in the bar here in a second.
+
+302
+00:12:38,520 --> 00:12:42,460
+This was an interesting thing because even though these are scenes from the original production,
+
+303
+00:12:43,720 --> 00:12:47,720
+this being a manga production, we had to recreate every single bit of dialogue.
+
+304
+00:12:48,780 --> 00:12:53,380
+So this exchange with Shinji, even though this is layered down, we had to totally redo this again.
+
+305
+00:12:53,820 --> 00:12:55,960
+Which, fan service, which
+
+306
+00:12:55,960 --> 00:12:56,559
+is...
+
+307
+00:12:57,620 --> 00:12:59,860
+She has one of those heart-shaped tinies.
+
+308
+00:13:00,160 --> 00:13:00,280
+Yes.
+
+309
+00:13:01,680 --> 00:13:02,800
+You guys like that kind of thing, huh?
+
+310
+00:13:04,220 --> 00:13:06,640
+I'm not allowed to talk about being attracted to any cartoon.
+
+311
+00:13:07,180 --> 00:13:08,720
+My therapist has advised me to
+
+312
+00:13:08,720 --> 00:13:09,900
+stop anything like
+
+313
+00:13:09,900 --> 00:13:10,080
+that.
+
+314
+00:13:14,000 --> 00:13:15,520
+And on that note...
+
+315
+00:13:15,560 --> 00:13:16,520
+Yes, no...
+
+316
+00:13:16,580 --> 00:13:16,700
+So
+
+317
+00:13:16,700 --> 00:13:24,500
+now this is Spike Spencer, who actually in real life is one of the most hyper, funniest, you know, just sweetest guys I know.
+
+318
+00:13:26,300 --> 00:13:27,800
+So it's funny.
+
+319
+00:13:27,880 --> 00:13:31,300
+I hope that Manka gets to put the outtakes
+
+320
+00:13:31,300 --> 00:13:32,120
+on
+
+321
+00:13:32,120 --> 00:13:34,440
+the DVDs,
+
+322
+00:13:34,600 --> 00:13:37,080
+but Spike would just have so much fun in the studio
+
+323
+00:13:37,580 --> 00:13:40,800
+that we just loved listening to him and just loved playing with him.
+
+324
+00:13:41,960 --> 00:13:42,120
+Spike
+
+325
+00:13:42,120 --> 00:13:43,580
+is a very, very talented actor.
+
+326
+00:13:45,160 --> 00:13:47,980
+The outtakes, especially after working on a show like this
+
+327
+00:13:48,100 --> 00:13:49,620
+after a couple weeks, a couple months...
+
+328
+00:13:49,840 --> 00:13:50,680
+We get pretty punchy.
+
+329
+00:13:51,440 --> 00:13:53,740
+You need to laugh at something after a while.
+
+330
+00:13:55,180 --> 00:13:57,760
+Because it's just... Life gets very gray.
+
+331
+00:13:58,240 --> 00:13:59,660
+Life gets very gray.
+
+332
+00:14:00,080 --> 00:14:02,260
+Once again, excuse our levity, but we really...
+
+333
+00:14:02,260 --> 00:14:06,040
+I mean, if we did not act like this in the studio when we were making this,
+
+334
+00:14:06,420 --> 00:14:07,440
+it would have been a...
+
+335
+00:14:07,880 --> 00:14:10,320
+We would have all thrown ourselves in front of a bus or opened
+
+336
+00:14:10,320 --> 00:14:10,780
+a vein
+
+337
+00:14:10,860 --> 00:14:11,660
+or something comparable.
+
+338
+00:14:12,160 --> 00:14:13,180
+We would have shaved our body.
+
+339
+00:14:15,680 --> 00:14:16,660
+There's Martin, get away!
+
+340
+00:14:18,199 --> 00:14:21,760
+This is Shamahel, by the way, Angel of the Sun.
+
+341
+00:14:23,300 --> 00:14:25,820
+The hierarchy of angels is pretty mixed
+
+342
+00:14:25,820 --> 00:14:28,360
+in
+
+343
+00:14:28,360 --> 00:14:28,900
+Catholicism.
+
+344
+00:14:28,950 --> 00:14:29,620
+They can't really...
+
+345
+00:14:30,170 --> 00:14:32,320
+No one can really decide how many there are, what they do.
+
+346
+00:14:32,760 --> 00:14:34,020
+They don't even know who the archangels are.
+
+347
+00:14:34,160 --> 00:14:36,480
+There's supposed to be seven of them, but there's like 30 that have the title.
+
+348
+00:14:37,820 --> 00:14:39,900
+That one just happens to look like a giant sea anemone,
+
+349
+00:14:40,020 --> 00:14:41,980
+something that I would eat if I were in Japan.
+
+350
+00:14:43,340 --> 00:14:45,020
+Well, no, even if it were 40-story style.
+
+351
+00:14:46,400 --> 00:14:47,240
+One of the stranger
+
+352
+00:14:47,240 --> 00:14:48,440
+of the angel designs.
+
+353
+00:14:48,530 --> 00:14:50,160
+I never quite could trace it to anything.
+
+354
+00:14:51,220 --> 00:14:53,760
+There's one that I always think, I always call it the Picasso painting,
+
+355
+00:14:54,060 --> 00:14:57,020
+the one that was the big eyeball that drips acid.
+
+356
+00:14:57,660 --> 00:14:59,960
+I love the big eyeball that drips acid. That's
+
+357
+00:14:59,960 --> 00:15:00,360
+so wonderful.
+
+358
+00:15:00,640 --> 00:15:02,100
+I call it the Picasso angel.
+
+359
+00:15:02,400 --> 00:15:02,640
+We
+
+360
+00:15:02,640 --> 00:15:03,740
+don't get much of it in this film.
+
+361
+00:15:04,880 --> 00:15:05,180
+I think
+
+362
+00:15:05,180 --> 00:15:08,680
+there's like a brief two-second, two-frame flash or something.
+
+363
+00:15:09,020 --> 00:15:12,880
+Yeah, there's 17, 15 angels in all,
+
+364
+00:15:13,150 --> 00:15:16,680
+and we will be making little notes about all of them at some point in this audio commentary.
+
+365
+00:15:18,420 --> 00:15:20,820
+A lot of them come from, those images do come from places,
+
+366
+00:15:21,060 --> 00:15:22,720
+and a lot of them are just...
+
+367
+00:15:23,510 --> 00:15:25,560
+Probably do, but I'm only one man.
+
+368
+00:15:25,560 --> 00:15:28,240
+There's only so much I can do in 48 hours' notice.
+
+369
+00:15:30,580 --> 00:15:31,880
+So here's Shinji Stalking.
+
+370
+00:15:32,940 --> 00:15:35,280
+We're about to hear Kurt Stoll.
+
+371
+00:15:35,560 --> 00:15:35,940
+We love
+
+372
+00:15:35,940 --> 00:15:36,440
+Kurt Stoll.
+
+373
+00:15:36,440 --> 00:15:36,740
+We love
+
+374
+00:15:36,740 --> 00:15:37,220
+Kurt Stoll.
+
+375
+00:15:38,040 --> 00:15:40,740
+You've heard him in primarily many ADV productions,
+
+376
+00:15:41,000 --> 00:15:45,400
+but he has this wonderful young fighter pilot-type voice
+
+377
+00:15:45,680 --> 00:15:48,260
+that we just love, Kurt Stoll,
+
+378
+00:15:48,420 --> 00:15:52,520
+and we're glad we could bring him back to recreate this role.
+
+379
+00:15:52,720 --> 00:15:53,380
+He's just got this,
+
+380
+00:15:53,480 --> 00:15:54,640
+I
+
+381
+00:15:54,640 --> 00:15:56,940
+don't know, just this youth and vibrancy to his voice.
+
+382
+00:15:57,100 --> 00:15:58,700
+He's like, but I can play older roles.
+
+383
+00:15:58,840 --> 00:15:59,920
+We're like, yes, Kurt, we know, but
+
+384
+00:15:59,920 --> 00:16:02,620
+we love you in these Luke Skywalker-type roles.
+
+385
+00:16:02,920 --> 00:16:02,980
+Totally.
+
+386
+00:16:04,080 --> 00:16:06,320
+They were cooking rice the old-fashioned way, by the way.
+
+387
+00:16:06,420 --> 00:16:09,700
+That little canister, that's the Japanese outdoor.
+
+388
+00:16:10,000 --> 00:16:10,140
+That's
+
+389
+00:16:10,140 --> 00:16:10,760
+the camp cooking.
+
+390
+00:16:11,000 --> 00:16:11,520
+That's camp cooking.
+
+391
+00:16:12,520 --> 00:16:13,300
+Potatoes and tinfoil.
+
+392
+00:16:14,940 --> 00:16:16,400
+Have a Japanese Coleman stove.
+
+393
+00:16:17,720 --> 00:16:18,520
+More or less.
+
+394
+00:16:19,400 --> 00:16:20,140
+Oh, God.
+
+395
+00:16:20,490 --> 00:16:21,000
+Okay, nerve.
+
+396
+00:16:21,460 --> 00:16:22,320
+There's something to talk about.
+
+397
+00:16:22,500 --> 00:16:24,480
+The fig leaf is obvious to anybody.
+
+398
+00:16:25,020 --> 00:16:27,080
+God's in his heavens, all's right with the world
+
+399
+00:16:27,400 --> 00:16:30,200
+is from Pippa Passes by Robert Browning,
+
+400
+00:16:30,860 --> 00:16:32,880
+a 19th century English poet.
+
+401
+00:16:34,200 --> 00:16:36,060
+Read it yourself, figure out what it means.
+
+402
+00:16:36,280 --> 00:16:38,080
+I'm not giving anybody anything on that.
+
+403
+00:16:38,400 --> 00:16:39,680
+I'm trying to get you to buy books.
+
+404
+00:16:39,870 --> 00:16:41,740
+I'm not letting you just purge mine here.
+
+405
+00:16:44,080 --> 00:16:47,180
+It's a very, very fluffy poem about springtime and birds.
+
+406
+00:16:48,160 --> 00:16:51,720
+It's funny that they took such a fluffy poem and made it symbolize this
+
+407
+00:16:51,900 --> 00:16:53,040
+It's a thing of such evil.
+
+408
+00:16:53,040 --> 00:16:54,120
+Dark, powerful,
+
+409
+00:16:55,440 --> 00:16:55,860
+heinous force.
+
+410
+00:16:56,820 --> 00:16:57,200
+Of course,
+
+411
+00:16:57,460 --> 00:16:59,000
+if you're leaving, we'll have to leave.
+
+412
+00:16:59,100 --> 00:16:59,160
+Now
+
+413
+00:16:59,160 --> 00:17:00,340
+this is Brett Weaver.
+
+414
+00:17:00,830 --> 00:17:03,400
+He was one of the three original Tojis.
+
+415
+00:17:03,700 --> 00:17:06,319
+He was kind of like Lionel from the Jeffersons.
+
+416
+00:17:06,390 --> 00:17:09,640
+He was the third Lionel, or third Toji.
+
+417
+00:17:11,640 --> 00:17:16,560
+And we wish we had more for him to do, but Toji in the flashbacks,
+
+418
+00:17:16,620 --> 00:17:20,720
+We, uh, not too much, but he did a great job once again.
+
+419
+00:17:21,060 --> 00:17:22,400
+Shinji, you mustn't run away.
+
+420
+00:17:22,980 --> 00:17:24,959
+You breed them out in a farm on Fresno, right?
+
+421
+00:17:25,100 --> 00:17:26,220
+The toji farm, huh?
+
+422
+00:17:26,920 --> 00:17:27,800
+Yeah, tojis
+
+423
+00:17:27,800 --> 00:17:29,800
+are bred often for
+
+424
+00:17:29,800 --> 00:17:30,180
+sports.
+
+425
+00:17:31,860 --> 00:17:33,100
+Tojis and rays. Tojis and
+
+426
+00:17:33,100 --> 00:17:33,220
+rays.
+
+427
+00:17:34,260 --> 00:17:34,660
+Oh, my?
+
+428
+00:17:35,020 --> 00:17:35,460
+Oh, my.
+
+429
+00:17:37,440 --> 00:17:38,200
+Some of the oddness.
+
+430
+00:17:38,600 --> 00:17:40,160
+It's awesome! The buildings
+
+431
+00:17:40,160 --> 00:17:40,780
+are growing!
+
+432
+00:17:41,700 --> 00:17:41,860
+Just
+
+433
+00:17:41,860 --> 00:17:43,380
+like the little man in my pants.
+
+434
+00:17:44,340 --> 00:17:44,520
+Sorry.
+
+435
+00:17:44,550 --> 00:17:45,080
+I was wondering how
+
+436
+00:17:45,080 --> 00:17:46,420
+long it went before we went that direction.
+
+437
+00:17:47,040 --> 00:17:47,720
+Pay no
+
+438
+00:17:47,720 --> 00:17:51,460
+attention to the phallic metaphor of Man's Hubris here.
+
+439
+00:17:52,480 --> 00:17:55,060
+Titanic will not sink, Tokyo 3 will not fall.
+
+440
+00:17:59,300 --> 00:18:00,740
+Oddly enough, they do capture the look of
+
+441
+00:18:00,740 --> 00:18:01,180
+Tokyo
+
+442
+00:18:01,180 --> 00:18:02,200
+pretty well.
+
+443
+00:18:02,470 --> 00:18:05,320
+What I would imagine Tokyo would look like if they had to start over again.
+
+444
+00:18:06,320 --> 00:18:07,760
+The trains and the...
+
+445
+00:18:08,040 --> 00:18:10,280
+Except there weren't a million people scrunched on the
+
+446
+00:18:10,280 --> 00:18:10,520
+train
+
+447
+00:18:10,520 --> 00:18:10,740
+together.
+
+448
+00:18:11,240 --> 00:18:13,920
+And they didn't have the guy doing the Marlon Brando voice on the train.
+
+449
+00:18:15,160 --> 00:18:19,640
+Often on the Tokyo subways, not speaking Japanese well at all,
+
+450
+00:18:20,460 --> 00:18:23,480
+we don't know what the guy's saying as he's announcing the stops,
+
+451
+00:18:23,720 --> 00:18:27,920
+but every Tokyo subway train driver sounds like Marlon Brando for some reason,
+
+452
+00:18:28,620 --> 00:18:29,840
+and we're not quite sure why.
+
+453
+00:18:30,160 --> 00:18:32,160
+This is a coveted job in Japan, no less.
+
+454
+00:18:33,720 --> 00:18:37,580
+People want to be train drivers, and then they just sound so sad.
+
+455
+00:18:37,700 --> 00:18:39,020
+We believe that mental
+
+456
+00:18:39,020 --> 00:18:40,220
+illness is lost.
+
+457
+00:18:40,360 --> 00:18:41,120
+Calling Shinjuku next time.
+
+458
+00:18:41,140 --> 00:18:42,740
+Causing a strain on the third child's health.
+
+459
+00:18:43,680 --> 00:18:45,100
+He was given four days leave.
+
+460
+00:18:46,200 --> 00:18:47,580
+His status has returned to normal.
+
+461
+00:18:48,140 --> 00:18:48,680
+Enjoy this.
+
+462
+00:18:48,760 --> 00:18:49,780
+This is a shiny, happy Shinji.
+
+463
+00:18:49,840 --> 00:18:52,560
+This is the last time you'll ever see it again.
+
+464
+00:18:53,040 --> 00:18:53,500
+I'm home.
+
+465
+00:18:54,720 --> 00:18:55,040
+Welcome
+
+466
+00:18:55,040 --> 00:18:55,380
+home.
+
+467
+00:18:57,560 --> 00:18:59,460
+And now we move on to our next character.
+
+468
+00:19:00,200 --> 00:19:00,720
+Yay!
+
+469
+00:19:01,400 --> 00:19:05,640
+This is the inimitable Tiffany Grant,
+
+470
+00:19:06,840 --> 00:19:08,280
+reprising her role as Asuka.
+
+471
+00:19:10,100 --> 00:19:11,200
+The feisty redhead.
+
+472
+00:19:11,920 --> 00:19:13,880
+All you have to do is play arpeggios.
+
+473
+00:19:14,240 --> 00:19:17,800
+Also known as the archetypal ex-girlfriend.
+
+474
+00:19:21,139 --> 00:19:27,540
+Many fans at the convention say that all the girls they go to school with remind them of Asuka.
+
+475
+00:19:28,080 --> 00:19:32,420
+Okay, wait, I just have to tell you guys that thing where Pen Pen was snoring, I did that.
+
+476
+00:19:32,520 --> 00:19:34,820
+Amanda did do the...
+
+477
+00:19:35,740 --> 00:19:38,200
+Is that quite a voice or what would you call that?
+
+478
+00:19:38,200 --> 00:19:41,440
+No, I call that a voice. I make my living off of animal voices.
+
+479
+00:19:41,720 --> 00:19:42,960
+That's real work right there.
+
+480
+00:19:44,720 --> 00:19:47,160
+So that's what a penguin sounds like when it's snoring.
+
+481
+00:19:48,860 --> 00:19:50,980
+Oh, this is when Shinji tries to get some.
+
+482
+00:19:55,500 --> 00:19:56,800
+I love the way his eyes bug out.
+
+483
+00:19:59,300 --> 00:20:00,040
+Her tits
+
+484
+00:20:00,040 --> 00:20:00,940
+are bigger there.
+
+485
+00:20:01,480 --> 00:20:02,000
+They're actually...
+
+486
+00:20:02,110 --> 00:20:03,140
+I was just going to say,
+
+487
+00:20:03,420 --> 00:20:06,260
+her breasts deflate as the series goes on.
+
+488
+00:20:07,100 --> 00:20:09,880
+And obviously this is the metaphor.
+
+489
+00:20:11,480 --> 00:20:13,520
+His dat tape is out of control.
+
+490
+00:20:13,920 --> 00:20:14,680
+It's going fast.
+
+491
+00:20:14,820 --> 00:20:15,180
+It's racing.
+
+492
+00:20:18,120 --> 00:20:19,980
+And then we come to the...
+
+493
+00:20:19,980 --> 00:20:20,060
+You
+
+494
+00:20:20,060 --> 00:20:20,380
+know, I...
+
+495
+00:20:21,220 --> 00:20:23,480
+That teenage first kiss is such a nightmare.
+
+496
+00:20:23,790 --> 00:20:24,100
+Oh, God.
+
+497
+00:20:24,440 --> 00:20:24,720
+Oh, yeah.
+
+498
+00:20:24,920 --> 00:20:26,580
+My teenage first kiss, I got mono.
+
+499
+00:20:28,020 --> 00:20:28,180
+I'm
+
+500
+00:20:28,180 --> 00:20:28,540
+totally
+
+501
+00:20:28,540 --> 00:20:28,860
+serious.
+
+502
+00:20:29,090 --> 00:20:30,700
+I was sick with mono for like two years.
+
+503
+00:20:31,360 --> 00:20:32,880
+Wow, you beat Shinji there.
+
+504
+00:20:34,220 --> 00:20:35,140
+Her worst first
+
+505
+00:20:35,140 --> 00:20:35,800
+teenage kiss.
+
+506
+00:20:35,900 --> 00:20:37,280
+call me mama, so that's...
+
+507
+00:20:38,840 --> 00:20:42,060
+What is the significance of the hick music here,
+
+508
+00:20:42,520 --> 00:20:44,360
+the kind of the hillbilly...
+
+509
+00:20:44,560 --> 00:20:44,900
+It's their way
+
+510
+00:20:44,900 --> 00:20:45,940
+of having fun.
+
+511
+00:20:46,140 --> 00:20:47,460
+Yeah, a lot of this music,
+
+512
+00:20:47,820 --> 00:20:48,800
+at least at the beginning of the series,
+
+513
+00:20:49,000 --> 00:20:51,920
+really harkened back to the classic animes of 1970s,
+
+514
+00:20:51,940 --> 00:20:52,580
+the Gundam stuff,
+
+515
+00:20:52,640 --> 00:20:56,300
+and there was a real feel of a typical anime giant robot show,
+
+516
+00:20:56,320 --> 00:20:59,780
+and it just slowly breaks down episode by episode
+
+517
+00:20:59,780 --> 00:21:00,700
+into this...
+
+518
+00:21:00,760 --> 00:21:03,420
+This is like the Country Bear Jamboree soundtrack
+
+519
+00:21:03,800 --> 00:21:05,200
+playing right here for some reason,
+
+520
+00:21:05,300 --> 00:21:05,520
+and
+
+521
+00:21:05,520 --> 00:21:08,480
+we'll call it Oscar's
+
+522
+00:21:08,480 --> 00:21:08,720
+lament
+
+523
+00:21:08,720 --> 00:21:09,500
+from now on.
+
+524
+00:21:09,900 --> 00:21:10,580
+I think that
+
+525
+00:21:10,580 --> 00:21:12,000
+the
+
+526
+00:21:12,000 --> 00:21:14,280
+music budget was really limited too
+
+527
+00:21:14,530 --> 00:21:15,840
+because these same pieces of music
+
+528
+00:21:16,040 --> 00:21:18,860
+can get used over and over and over and over again.
+
+529
+00:21:20,020 --> 00:21:22,500
+I think we've got the done, done, done, done background.
+
+530
+00:21:22,800 --> 00:21:25,540
+We've got the one piece of classical music
+
+531
+00:21:25,590 --> 00:21:27,780
+they optioned for much of the...
+
+532
+00:21:27,870 --> 00:21:29,280
+Well, there's lots of...
+
+533
+00:21:29,280 --> 00:21:29,980
+There's three classical
+
+534
+00:21:29,980 --> 00:21:30,060
+pieces.
+
+535
+00:21:30,080 --> 00:21:30,540
+The Ode to Joy.
+
+536
+00:21:30,840 --> 00:21:31,060
+The Ode to
+
+537
+00:21:31,060 --> 00:21:31,240
+Joy,
+
+538
+00:21:32,540 --> 00:21:32,760
+Canon,
+
+539
+00:21:34,680 --> 00:21:35,240
+Pocabell's Canon,
+
+540
+00:21:35,240 --> 00:21:36,560
+and Hallelujah.
+
+541
+00:21:37,600 --> 00:21:38,200
+Hallelujah of course.
+
+542
+00:21:38,300 --> 00:21:41,040
+I just have to tell you guys, I love Spike Spencer so much,
+
+543
+00:21:41,040 --> 00:21:42,580
+he could not say Paco Bell's Canon.
+
+544
+00:21:42,900 --> 00:21:43,360
+Paco Bell.
+
+545
+00:21:43,920 --> 00:21:44,640
+And so...
+
+546
+00:21:44,880 --> 00:21:45,560
+Taco Bell's Canon.
+
+547
+00:21:45,660 --> 00:21:46,240
+Taco Bell's Canon.
+
+548
+00:21:46,380 --> 00:21:49,220
+So he said it like, we did that tech like 15 times,
+
+549
+00:21:49,460 --> 00:21:53,260
+and sweet, sweet boy, but just somehow it just kept
+
+550
+00:21:54,020 --> 00:21:56,880
+catching in his throat, or just not quite coming out of his mouth.
+
+551
+00:21:57,240 --> 00:21:58,960
+These movie soundtracks are really worthwhile
+
+552
+00:21:59,240 --> 00:22:00,760
+picking up if you're a classical music fan,
+
+553
+00:22:01,400 --> 00:22:05,220
+and Canon, despite being associated with Alcoholics Anonymous
+
+554
+00:22:05,240 --> 00:22:05,940
+and forever because of
+
+555
+00:22:05,940 --> 00:22:06,040
+that.
+
+556
+00:22:06,140 --> 00:22:06,480
+It's a great
+
+557
+00:22:06,480 --> 00:22:07,040
+piece of music,
+
+558
+00:22:07,200 --> 00:22:08,840
+even though everyone plays it way too slow.
+
+559
+00:22:08,980 --> 00:22:10,260
+It's actually supposed to be a much faster
+
+560
+00:22:10,260 --> 00:22:11,320
+version.
+
+561
+00:22:11,400 --> 00:22:13,480
+Yeah, actually, when we would turn on the ending credits
+
+562
+00:22:13,600 --> 00:22:14,940
+to double speed, I would always watch it double speed
+
+563
+00:22:14,960 --> 00:22:15,940
+because that's the actual tempo.
+
+564
+00:22:19,440 --> 00:22:19,560
+Really?
+
+565
+00:22:20,140 --> 00:22:21,120
+No one plays it that way.
+
+566
+00:22:21,680 --> 00:22:23,720
+Wait, why is that associated with Alcoholics Anonymous?
+
+567
+00:22:23,840 --> 00:22:24,000
+Because it
+
+568
+00:22:24,000 --> 00:22:25,800
+was their theme song through most of the 80s.
+
+569
+00:22:26,260 --> 00:22:26,760
+Oh, was it?
+
+570
+00:22:26,900 --> 00:22:27,000
+Yeah,
+
+571
+00:22:27,180 --> 00:22:28,780
+I lost my wife, my job.
+
+572
+00:22:30,880 --> 00:22:31,700
+What a waste.
+
+573
+00:22:32,240 --> 00:22:32,380
+Yeah.
+
+574
+00:22:32,500 --> 00:22:33,460
+What a beautiful song.
+
+575
+00:22:33,940 --> 00:22:35,180
+I mean, not that, oh, wow.
+
+576
+00:22:35,560 --> 00:22:36,020
+God, now I'm
+
+577
+00:22:36,020 --> 00:22:36,860
+going to get angry letters.
+
+578
+00:22:37,820 --> 00:22:40,880
+No, I mean, Alcoholics Anonymous is a fabulous association,
+
+579
+00:22:41,820 --> 00:22:42,620
+but it's
+
+580
+00:22:42,620 --> 00:22:44,300
+such a great song to have to...
+
+581
+00:22:44,420 --> 00:22:46,020
+If you don't stop, we're going to have to stop tape.
+
+582
+00:22:46,160 --> 00:22:47,440
+I know. Okay, I'm done.
+
+583
+00:22:48,820 --> 00:22:51,000
+We'll talk quickly about this whale of an angel
+
+584
+00:22:51,240 --> 00:22:52,380
+that we have coming down here.
+
+585
+00:22:54,720 --> 00:22:56,580
+This is, oh, yes, this is our next angel,
+
+586
+00:22:56,700 --> 00:23:00,000
+the angel of fish, Skagiel,
+
+587
+00:23:00,180 --> 00:23:00,760
+appropriately.
+
+588
+00:23:01,160 --> 00:23:02,040
+Angel of fish.
+
+589
+00:23:02,040 --> 00:23:03,120
+I suppose fish named an angel.
+
+590
+00:23:04,520 --> 00:23:05,540
+kind of whale-like
+
+591
+00:23:07,120 --> 00:23:08,620
+more interesting in the fact that
+
+592
+00:23:09,040 --> 00:23:10,200
+it's our first introduction to
+
+593
+00:23:10,960 --> 00:23:12,800
+the brand of butt-kicking
+
+594
+00:23:12,920 --> 00:23:13,480
+that is Asuka
+
+595
+00:23:14,960 --> 00:23:16,620
+who also has a very interesting
+
+596
+00:23:16,740 --> 00:23:18,400
+Eva, she has the production model Eva
+
+597
+00:23:18,640 --> 00:23:20,620
+which if you're up on your
+
+598
+00:23:20,800 --> 00:23:22,800
+Babylonian mythology, which I know all of you are
+
+599
+00:23:25,460 --> 00:23:26,840
+which I'm obviously not
+
+600
+00:23:26,940 --> 00:23:28,100
+because I'm checking my notes right now
+
+601
+00:23:28,620 --> 00:23:30,740
+is very closely associated
+
+602
+00:23:30,880 --> 00:23:32,220
+with Corazon and Marduk
+
+603
+00:23:33,260 --> 00:23:36,400
+who again you'll have to look up as an interesting Babylonian god.
+
+604
+00:23:37,250 --> 00:23:37,660
+Four eyes.
+
+605
+00:23:38,260 --> 00:23:41,420
+Marduk, four eyes, four ears and two mouths.
+
+606
+00:23:43,980 --> 00:23:45,100
+Son of Ishtar.
+
+607
+00:23:46,900 --> 00:23:49,340
+It's kind of the Babylonian equivalent of the Christ birth.
+
+608
+00:23:49,430 --> 00:23:50,500
+He was the
+
+609
+00:23:50,500 --> 00:23:51,540
+Jesus son.
+
+610
+00:23:53,460 --> 00:23:57,220
+Eventually of course becoming a demon in Christian folklore.
+
+611
+00:23:57,680 --> 00:23:58,700
+It was a four-eyed...
+
+612
+00:23:58,730 --> 00:24:01,340
+Well that's what happens when your religion goes out of style.
+
+613
+00:24:03,520 --> 00:24:04,900
+That's the unfortunate thing.
+
+614
+00:24:05,020 --> 00:24:05,540
+So that's
+
+615
+00:24:05,540 --> 00:24:09,940
+interesting, though, that they fashioned one of the Evas after that,
+
+616
+00:24:10,040 --> 00:24:11,180
+and then they also referred to the
+
+617
+00:24:11,180 --> 00:24:11,680
+Marduk report.
+
+618
+00:24:12,560 --> 00:24:16,500
+Yeah, the Marduk report, which has some interesting stuff going on there.
+
+619
+00:24:17,220 --> 00:24:18,680
+That was the big dog, right?
+
+620
+00:24:19,980 --> 00:24:20,280
+Yeah, that
+
+621
+00:24:20,280 --> 00:24:20,700
+was Marmaduke.
+
+622
+00:24:20,820 --> 00:24:21,540
+That was Marmaduke.
+
+623
+00:24:21,620 --> 00:24:21,720
+I
+
+624
+00:24:21,720 --> 00:24:22,320
+almost said Marmalade.
+
+625
+00:24:22,320 --> 00:24:22,900
+That's my fault.
+
+626
+00:24:23,060 --> 00:24:23,260
+I'm sorry.
+
+627
+00:24:23,680 --> 00:24:27,300
+Another big red dog associated with Babylonian mythology.
+
+628
+00:24:28,300 --> 00:24:28,440
+Hello.
+
+629
+00:24:29,140 --> 00:24:30,380
+Good morning, Shinji.
+
+630
+00:24:30,480 --> 00:24:31,720
+Once again, we have the...
+
+631
+00:24:32,740 --> 00:24:33,720
+The Asuka's lament.
+
+632
+00:24:33,780 --> 00:24:34,540
+Picking and grinning.
+
+633
+00:24:37,760 --> 00:24:40,520
+Somebody in Japan, I was in Japan when this film came out,
+
+634
+00:24:40,560 --> 00:24:45,120
+and somebody was talking to me about the relationship between Asuka and Shinji
+
+635
+00:24:45,240 --> 00:24:53,200
+and how it related to, of all things, the wall, the destruction of Jericho, Joshua and Jericho.
+
+636
+00:24:53,340 --> 00:24:57,100
+I have absolutely no idea what that means, but if you figure it out, please find me at a convention,
+
+637
+00:24:57,340 --> 00:24:59,320
+because this man did not speak very good English
+
+638
+00:24:59,680 --> 00:25:01,660
+and was attempting to explain this to me.
+
+639
+00:25:02,420 --> 00:25:03,760
+It's something worth taking a look at, though,
+
+640
+00:25:04,400 --> 00:25:05,880
+because he felt very strongly about it,
+
+641
+00:25:05,900 --> 00:25:06,940
+and he had a good book collection.
+
+642
+00:25:07,700 --> 00:25:10,220
+Now, do you think that they portray Asuka
+
+643
+00:25:10,220 --> 00:25:12,360
+as coming from this kind of land
+
+644
+00:25:12,560 --> 00:25:14,480
+that's not as sophisticated as they come from?
+
+645
+00:25:15,480 --> 00:25:16,160
+Anywhere but Japan?
+
+646
+00:25:16,820 --> 00:25:17,220
+Definitely.
+
+647
+00:25:17,840 --> 00:25:19,560
+I didn't know if the music was...
+
+648
+00:25:19,580 --> 00:25:20,140
+It's the rest
+
+649
+00:25:20,140 --> 00:25:20,900
+of the world there.
+
+650
+00:25:21,400 --> 00:25:24,060
+I love this animation here where Asuka gets really mad,
+
+651
+00:25:24,180 --> 00:25:25,899
+and that's my favorite...
+
+652
+00:25:26,420 --> 00:25:33,180
+I love the fact that Shinji face plants right into the middle of the mat.
+
+653
+00:25:33,250 --> 00:25:34,140
+That just cracks me up.
+
+654
+00:25:34,880 --> 00:25:38,300
+Not only that, but I don't know if everyone notices that Asuka's actually the one that messed up,
+
+655
+00:25:38,460 --> 00:25:39,740
+and then Shinji messes up.
+
+656
+00:25:40,960 --> 00:25:41,940
+But she blames it on him.
+
+657
+00:25:42,740 --> 00:25:46,200
+This is them preparing for the fight with Israfel,
+
+658
+00:25:47,270 --> 00:25:49,860
+twin angels of poetry and music, Ko and Otsu,
+
+659
+00:25:49,930 --> 00:25:51,780
+which I've never quite been able to find anywhere.
+
+660
+00:25:51,980 --> 00:25:52,680
+It's something Japanese.
+
+661
+00:25:53,320 --> 00:25:56,640
+Little yin-yang angel you don't really get to see much in this...
+
+662
+00:25:57,400 --> 00:25:58,760
+in this encapsulated version.
+
+663
+00:25:58,980 --> 00:26:00,920
+This non-linear flashback that we're going through.
+
+664
+00:26:01,010 --> 00:26:02,640
+So with the hanging doll that we just saw,
+
+665
+00:26:03,680 --> 00:26:07,120
+that portrays the death of her youth, you think, maybe?
+
+666
+00:26:07,150 --> 00:26:07,680
+Or her innocence?
+
+667
+00:26:08,800 --> 00:26:09,640
+Um, there's...
+
+668
+00:26:10,639 --> 00:26:12,100
+The death of the popularity
+
+669
+00:26:12,100 --> 00:26:13,060
+of Cabbage Patch Kids.
+
+670
+00:26:15,160 --> 00:26:17,520
+Somewhere Raggedy Andy is very upset.
+
+671
+00:26:18,140 --> 00:26:18,700
+And a bachelor again.
+
+672
+00:26:18,700 --> 00:26:20,380
+He's going, why? Why?
+
+673
+00:26:21,240 --> 00:26:26,420
+Yeah, Asuka is definitely the most, probably the most scarred of the kids, just because
+
+674
+00:26:26,510 --> 00:26:28,060
+she doesn't talk about it nearly as much.
+
+675
+00:26:28,800 --> 00:26:31,360
+This is obviously the long elevator sequence that...
+
+676
+00:26:32,180 --> 00:26:33,000
+The sequence from...
+
+677
+00:26:33,220 --> 00:26:35,740
+No expense was spared in the making of this film.
+
+678
+00:26:35,850 --> 00:26:36,500
+This sequence, oh yeah.
+
+679
+00:26:37,120 --> 00:26:37,380
+Wait, wait,
+
+680
+00:26:37,380 --> 00:26:38,360
+she's going to twitch.
+
+681
+00:26:38,510 --> 00:26:40,240
+Any minute now, she twitches and then shifts.
+
+682
+00:26:40,720 --> 00:26:41,640
+Unless she already did it.
+
+683
+00:26:41,740 --> 00:26:44,260
+You know, they could have played Girl from Impanima, at least at this point.
+
+684
+00:26:44,690 --> 00:26:45,480
+Just to kind
+
+685
+00:26:45,480 --> 00:26:45,780
+of...
+
+686
+00:26:48,520 --> 00:26:48,880
+See,
+
+687
+00:26:49,020 --> 00:26:49,360
+there it was.
+
+688
+00:26:49,730 --> 00:26:50,180
+She twitched.
+
+689
+00:26:50,260 --> 00:26:50,980
+This is a slow burn.
+
+690
+00:26:51,460 --> 00:26:56,780
+This is like a minute and 45 seconds of just two chicks in an elevator.
+
+691
+00:26:56,920 --> 00:26:57,120
+It's
+
+692
+00:26:57,120 --> 00:27:03,580
+Anno and Oshia, the two Japanese animation directors who just feel that you can't stare at a puppy dog for too long in any film.
+
+693
+00:27:04,400 --> 00:27:05,740
+Oh, look, there's a broken statue.
+
+694
+00:27:05,780 --> 00:27:09,200
+I think we have to take 25, 30 seconds at least to absorb that.
+
+695
+00:27:10,180 --> 00:27:11,100
+Oh, there she spoke.
+
+696
+00:27:11,500 --> 00:27:11,620
+Okay.
+
+697
+00:27:13,480 --> 00:27:15,620
+And we break our tension with our two
+
+698
+00:27:15,620 --> 00:27:16,000
+characters.
+
+699
+00:27:18,100 --> 00:27:18,580
+That's
+
+700
+00:27:18,580 --> 00:27:19,240
+a great haircut.
+
+701
+00:27:20,220 --> 00:27:20,700
+phrase.
+
+702
+00:27:23,500 --> 00:27:24,560
+The baby Thurman?
+
+703
+00:27:24,780 --> 00:27:24,900
+Yeah.
+
+704
+00:27:26,400 --> 00:27:28,460
+A friend who got her hair cut like that once.
+
+705
+00:27:33,060 --> 00:27:33,420
+And
+
+706
+00:27:33,420 --> 00:27:34,520
+so here's Asuka having a little
+
+707
+00:27:34,700 --> 00:27:35,180
+hissy fit.
+
+708
+00:27:37,720 --> 00:27:37,960
+Yeah.
+
+709
+00:27:38,500 --> 00:27:39,220
+Poor Asuka.
+
+710
+00:27:40,140 --> 00:27:42,280
+They go into a bit of her parents
+
+711
+00:27:42,500 --> 00:27:44,500
+and the neglect and her desperate
+
+712
+00:27:44,580 --> 00:27:45,380
+need to show off.
+
+713
+00:27:46,140 --> 00:27:47,320
+The doll, of course, was her doll.
+
+714
+00:27:48,560 --> 00:27:51,700
+Well, that was the doll that the mother believed after the mother...
+
+715
+00:27:52,040 --> 00:27:55,880
+After the first contact experiment with Unit 2,
+
+716
+00:27:56,810 --> 00:28:00,500
+the mother went insane and believed that the doll was actually her daughter
+
+717
+00:28:01,740 --> 00:28:05,080
+and believed that Asuka was this strange, weird girl.
+
+718
+00:28:05,320 --> 00:28:06,980
+So she would talk and coo to this doll.
+
+719
+00:28:07,520 --> 00:28:09,840
+And then when she hung herself, she also hung the doll.
+
+720
+00:28:11,420 --> 00:28:12,580
+Like taking her baby with her.
+
+721
+00:28:12,840 --> 00:28:14,380
+And they let this girl
+
+722
+00:28:14,380 --> 00:28:15,480
+pilot them, Eva.
+
+723
+00:28:15,820 --> 00:28:16,060
+I know.
+
+724
+00:28:18,240 --> 00:28:22,540
+This is a fun sequence with Kurt and Brett doing Toji and...
+
+725
+00:28:22,590 --> 00:28:23,640
+Oh, come on.
+
+726
+00:28:23,780 --> 00:28:25,460
+We saw you looking.
+
+727
+00:28:25,860 --> 00:28:26,240
+It's good.
+
+728
+00:28:26,250 --> 00:28:26,840
+Got Ray's
+
+729
+00:28:26,840 --> 00:28:27,500
+mammaries.
+
+730
+00:28:28,240 --> 00:28:29,060
+Ray's silky
+
+731
+00:28:29,060 --> 00:28:29,500
+thighs.
+
+732
+00:28:30,100 --> 00:28:30,760
+Kurt Cass.
+
+733
+00:28:31,060 --> 00:28:32,760
+I love... Kurt
+
+734
+00:28:32,760 --> 00:28:33,100
+stole Foley.
+
+735
+00:28:33,140 --> 00:28:34,520
+Naughty bits. That's just funny.
+
+736
+00:28:34,700 --> 00:28:35,360
+It's just awesome.
+
+737
+00:28:35,360 --> 00:28:35,460
+Then
+
+738
+00:28:35,460 --> 00:28:36,620
+just what were you looking at?
+
+739
+00:28:37,020 --> 00:28:37,680
+Yeah, come on.
+
+740
+00:28:37,880 --> 00:28:38,420
+Teenage boys.
+
+741
+00:28:41,780 --> 00:28:44,160
+I was just wondering why she's always...
+
+742
+00:28:44,160 --> 00:28:44,580
+And then we have
+
+743
+00:28:44,580 --> 00:28:44,820
+a little
+
+744
+00:28:44,820 --> 00:28:46,080
+Unit Zero action.
+
+745
+00:28:46,580 --> 00:28:47,620
+Pre-blue Unit Zero.
+
+746
+00:28:47,860 --> 00:28:50,040
+It changes colors. They decided that the yellow was in
+
+747
+00:28:50,040 --> 00:28:50,260
+bad taste.
+
+748
+00:28:50,300 --> 00:28:51,220
+Well, that's when they rebuilt it.
+
+749
+00:28:52,700 --> 00:28:53,620
+They decided yellow
+
+750
+00:28:53,620 --> 00:28:54,700
+was way out.
+
+751
+00:28:54,750 --> 00:28:55,780
+It was clashing with their
+
+752
+00:28:55,780 --> 00:28:56,040
+hair.
+
+753
+00:28:56,130 --> 00:28:56,240
+So
+
+754
+00:28:56,240 --> 00:28:56,560
+last year.
+
+755
+00:28:58,200 --> 00:29:00,900
+Well, I think they had found a spare part,
+
+756
+00:29:01,120 --> 00:29:04,200
+and, you know, it was out of a junkyard or something,
+
+757
+00:29:04,380 --> 00:29:06,080
+so the colors didn't match, so they kind of had to make it.
+
+758
+00:29:06,080 --> 00:29:07,400
+It was clashing with the S2 engine.
+
+759
+00:29:07,620 --> 00:29:08,260
+Yeah, exactly.
+
+760
+00:29:09,880 --> 00:29:11,240
+It looked too ghetto just to leave it.
+
+761
+00:29:11,300 --> 00:29:13,160
+Yeah, they took
+
+762
+00:29:13,160 --> 00:29:16,040
+it to Earl Scheib, and, you know, he did a good job, I thought.
+
+763
+00:29:18,399 --> 00:29:20,840
+And now we get into everybody's favorite clone,
+
+764
+00:29:21,940 --> 00:29:22,980
+and everybody's favorite clone,
+
+765
+00:29:23,380 --> 00:29:24,460
+and everybody's favorite clone.
+
+766
+00:29:30,520 --> 00:29:31,400
+Oh, in my apartment.
+
+767
+00:29:32,020 --> 00:29:33,800
+Out of my
+
+768
+00:29:33,800 --> 00:29:34,220
+apartment.
+
+769
+00:29:35,560 --> 00:29:35,960
+Rey,
+
+770
+00:29:36,120 --> 00:29:36,700
+Rey, Rey.
+
+771
+00:29:37,100 --> 00:29:38,400
+Do you have anything to say about Rey?
+
+772
+00:29:38,700 --> 00:29:41,500
+This is probably my favorite scene
+
+773
+00:29:41,560 --> 00:29:42,600
+because it's so wrong.
+
+774
+00:29:43,760 --> 00:29:45,440
+So, so, so wrong.
+
+775
+00:29:46,380 --> 00:29:48,700
+Shinji cops a feel on his mom.
+
+776
+00:29:50,560 --> 00:29:51,500
+That's just, that's not
+
+777
+00:29:51,500 --> 00:29:51,720
+nice.
+
+778
+00:29:51,960 --> 00:29:55,100
+But we don't really know that at the point that this scene takes place in the series,
+
+779
+00:29:56,100 --> 00:29:59,860
+so it's not as wrong on the first watch as it
+
+780
+00:29:59,860 --> 00:30:00,360
+is in retrospect.
+
+781
+00:30:00,900 --> 00:30:04,780
+I think it rates slightly higher than the Skywalker Leia kiss,
+
+782
+00:30:05,380 --> 00:30:07,860
+as that kind of ew that later after thought, oh.
+
+783
+00:30:08,060 --> 00:30:08,280
+Yeah.
+
+784
+00:30:09,300 --> 00:30:10,460
+That, ooh, didn't they suck face?
+
+785
+00:30:10,740 --> 00:30:11,900
+Isn't that just evil?
+
+786
+00:30:12,340 --> 00:30:15,660
+So we have our first strains of edifice issues in this...
+
+787
+00:30:18,380 --> 00:30:20,940
+...strange, dark, dark world that they're creating.
+
+788
+00:30:21,120 --> 00:30:21,900
+Oh, oh.
+
+789
+00:30:22,050 --> 00:30:25,260
+And they find a way to get all the lingerie in the scene as well, which is great.
+
+790
+00:30:25,900 --> 00:30:28,240
+You can never have too many panties in one scene.
+
+791
+00:30:29,080 --> 00:30:30,620
+I like the bra precariously
+
+792
+00:30:30,620 --> 00:30:31,900
+balanced on his buttock.
+
+793
+00:30:31,980 --> 00:30:33,160
+On his pointy buttock.
+
+794
+00:30:36,060 --> 00:30:38,280
+Never before has so much underwear been in one anime.
+
+795
+00:30:38,460 --> 00:30:40,540
+And that says, in one shot, that says a lot.
+
+796
+00:30:42,080 --> 00:30:44,360
+We see the few of Ray's possessions.
+
+797
+00:30:44,540 --> 00:30:46,020
+Other than a massive collection of underwear,
+
+798
+00:30:46,280 --> 00:30:48,380
+she owns one pair of glasses that she can't wear,
+
+799
+00:30:49,400 --> 00:30:51,520
+a cup of water, and some bloodied bandages,
+
+800
+00:30:52,620 --> 00:30:54,100
+and 50 pieces of
+
+801
+00:30:54,100 --> 00:30:54,540
+underwear.
+
+802
+00:30:56,740 --> 00:30:57,820
+We know what her priorities are.
+
+803
+00:30:57,820 --> 00:31:00,160
+Well, in the director's cut, you do see
+
+804
+00:31:00,160 --> 00:31:01,000
+a different angle
+
+805
+00:31:01,060 --> 00:31:02,740
+where you see her whole Beanie Baby collection
+
+806
+00:31:02,740 --> 00:31:03,620
+on the other wall,
+
+807
+00:31:04,580 --> 00:31:07,080
+which I thought would have added a level of humanity that we missed.
+
+808
+00:31:07,640 --> 00:31:09,260
+And her I love Sean Cassidy poster.
+
+809
+00:31:09,280 --> 00:31:09,340
+Yeah,
+
+810
+00:31:09,520 --> 00:31:10,240
+it was...
+
+811
+00:31:10,320 --> 00:31:11,880
+Which is why you need an R2 DVD player.
+
+812
+00:31:12,240 --> 00:31:12,700
+That's right.
+
+813
+00:31:13,200 --> 00:31:14,100
+This is all that you miss.
+
+814
+00:31:14,840 --> 00:31:15,620
+Well, I was
+
+815
+00:31:15,620 --> 00:31:16,760
+asked to, you
+
+816
+00:31:16,760 --> 00:31:16,880
+know...
+
+817
+00:31:17,140 --> 00:31:17,380
+That's okay.
+
+818
+00:31:17,440 --> 00:31:18,420
+No one's listening to us right now.
+
+819
+00:31:18,520 --> 00:31:19,480
+They're just trying to see if they can see Ray.
+
+820
+00:31:19,600 --> 00:31:20,240
+It's naughty bits.
+
+821
+00:31:22,480 --> 00:31:23,360
+Random Ray tidbits.
+
+822
+00:31:23,580 --> 00:31:28,920
+When we first saw the show, me and kind of my Scooby gang with the big scary books,
+
+823
+00:31:29,140 --> 00:31:32,440
+we were thinking Ray was kind of a symbol for the angelic choir,
+
+824
+00:31:32,620 --> 00:31:35,540
+but then this film happened and changed our whole theory on what was going on with her
+
+825
+00:31:36,120 --> 00:31:37,200
+because there's just so many of her.
+
+826
+00:31:38,660 --> 00:31:42,620
+And we have baby Ray, we have teenage Ray, and then we have our third and final Ray.
+
+827
+00:31:44,060 --> 00:31:45,580
+Then there's the Uber Ray in the end.
+
+828
+00:31:45,740 --> 00:31:46,540
+There's Uber Ray later.
+
+829
+00:31:46,900 --> 00:31:48,520
+Yeah, no triple goddess metaphor there.
+
+830
+00:31:48,600 --> 00:31:49,260
+I'm not even going to go
+
+831
+00:31:49,260 --> 00:31:49,700
+into that.
+
+832
+00:31:50,660 --> 00:31:51,560
+You can do that on your own.
+
+833
+00:31:51,780 --> 00:31:54,620
+Is that like a father, son, Holy Spirit thing, but with boobs?
+
+834
+00:31:55,740 --> 00:31:56,400
+Yeah, well, you know.
+
+835
+00:31:56,500 --> 00:31:56,660
+I'm
+
+836
+00:31:56,660 --> 00:31:57,600
+so going to get hate mail.
+
+837
+00:31:58,200 --> 00:31:58,360
+No,
+
+838
+00:31:58,560 --> 00:31:59,220
+of course not.
+
+839
+00:31:59,360 --> 00:32:01,760
+Find somebody in an all-natural cotton shirt and ask them.
+
+840
+00:32:01,900 --> 00:32:02,780
+They'll fill you in.
+
+841
+00:32:05,360 --> 00:32:06,240
+I'm going to share in your head now.
+
+842
+00:32:06,280 --> 00:32:06,420
+Wow.
+
+843
+00:32:08,820 --> 00:32:08,900
+Yeah.
+
+844
+00:32:09,600 --> 00:32:10,280
+This was interesting.
+
+845
+00:32:10,430 --> 00:32:15,400
+This was a scene that they took from the original series.
+
+846
+00:32:18,120 --> 00:32:19,700
+But the animation is different,
+
+847
+00:32:20,090 --> 00:32:22,300
+so I don't know if this was an alternate take of the scene
+
+848
+00:32:22,540 --> 00:32:24,700
+or if they couldn't find the original animation
+
+849
+00:32:24,900 --> 00:32:25,980
+and just decided to redo it.
+
+850
+00:32:26,120 --> 00:32:28,960
+Well, they did reanimate a lot of little things.
+
+851
+00:32:30,500 --> 00:32:31,400
+A lot with Rey, actually.
+
+852
+00:32:31,770 --> 00:32:33,240
+If you notice in the very opening of this film,
+
+853
+00:32:33,690 --> 00:32:34,660
+when Rey's on the ground,
+
+854
+00:32:35,100 --> 00:32:37,260
+the very first thing with the Eva shaking
+
+855
+00:32:37,610 --> 00:32:39,520
+and the first angel attack with Shinji.
+
+856
+00:32:39,920 --> 00:32:42,180
+There's one shot that's very well animated of her heaving.
+
+857
+00:32:42,360 --> 00:32:43,740
+She's doing this kind of heave.
+
+858
+00:32:44,280 --> 00:32:45,120
+That's new animation.
+
+859
+00:32:45,520 --> 00:32:48,120
+And also the shot of her when he rescues her from the pod
+
+860
+00:32:48,180 --> 00:32:49,920
+and amended his brand new animation for this film.
+
+861
+00:32:50,460 --> 00:32:50,760
+Oh, really?
+
+862
+00:32:51,300 --> 00:32:54,240
+Yeah, it's like seven or eight seconds worth of all new animation.
+
+863
+00:32:54,560 --> 00:32:55,300
+I thought it was the same.
+
+864
+00:32:55,300 --> 00:32:56,300
+I mean, it looked like the same.
+
+865
+00:32:56,730 --> 00:32:57,240
+A little cleaner.
+
+866
+00:32:57,680 --> 00:32:58,060
+A little cleaner.
+
+867
+00:32:58,250 --> 00:32:58,340
+Nice.
+
+868
+00:32:59,160 --> 00:32:59,640
+Very nice.
+
+869
+00:33:00,420 --> 00:33:01,500
+It's odd, man.
+
+870
+00:33:01,780 --> 00:33:02,400
+I don't want to.
+
+871
+00:33:03,400 --> 00:33:04,540
+I don't want to go through it again.
+
+872
+00:33:06,160 --> 00:33:10,900
+This is one of these scenes where Spike is a very, very active person
+
+873
+00:33:11,490 --> 00:33:15,060
+And the fact that this character Shinji was so passive would get to him sometimes
+
+874
+00:33:16,300 --> 00:33:20,020
+So we'd have to make sure that it didn't sound like he was whining too much
+
+875
+00:33:20,280 --> 00:33:21,420
+Lip flap's impeccable, though
+
+876
+00:33:22,200 --> 00:33:23,000
+Well, thank you
+
+877
+00:33:24,220 --> 00:33:25,440
+Down to the millisecond
+
+878
+00:33:28,700 --> 00:33:29,260
+Oh, dear
+
+879
+00:33:29,500 --> 00:33:29,820
+This is when
+
+880
+00:33:29,820 --> 00:33:30,740
+Rey gets mad
+
+881
+00:33:30,930 --> 00:33:31,920
+No, Rey doesn't look mad
+
+882
+00:33:32,040 --> 00:33:33,539
+Ever goes insane
+
+883
+00:33:33,920 --> 00:33:42,880
+It looks like the Eva is going for somebody, and it's a worthwhile debate to say, is it Ritsuko or is it Gendo that it was first punching at?
+
+884
+00:33:42,980 --> 00:33:43,900
+Who was it angry at?
+
+885
+00:33:45,560 --> 00:33:46,760
+We don't know. I don't know.
+
+886
+00:33:46,940 --> 00:33:47,680
+I don't know either.
+
+887
+00:33:48,580 --> 00:33:52,980
+There's a lot of thought to that. There has to be some personality in that Eva.
+
+888
+00:33:55,120 --> 00:33:57,460
+There's a couple different good ideas on who it could be.
+
+889
+00:33:57,760 --> 00:33:58,000
+Yeah.
+
+890
+00:33:58,960 --> 00:33:59,680
+Who do we have?
+
+891
+00:34:00,380 --> 00:34:00,820
+It's a
+
+892
+00:34:00,820 --> 00:34:01,260
+pot.
+
+893
+00:34:03,180 --> 00:34:03,420
+I
+
+894
+00:34:03,420 --> 00:34:04,240
+love this conversation.
+
+895
+00:34:05,680 --> 00:34:07,380
+This bit of dialogue. I don't know why.
+
+896
+00:34:07,820 --> 00:34:08,740
+I mean, it's so...
+
+897
+00:34:11,040 --> 00:34:11,480
+...opaque.
+
+898
+00:34:12,040 --> 00:34:14,560
+For some reason, I've always thought it was a beautiful exchange.
+
+899
+00:34:15,000 --> 00:34:15,120
+I
+
+900
+00:34:15,120 --> 00:34:18,720
+think it defines their relationship.
+
+901
+00:34:20,800 --> 00:34:25,440
+It's this really intimate relationship held at arm's length, basically.
+
+902
+00:34:26,000 --> 00:34:29,100
+And they just don't know how to talk to each other even though they want to.
+
+903
+00:34:29,139 --> 00:34:29,580
+and
+
+904
+00:34:29,580 --> 00:34:30,940
+we
+
+905
+00:34:30,940 --> 00:34:31,980
+find because he's
+
+906
+00:34:31,980 --> 00:34:32,960
+talking to his mother,
+
+907
+00:34:33,300 --> 00:34:35,620
+but not in a mother-son relationship.
+
+908
+00:34:35,740 --> 00:34:38,379
+So it's such an odd dynamic, I think.
+
+909
+00:34:39,240 --> 00:34:40,139
+She doesn't really know.
+
+910
+00:34:41,679 --> 00:34:44,820
+She doesn't have those type of feelings towards...
+
+911
+00:34:44,840 --> 00:34:46,060
+It's just a strange dynamic,
+
+912
+00:34:46,240 --> 00:34:48,560
+and I think it's always a neat exchange between the two.
+
+913
+00:34:49,080 --> 00:34:51,480
+She's definitely not emotionally mature enough yet
+
+914
+00:34:51,639 --> 00:34:54,060
+to really figure out what's going on between her and him there.
+
+915
+00:34:55,640 --> 00:34:59,100
+And it's also added to the fact that the writer of this film
+
+916
+00:34:59,120 --> 00:35:01,980
+is a master of the uncomfortable male-female dynamic.
+
+917
+00:35:03,800 --> 00:35:06,600
+Practically the world's foremost expert on the subject.
+
+918
+00:35:09,200 --> 00:35:10,360
+Just for a fun point there,
+
+919
+00:35:10,360 --> 00:35:12,500
+they had just defeated Ramiel, Angel of Thunder,
+
+920
+00:35:12,510 --> 00:35:15,600
+that big crystal that hums a jaunty tune
+
+921
+00:35:15,630 --> 00:35:16,240
+as it drills
+
+922
+00:35:16,240 --> 00:35:16,540
+into
+
+923
+00:35:16,540 --> 00:35:17,300
+Tokyo 3.
+
+924
+00:35:18,920 --> 00:35:23,040
+The crystalline beings were also a prominent description of angels
+
+925
+00:35:23,220 --> 00:35:25,920
+in earlier apocryphal texts.
+
+926
+00:35:26,070 --> 00:35:28,600
+The stuff that got cut before we got to read it.
+
+927
+00:35:30,400 --> 00:35:34,220
+Interesting. Was that just stuff that ended up with the King James or just in general?
+
+928
+00:35:35,939 --> 00:35:43,440
+Well, there's two sets. There's the Apocrypha and then there's stuff that was never part of the Bible, like the Pseudo-Apocrypha.
+
+929
+00:35:44,220 --> 00:35:47,300
+And stuff that was cut out usually was just cut out because people's attitudes changed.
+
+930
+00:35:47,450 --> 00:35:52,120
+There was a big black plague a while ago and no one really wants to hear about heaven and angels after a big black plague.
+
+931
+00:35:52,190 --> 00:35:54,100
+So you don't have to read that anymore.
+
+932
+00:35:54,150 --> 00:35:56,200
+But you can't just use the lance of longevity...
+
+933
+00:35:56,280 --> 00:35:57,840
+You know, I almost think that would be more comforting, though.
+
+934
+00:35:59,140 --> 00:36:00,600
+Age of Reason was kind of dawning.
+
+935
+00:36:00,960 --> 00:36:01,340
+Ah,
+
+936
+00:36:01,600 --> 00:36:04,820
+so if you can't see it and smell it and taste it, it doesn't
+
+937
+00:36:04,820 --> 00:36:04,940
+exist.
+
+938
+00:36:04,940 --> 00:36:06,480
+It's our famous lance.
+
+939
+00:36:07,240 --> 00:36:07,620
+Ah.
+
+940
+00:36:10,180 --> 00:36:10,660
+There it goes.
+
+941
+00:36:10,770 --> 00:36:10,900
+And some
+
+942
+00:36:10,900 --> 00:36:11,640
+Longinus.
+
+943
+00:36:12,840 --> 00:36:13,240
+Whoosh.
+
+944
+00:36:14,180 --> 00:36:16,300
+You know where Longinus comes from.
+
+945
+00:36:16,680 --> 00:36:23,320
+Longinus was the Roman soldier who threw the spear that embedded himself in Christ's side when he was on the cross-face.
+
+946
+00:36:25,860 --> 00:36:26,820
+- Now,
+
+947
+00:36:28,400 --> 00:36:28,880
+we've
+
+948
+00:36:28,880 --> 00:36:31,140
+amped up the sound effects here on this
+
+949
+00:36:31,140 --> 00:36:33,460
+scene where she's holding the angel with one hand and shooting
+
+950
+00:36:33,460 --> 00:36:36,300
+it with the other, because the Japanese, bless their hearts, put this
+
+951
+00:36:36,300 --> 00:36:40,500
+really irritating boing, boing, boing noise in. And it's
+
+952
+00:36:40,500 --> 00:36:42,460
+such an intense part of the movie that it just
+
+953
+00:36:42,460 --> 00:36:44,760
+seems so inappropriate to me. So we tried
+
+954
+00:36:44,760 --> 00:36:46,500
+to bury that as much as humanly possible.
+
+955
+00:36:47,360 --> 00:36:47,780
+- But it's
+
+956
+00:36:47,780 --> 00:36:49,740
+still on the Japanese track
+
+957
+00:36:49,740 --> 00:36:50,160
+if you
+
+958
+00:36:50,160 --> 00:36:51,360
+prefer the original.
+
+959
+00:36:53,240 --> 00:36:53,360
+- Yep.
+
+960
+00:36:53,480 --> 00:36:54,040
+- I'm under 10%!
+
+961
+00:36:54,920 --> 00:36:56,540
+- Yeah, this is Armisail.
+
+962
+00:36:57,200 --> 00:36:59,100
+Angel of the womb is our little white
+
+963
+00:36:59,100 --> 00:36:59,980
+dragon
+
+964
+00:36:59,980 --> 00:37:00,220
+there.
+
+965
+00:37:01,600 --> 00:37:02,040
+Um,
+
+966
+00:37:02,040 --> 00:37:05,900
+which actually really resembles a lot of photographs of the original cherubs,
+
+967
+00:37:06,050 --> 00:37:08,760
+the cherebrum, which were always thought to be kind of wheel-shaped.
+
+968
+00:37:09,520 --> 00:37:09,960
+- Really?
+
+969
+00:37:10,100 --> 00:37:11,180
+- Yeah, angels had very odd...
+
+970
+00:37:11,180 --> 00:37:12,940
+They were chariot angels and they were, uh...
+
+971
+00:37:14,020 --> 00:37:16,560
+They were called, actually, uh, ophanim at the time.
+
+972
+00:37:17,500 --> 00:37:19,800
+Basically, they were wheels. They were big, fiery energy wheels.
+
+973
+00:37:20,560 --> 00:37:21,260
+Hot wheels of passion.
+
+974
+00:37:21,980 --> 00:37:25,420
+Literally, I found somebody who called them that in one of my older texts.
+
+975
+00:37:25,900 --> 00:37:26,820
+"Hot Ways of Passion."
+
+976
+00:37:27,810 --> 00:37:30,120
+That was the series they put out in the '70s.
+
+977
+00:37:31,280 --> 00:37:32,260
+"Hot Ways of Passion," yes.
+
+978
+00:37:33,440 --> 00:37:34,780
+Lowriders with fuzzy dice.
+
+979
+00:37:36,020 --> 00:37:39,480
+It usually played at the drive-in as a double feature with HOTS.
+
+980
+00:37:40,120 --> 00:37:40,920
+Which was cheerleader.
+
+981
+00:37:41,800 --> 00:37:46,820
+Now, the whole Evil Dead thing where the veins kind of pop out...
+
+982
+00:37:47,440 --> 00:37:48,380
+...is interesting here.
+
+983
+00:37:50,420 --> 00:37:51,960
+They just found ways to really
+
+984
+00:37:51,960 --> 00:37:53,540
+creepily...
+
+985
+00:37:53,620 --> 00:37:53,840
+Anything.
+
+986
+00:37:54,720 --> 00:37:58,680
+Yeah, this whole film is about finding ways to make the torture of these poor characters
+
+987
+00:37:58,860 --> 00:38:00,480
+just as unbearable as humanly possible.
+
+988
+00:38:00,840 --> 00:38:01,100
+Oh, yeah.
+
+989
+00:38:01,700 --> 00:38:03,860
+So that by the time the end of the world comes, we're ready for it.
+
+990
+00:38:05,000 --> 00:38:08,300
+Now, a lot of people have asked me when Rey has a little sort of conversation
+
+991
+00:38:08,500 --> 00:38:09,680
+within her mind with herself,
+
+992
+00:38:10,860 --> 00:38:13,080
+is it conscious versus subconscious,
+
+993
+00:38:13,640 --> 00:38:15,200
+ego versus super ego?
+
+994
+00:38:15,960 --> 00:38:16,260
+Personally,
+
+995
+00:38:16,920 --> 00:38:17,060
+I
+
+996
+00:38:17,060 --> 00:38:21,760
+think it's that the human aspect of Rey is confronting the angel aspect
+
+997
+00:38:21,760 --> 00:38:22,320
+of Rey.
+
+998
+00:38:23,120 --> 00:38:25,900
+When she's realizing what she's truly made
+
+999
+00:38:25,900 --> 00:38:26,000
+of.
+
+1000
+00:38:26,560 --> 00:38:26,720
+This
+
+1001
+00:38:26,720 --> 00:38:28,600
+is another scene that,
+
+1002
+00:38:30,160 --> 00:38:31,300
+if I'm not mistaken, is not
+
+1003
+00:38:31,300 --> 00:38:31,600
+in the
+
+1004
+00:38:31,600 --> 00:38:33,520
+American release.
+
+1005
+00:38:34,320 --> 00:38:37,720
+No, I think it's in the director's cut, though. I'm not totally sure on that.
+
+1006
+00:38:37,860 --> 00:38:38,980
+But we
+
+1007
+00:38:38,980 --> 00:38:43,140
+did a lot of research in doing the movie, and we had a hard time finding this scene.
+
+1008
+00:38:43,280 --> 00:38:43,700
+and we went, oh,
+
+1009
+00:38:43,860 --> 00:38:44,580
+it wasn't in the
+
+1010
+00:38:44,580 --> 00:38:45,140
+original.
+
+1011
+00:38:48,200 --> 00:38:50,840
+I think they just decided that Fiyutski couldn't
+
+1012
+00:38:50,840 --> 00:38:53,260
+end the series
+
+1013
+00:38:53,430 --> 00:38:54,300
+without having something
+
+1014
+00:38:54,300 --> 00:38:55,320
+a little
+
+1015
+00:38:55,320 --> 00:38:56,700
+shady about him, too.
+
+1016
+00:38:57,800 --> 00:38:59,040
+He was trying to get his best friend's girl.
+
+1017
+00:38:59,070 --> 00:38:59,180
+Yeah.
+
+1018
+00:39:00,680 --> 00:39:03,440
+Only Pen Pen gets out unscathed.
+
+1019
+00:39:04,180 --> 00:39:05,180
+See, the thing is, I always
+
+1020
+00:39:05,180 --> 00:39:06,720
+felt
+
+1021
+00:39:06,720 --> 00:39:07,060
+that,
+
+1022
+00:39:07,650 --> 00:39:09,880
+I mean, ever since they did the episode
+
+1023
+00:39:10,260 --> 00:39:11,820
+where it sort of introduces Fiyutski,
+
+1024
+00:39:13,420 --> 00:39:16,160
+looking after Yui's research and whatnot.
+
+1025
+00:39:17,220 --> 00:39:19,240
+I always felt that he had a big crush on her,
+
+1026
+00:39:20,350 --> 00:39:21,000
+that he was in love with her.
+
+1027
+00:39:21,420 --> 00:39:21,660
+I
+
+1028
+00:39:21,660 --> 00:39:22,740
+also did the voice of Yui
+
+1029
+00:39:24,200 --> 00:39:26,260
+because, first of all,
+
+1030
+00:39:26,290 --> 00:39:27,900
+we couldn't get in touch with Kim Sevier,
+
+1031
+00:39:28,060 --> 00:39:29,520
+and second of all, because to me,
+
+1032
+00:39:29,550 --> 00:39:30,420
+it just seemed to make sense
+
+1033
+00:39:30,650 --> 00:39:32,200
+that if Rey is a clone of Yui,
+
+1034
+00:39:33,400 --> 00:39:34,700
+that whoever does Rey's voice
+
+1035
+00:39:34,770 --> 00:39:36,000
+should probably do Yui's voice.
+
+1036
+00:39:37,120 --> 00:39:38,420
+This is the scene where Spike
+
+1037
+00:39:39,540 --> 00:39:41,279
+dubbed Gendo Shadowbone
+
+1038
+00:39:42,160 --> 00:39:44,420
+because in a few moments you will see
+
+1039
+00:39:45,100 --> 00:39:46,300
+there is a big shadow cast
+
+1040
+00:39:46,320 --> 00:39:47,360
+and it looks like
+
+1041
+00:39:47,360 --> 00:39:49,060
+he has this
+
+1042
+00:39:51,460 --> 00:39:52,020
+ginormous
+
+1043
+00:39:52,020 --> 00:39:52,580
+bone.
+
+1044
+00:39:54,740 --> 00:39:55,480
+Wait, it's coming up.
+
+1045
+00:39:56,660 --> 00:39:56,960
+Coming
+
+1046
+00:39:56,960 --> 00:39:57,300
+up.
+
+1047
+00:39:59,340 --> 00:39:59,880
+There it is!
+
+1048
+00:40:00,360 --> 00:40:02,580
+Shadow bone, shadow bone.
+
+1049
+00:40:03,580 --> 00:40:05,420
+I swear, in between takes for like an hour,
+
+1050
+00:40:05,680 --> 00:40:08,580
+Spike would just start singing verses about shadow bone.
+
+1051
+00:40:09,620 --> 00:40:09,620
+This
+
+1052
+00:40:09,620 --> 00:40:11,540
+film drove me to shave my head, my God.
+
+1053
+00:40:12,980 --> 00:40:14,380
+You really are a cycle of Anna.
+
+1054
+00:40:15,740 --> 00:40:16,800
+I do my alms now.
+
+1055
+00:40:18,500 --> 00:40:20,200
+They are three wise men, three magic,
+
+1056
+00:40:20,860 --> 00:40:22,780
+named after the three wise men
+
+1057
+00:40:22,840 --> 00:40:24,100
+who very little has actually been written.
+
+1058
+00:40:24,340 --> 00:40:24,680
+There's
+
+1059
+00:40:24,680 --> 00:40:25,840
+not a ton out
+
+1060
+00:40:25,840 --> 00:40:26,500
+there that's really,
+
+1061
+00:40:29,140 --> 00:40:29,920
+I would say,
+
+1062
+00:40:30,160 --> 00:40:30,480
+credible.
+
+1063
+00:40:30,920 --> 00:40:32,120
+A lot of people will talk,
+
+1064
+00:40:32,260 --> 00:40:34,100
+but there's a lot of stories to tell about them,
+
+1065
+00:40:34,160 --> 00:40:35,320
+but really most of that stuff was made
+
+1066
+00:40:35,320 --> 00:40:35,860
+up in the last
+
+1067
+00:40:35,860 --> 00:40:36,360
+hundred years.
+
+1068
+00:40:37,720 --> 00:40:38,200
+It's cute.
+
+1069
+00:40:38,420 --> 00:40:38,860
+It's cute.
+
+1070
+00:40:39,440 --> 00:40:39,980
+It's just fun.
+
+1071
+00:40:39,980 --> 00:40:40,040
+This
+
+1072
+00:40:40,040 --> 00:40:41,460
+is Laura Chapman doing...
+
+1073
+00:40:41,660 --> 00:40:42,260
+Dr. Akagi.
+
+1074
+00:40:42,280 --> 00:40:42,900
+Dr. Akagi.
+
+1075
+00:40:43,360 --> 00:40:44,580
+She did a wonderful job.
+
+1076
+00:40:45,240 --> 00:40:46,120
+I love this scene.
+
+1077
+00:40:46,240 --> 00:40:47,060
+It is so evil.
+
+1078
+00:40:48,220 --> 00:40:49,860
+And it just makes me so happy.
+
+1079
+00:40:52,880 --> 00:40:54,120
+Children get strangled.
+
+1080
+00:40:54,280 --> 00:40:55,400
+It's wrong, evil, and bad.
+
+1081
+00:40:55,460 --> 00:40:56,540
+And it kind of made me giggle.
+
+1082
+00:40:57,620 --> 00:40:58,640
+I think it's because Ray is
+
+1083
+00:40:58,640 --> 00:41:00,020
+so evil to her.
+
+1084
+00:41:00,820 --> 00:41:01,460
+It's just...
+
+1085
+00:41:01,820 --> 00:41:03,160
+The whole thing is just wrong.
+
+1086
+00:41:03,340 --> 00:41:03,700
+It's wonderful.
+
+1087
+00:41:04,540 --> 00:41:07,079
+People that often haven't seen this movie laugh at this scene
+
+1088
+00:41:07,100 --> 00:41:10,420
+because it's just so weird to see this little child being so old,
+
+1089
+00:41:10,700 --> 00:41:11,160
+yeah, calling
+
+1090
+00:41:11,160 --> 00:41:11,640
+her old hag.
+
+1091
+00:41:11,720 --> 00:41:13,340
+One would almost think that this was
+
+1092
+00:41:13,340 --> 00:41:13,640
+set up.
+
+1093
+00:41:14,840 --> 00:41:15,600
+There's definitely
+
+1094
+00:41:15,600 --> 00:41:18,440
+a fate theme in this film,
+
+1095
+00:41:18,500 --> 00:41:19,960
+if for no other reason than Ode to Joy,
+
+1096
+00:41:20,200 --> 00:41:24,980
+and one would wonder if there was some plan in sending Rey in there that day,
+
+1097
+00:41:25,520 --> 00:41:28,540
+if this was the way to get rid of the doctor, the good doctor.
+
+1098
+00:41:29,660 --> 00:41:29,920
+And there's
+
+1099
+00:41:29,920 --> 00:41:31,460
+also an interesting blood
+
+1100
+00:41:31,460 --> 00:41:31,920
+sacrifice
+
+1101
+00:41:31,920 --> 00:41:33,760
+kind of metaphor
+
+1102
+00:41:33,760 --> 00:41:34,339
+going on
+
+1103
+00:41:34,360 --> 00:41:36,980
+that she bleeds all over the three computers,
+
+1104
+00:41:37,100 --> 00:41:39,020
+which is this new creature that she's created.
+
+1105
+00:41:39,820 --> 00:41:41,900
+- And imbued with her heart and soul.
+
+1106
+00:41:42,300 --> 00:41:42,600
+- It's that sacrifice,
+
+1107
+00:41:43,100 --> 00:41:44,280
+and we have tablas.
+
+1108
+00:41:45,420 --> 00:41:48,440
+A choice is made, and we have created something
+
+1109
+00:41:48,680 --> 00:41:51,000
+which will change the world.
+
+1110
+00:41:52,340 --> 00:41:52,820
+- Interesting.
+
+1111
+00:41:55,680 --> 00:41:56,980
+Oh, this is the one.
+
+1112
+00:41:57,160 --> 00:41:58,460
+- Oh no, go ahead.
+
+1113
+00:41:58,740 --> 00:41:59,180
+- We, uh.
+
+1114
+00:42:01,440 --> 00:42:03,200
+Okay, that noise for the angel
+
+1115
+00:42:03,220 --> 00:42:11,860
+It was actually a camel scream that we digitized and put grumpy flutter on it and pitched it
+
+1116
+00:42:11,980 --> 00:42:16,860
+and did all this crazy weird stuff, but it was so amazing to take this totally organic
+
+1117
+00:42:17,120 --> 00:42:20,000
+sound and turn it into this otherworldly terrifying thing.
+
+1118
+00:42:20,740 --> 00:42:23,500
+There was angel noise that neither Taliesin nor I could seem to
+
+1119
+00:42:23,500 --> 00:42:24,040
+get.
+
+1120
+00:42:24,920 --> 00:42:30,060
+Obviously in the future they use old power books, a lot of old equipment.
+
+1121
+00:42:30,700 --> 00:42:32,020
+You can actually buy them.
+
+1122
+00:42:32,780 --> 00:42:35,760
+They were selling the Nerve power book.
+
+1123
+00:42:35,900 --> 00:42:36,880
+Oh, okay. Awesome.
+
+1124
+00:42:37,050 --> 00:42:37,500
+And cell phones.
+
+1125
+00:42:37,790 --> 00:42:39,300
+Oh, there's a tie-in for everything.
+
+1126
+00:42:42,080 --> 00:42:45,800
+Zuriel, this poor angel who's about to get what's coming to him,
+
+1127
+00:42:47,060 --> 00:42:49,180
+is mostly associated with the moon.
+
+1128
+00:42:49,380 --> 00:42:51,440
+He's got some other interesting associations.
+
+1129
+00:42:51,620 --> 00:42:54,540
+That's my favorite, though, because from this point on in the show,
+
+1130
+00:42:54,560 --> 00:42:56,120
+the moon figures in pretty heavily.
+
+1131
+00:42:56,920 --> 00:42:58,280
+We will get to that a little later, though.
+
+1132
+00:42:58,440 --> 00:43:03,960
+Now, I did the Ava growls and
+
+1133
+00:43:03,960 --> 00:43:05,940
+soon-to-be munching
+
+1134
+00:43:05,940 --> 00:43:06,800
+noises here.
+
+1135
+00:43:07,500 --> 00:43:11,980
+It was kind of one of the creepier things to do, but it's just so feral.
+
+1136
+00:43:13,440 --> 00:43:14,560
+It's like this weird
+
+1137
+00:43:14,560 --> 00:43:16,080
+insectozoid
+
+1138
+00:43:16,080 --> 00:43:18,780
+rabid dog type.
+
+1139
+00:43:20,900 --> 00:43:22,900
+Yeah, that was such a weird...
+
+1140
+00:43:23,160 --> 00:43:24,480
+It's such a creepy scene, I think,
+
+1141
+00:43:24,480 --> 00:43:24,600
+in
+
+1142
+00:43:24,600 --> 00:43:24,860
+general.
+
+1143
+00:43:25,200 --> 00:43:27,480
+It's the eyes in the human hand that really always got to me.
+
+1144
+00:43:29,700 --> 00:43:30,100
+There's
+
+1145
+00:43:30,100 --> 00:43:35,180
+something that really is disturbing down to the very core of a human being, watching this.
+
+1146
+00:43:36,300 --> 00:43:41,120
+And just the motions here. This is like, "Oh, you've caught the dog and he's eating something he shouldn't be eating."
+
+1147
+00:43:41,120 --> 00:43:43,200
+And then he's like, "All right, fine. I'm proud of it."
+
+1148
+00:43:44,300 --> 00:43:47,880
+This is Keith Burgess took over the role of Hugo for the movie.
+
+1149
+00:43:48,240 --> 00:43:48,960
+Free of what?
+
+1150
+00:43:49,120 --> 00:43:50,040
+Best line!
+
+1151
+00:43:50,880 --> 00:43:51,280
+Best
+
+1152
+00:43:51,280 --> 00:43:52,900
+line. Free of what?
+
+1153
+00:43:53,980 --> 00:43:54,880
+We love that one.
+
+1154
+00:43:56,140 --> 00:43:59,680
+Brian Granvelt was unavailable for the project, so we had...
+
+1155
+00:44:02,320 --> 00:44:03,860
+Keith Burgess took over that role.
+
+1156
+00:44:03,860 --> 00:44:04,280
+Unit 1 has
+
+1157
+00:44:04,280 --> 00:44:05,600
+been awakened and set free.
+
+1158
+00:44:06,260 --> 00:44:07,920
+Sele sure won't stay quiet for this.
+
+1159
+00:44:08,420 --> 00:44:10,960
+Is this part of your scenario, Commander Ikari?
+
+1160
+00:44:12,880 --> 00:44:13,320
+Sele
+
+1161
+00:44:13,320 --> 00:44:16,420
+is, as our official word goes, is German for sold.
+
+1162
+00:44:16,530 --> 00:44:21,620
+There was a couple other interpretations running around for a while, but...
+
+1163
+00:44:21,860 --> 00:44:23,020
+I dug up the...
+
+1164
+00:44:23,240 --> 00:44:23,540
+Gehern.
+
+1165
+00:44:23,820 --> 00:44:24,060
+Gehern.
+
+1166
+00:44:24,060 --> 00:44:24,720
+Gehern for the mind, yeah.
+
+1167
+00:44:25,880 --> 00:44:26,980
+Good for the mind and the soul.
+
+1168
+00:44:27,680 --> 00:44:28,960
+Ray in the hospital once again.
+
+1169
+00:44:30,880 --> 00:44:31,700
+First cranial nerve.
+
+1170
+00:44:32,300 --> 00:44:35,080
+All of this underground Tokyo complex
+
+1171
+00:44:35,320 --> 00:44:38,600
+is very much designed to function and work like a human brain.
+
+1172
+00:44:39,200 --> 00:44:42,020
+Everything is named after functions and parts of the human brain
+
+1173
+00:44:42,250 --> 00:44:42,380
+and
+
+1174
+00:44:42,380 --> 00:44:42,660
+things that...
+
+1175
+00:44:42,660 --> 00:44:43,500
+Anyway, thank you for saving me.
+
+1176
+00:44:43,520 --> 00:44:43,820
+It's all
+
+1177
+00:44:43,820 --> 00:44:45,380
+very intellectual in design.
+
+1178
+00:44:46,920 --> 00:44:47,560
+You saved me.
+
+1179
+00:44:47,800 --> 00:44:51,200
+I really don't have the brain to go into every little bit and detail of it,
+
+1180
+00:44:51,320 --> 00:44:56,220
+But if you're willing to sit down with a Grey's Anatomy and map out the Tokyo 3 complex,
+
+1181
+00:44:56,350 --> 00:44:58,380
+you can figure out where people are and where they're heading.
+
+1182
+00:44:59,540 --> 00:45:00,660
+It's very unusual.
+
+1183
+00:45:02,680 --> 00:45:03,940
+Why do they always do those bubbles?
+
+1184
+00:45:04,010 --> 00:45:05,720
+It looks like somebody tooted in the tank.
+
+1185
+00:45:07,440 --> 00:45:08,420
+All right, it's just me.
+
+1186
+00:45:08,640 --> 00:45:08,760
+Sorry.
+
+1187
+00:45:09,660 --> 00:45:10,780
+The race stew scene.
+
+1188
+00:45:12,200 --> 00:45:12,600
+Race stew.
+
+1189
+00:45:17,660 --> 00:45:19,660
+Yeah, we're into the disturbing imagery.
+
+1190
+00:45:20,020 --> 00:45:22,100
+Yeah, once again, this one kind of creeped
+
+1191
+00:45:22,100 --> 00:45:22,340
+me out.
+
+1192
+00:45:23,700 --> 00:45:25,380
+Do you notice that these rays actually have
+
+1193
+00:45:25,380 --> 00:45:26,540
+nipples?
+
+1194
+00:45:27,840 --> 00:45:28,620
+Nipples and smiles.
+
+1195
+00:45:29,060 --> 00:45:29,480
+Nipples and smiles.
+
+1196
+00:45:30,220 --> 00:45:31,340
+Two things you don't see very often.
+
+1197
+00:45:31,340 --> 00:45:31,480
+You know what?
+
+1198
+00:45:31,560 --> 00:45:32,180
+I'm going to make a band
+
+1199
+00:45:32,180 --> 00:45:33,080
+called Nipples and Smiles.
+
+1200
+00:45:36,040 --> 00:45:37,160
+70s cover band.
+
+1201
+00:45:37,640 --> 00:45:37,760
+Yes.
+
+1202
+00:45:40,160 --> 00:45:40,960
+They have
+
+1203
+00:45:40,960 --> 00:45:41,900
+a name for that room.
+
+1204
+00:45:43,620 --> 00:45:44,020
+Chamber
+
+1205
+00:45:44,020 --> 00:45:44,440
+of Goth.
+
+1206
+00:45:44,700 --> 00:45:45,720
+Chamber of Goth, thank you.
+
+1207
+00:45:46,860 --> 00:45:48,920
+I looked and I looked, and I cannot find any other reference
+
+1208
+00:45:48,940 --> 00:45:49,520
+other than the one
+
+1209
+00:45:49,520 --> 00:45:51,060
+we found
+
+1210
+00:45:51,060 --> 00:45:51,540
+for it,
+
+1211
+00:45:51,980 --> 00:45:53,120
+which I can't remember at the moment.
+
+1212
+00:45:53,800 --> 00:45:54,260
+It was
+
+1213
+00:45:54,260 --> 00:45:55,980
+the
+
+1214
+00:45:55,980 --> 00:45:59,620
+article written by some religious
+
+1215
+00:45:59,620 --> 00:46:00,220
+professor
+
+1216
+00:46:01,680 --> 00:46:02,080
+referring to it.
+
+1217
+00:46:02,100 --> 00:46:03,500
+It's from the book of Enoch,
+
+1218
+00:46:03,910 --> 00:46:04,020
+right?
+
+1219
+00:46:04,380 --> 00:46:06,660
+It is an Enoch, so I'm told,
+
+1220
+00:46:06,670 --> 00:46:07,700
+but I haven't been able to find it
+
+1221
+00:46:07,700 --> 00:46:09,080
+in any of the three books of Enoch yet.
+
+1222
+00:46:09,680 --> 00:46:10,600
+It must be somewhere.
+
+1223
+00:46:11,480 --> 00:46:13,720
+We do know it is the room of unborn souls,
+
+1224
+00:46:13,920 --> 00:46:15,980
+of souls that have yet to have had lives.
+
+1225
+00:46:17,540 --> 00:46:18,420
+Which actually is ironic,
+
+1226
+00:46:18,600 --> 00:46:20,320
+Because these are bodies that are yet to have souls.
+
+1227
+00:46:20,870 --> 00:46:22,740
+So it's like the anti-chamber of guff.
+
+1228
+00:46:22,740 --> 00:46:22,960
+Yes, I do.
+
+1229
+00:46:23,920 --> 00:46:25,340
+I'm destroying the--
+
+1230
+00:46:25,460 --> 00:46:27,500
+Now it's the lake in MacArthur Park.
+
+1231
+00:46:27,680 --> 00:46:28,920
+It's all the play pieces.
+
+1232
+00:46:31,060 --> 00:46:33,320
+Yeah, only one soul for all those bodies.
+
+1233
+00:46:33,600 --> 00:46:33,920
+You're
+
+1234
+00:46:33,920 --> 00:46:34,280
+late!
+
+1235
+00:46:34,840 --> 00:46:35,660
+Sorry, sorry.
+
+1236
+00:46:36,620 --> 00:46:38,460
+Which again, Aaron Crone is Kaworu.
+
+1237
+00:46:40,119 --> 00:46:43,120
+Who knew that the bringer of impending dune played the violin?
+
+1238
+00:46:43,440 --> 00:46:43,660
+That's--
+
+1239
+00:46:44,440 --> 00:46:46,160
+I always thought violin players were kind of evil.
+
+1240
+00:46:47,360 --> 00:46:54,420
+strange hands. So once again why do they, what's this concerto whole little,
+
+1241
+00:46:54,740 --> 00:46:56,460
+this
+
+1242
+00:46:56,460 --> 00:46:57,140
+arrangement
+
+1243
+00:46:57,330 --> 00:46:58,200
+thing they're doing here?
+
+1244
+00:46:58,360 --> 00:47:03,320
+The alternate universe of what life could have been. No,
+
+1245
+00:47:03,440 --> 00:47:03,820
+well, no,
+
+1246
+00:47:04,070 --> 00:47:05,460
+wait, this little thing?
+
+1247
+00:47:05,700 --> 00:47:09,660
+This is actually, this is in continuity, I found out. This did
+
+1248
+00:47:09,870 --> 00:47:17,320
+happen. This is just a day at school, about, I guess it's maybe a week before everything
+
+1249
+00:47:17,340 --> 00:47:18,000
+goes down.
+
+1250
+00:47:18,260 --> 00:47:18,740
+Oh really?
+
+1251
+00:47:19,040 --> 00:47:23,920
+Yes. They were all apparently got together and did this musical number.
+
+1252
+00:47:24,600 --> 00:47:29,660
+It's just a framework obviously. They really...
+
+1253
+00:47:29,660 --> 00:47:30,520
+Where did you hear that?
+
+1254
+00:47:31,680 --> 00:47:32,700
+I'm trying to remember.
+
+1255
+00:47:32,990 --> 00:47:39,320
+It was in one of... something I picked up in Japan if I recall. I have... everything comes from so
+
+1256
+00:47:39,420 --> 00:47:44,360
+many different sources on this film. You have to just because whether or not it was meant to be
+
+1257
+00:47:44,380 --> 00:47:51,000
+there you can you can just analyze this movie from any aspect and find interesting parallels it is it
+
+1258
+00:47:51,040 --> 00:47:53,840
+is base myth and in base myth you can find all sorts of different
+
+1259
+00:47:53,840 --> 00:47:55,880
+angles let's go brad
+
+1260
+00:47:55,880 --> 00:47:56,260
+weaver's
+
+1261
+00:47:56,400 --> 00:47:57,300
+toji the reluctant
+
+1262
+00:47:57,300 --> 00:48:02,060
+ava pilot our
+
+1263
+00:48:02,060 --> 00:48:02,780
+black ava
+
+1264
+00:48:05,780 --> 00:48:06,320
+this
+
+1265
+00:48:12,480 --> 00:48:13,440
+Yeah, so a 13th angel.
+
+1266
+00:48:13,900 --> 00:48:14,180
+Bardial.
+
+1267
+00:48:16,520 --> 00:48:17,360
+Angel of Hail.
+
+1268
+00:48:19,780 --> 00:48:21,440
+Never quite dealt with that one.
+
+1269
+00:48:24,080 --> 00:48:24,960
+One of the two angels.
+
+1270
+00:48:25,120 --> 00:48:26,680
+They had two Avas over in Nevada.
+
+1271
+00:48:26,820 --> 00:48:27,960
+The silver one and the black one.
+
+1272
+00:48:27,960 --> 00:48:29,160
+The silver one got blown up,
+
+1273
+00:48:29,160 --> 00:48:31,480
+and the black one got infected with this angel.
+
+1274
+00:48:32,620 --> 00:48:33,360
+Or is this angel?
+
+1275
+00:48:34,220 --> 00:48:39,160
+There is a story in some biblical texts
+
+1276
+00:48:39,240 --> 00:48:42,340
+of certain angels being the carriers of the souls of the dead
+
+1277
+00:48:42,360 --> 00:48:49,460
+look like demons so that they can pass into hell untouched that is that is not from enoch as far
+
+1278
+00:48:49,540 --> 00:48:56,520
+as i know i believe it's from milton not milton uh dante one of the two you read them both
+
+1279
+00:48:58,140 --> 00:49:01,340
+so it would make sense that there was kind of the stealthy
+
+1280
+00:49:01,340 --> 00:49:04,000
+the stealth angel don't
+
+1281
+00:49:04,000 --> 00:49:04,460
+mind me just
+
+1282
+00:49:04,520 --> 00:49:05,220
+He's carrying a soul?
+
+1283
+00:49:05,220 --> 00:49:05,740
+I can't!
+
+1284
+00:49:06,190 --> 00:49:08,880
+If he's still alive, we've got to try and help him!
+
+1285
+00:49:09,220 --> 00:49:10,840
+I just can't kill another human being!
+
+1286
+00:49:11,120 --> 00:49:12,200
+It's him or you!
+
+1287
+00:49:12,640 --> 00:49:13,060
+No!
+
+1288
+00:49:13,540 --> 00:49:13,840
+No!
+
+1289
+00:49:14,800 --> 00:49:15,620
+Love the way he does
+
+1290
+00:49:15,620 --> 00:49:15,820
+this.
+
+1291
+00:49:15,820 --> 00:49:15,860
+A
+
+1292
+00:49:15,860 --> 00:49:17,060
+little indents on the neck.
+
+1293
+00:49:19,380 --> 00:49:20,180
+It's really well
+
+1294
+00:49:20,180 --> 00:49:20,480
+done.
+
+1295
+00:49:20,700 --> 00:49:21,140
+Looks painful.
+
+1296
+00:49:21,330 --> 00:49:21,440
+Correct.
+
+1297
+00:49:22,150 --> 00:49:24,240
+Switch all control to the dummy plug system.
+
+1298
+00:49:24,540 --> 00:49:26,920
+But sir, the dummy plug isn't fully operational yet.
+
+1299
+00:49:27,340 --> 00:49:29,040
+Dr. Hakagi hasn't approved its use.
+
+1300
+00:49:29,600 --> 00:49:30,040
+It's still
+
+1301
+00:49:30,040 --> 00:49:31,500
+better than the current pilot!
+
+1302
+00:49:31,860 --> 00:49:36,840
+So the dummy plugs were in theory actually piloted by some of the spare rays.
+
+1303
+00:49:38,380 --> 00:49:44,500
+And I thought they were talking about the next set of production evas were maybe even spare kawarus.
+
+1304
+00:49:44,630 --> 00:49:44,920
+They were.
+
+1305
+00:49:45,160 --> 00:49:45,340
+Yes.
+
+1306
+00:49:45,490 --> 00:49:45,660
+They
+
+1307
+00:49:45,660 --> 00:49:47,360
+were spare kawarus. Actually there's like...
+
+1308
+00:49:47,460 --> 00:49:47,900
+Never quite.
+
+1309
+00:49:48,300 --> 00:49:48,600
+...a
+
+1310
+00:49:48,600 --> 00:49:57,620
+frame, maybe two frames in Rebirth where you see the plugs being screwed into the EVA series.
+
+1311
+00:49:57,830 --> 00:49:58,760
+A little blip.
+
+1312
+00:49:58,940 --> 00:49:59,100
+And
+
+1313
+00:49:59,100 --> 00:50:02,540
+if you pause it, it says "Kuaru" along the side.
+
+1314
+00:50:02,860 --> 00:50:04,240
+Aren't you glad you bought the DVD now?
+
+1315
+00:50:04,500 --> 00:50:05,340
+Yeah. Frame
+
+1316
+00:50:05,340 --> 00:50:05,820
+by frame.
+
+1317
+00:50:06,410 --> 00:50:07,060
+Get to go through it.
+
+1318
+00:50:07,060 --> 00:50:07,500
+We'll give you some
+
+1319
+00:50:07,500 --> 00:50:12,940
+more goodies in the end of "Evangelii."
+
+1320
+00:50:13,020 --> 00:50:13,700
+There's some
+
+1321
+00:50:13,700 --> 00:50:15,620
+really great
+
+1322
+00:50:15,620 --> 00:50:17,180
+freeze frames in
+
+1323
+00:50:17,180 --> 00:50:17,280
+there.
+
+1324
+00:50:17,430 --> 00:50:17,520
+Freeze
+
+1325
+00:50:17,520 --> 00:50:18,080
+frames, yeah.
+
+1326
+00:50:18,740 --> 00:50:23,460
+A friend of mine who loves the psychological aspect of the show
+
+1327
+00:50:23,570 --> 00:50:25,300
+once postulated that
+
+1328
+00:50:25,300 --> 00:50:26,900
+Shinji
+
+1329
+00:50:26,900 --> 00:50:27,380
+is actually
+
+1330
+00:50:27,400 --> 00:50:27,880
+feeling the
+
+1331
+00:50:27,880 --> 00:50:29,940
+rage too since it is
+
+1332
+00:50:29,940 --> 00:50:30,760
+a synchronization
+
+1333
+00:50:30,760 --> 00:50:32,660
+she said it was the robot that saved
+
+1334
+00:50:32,660 --> 00:50:33,020
+our lives
+
+1335
+00:50:33,020 --> 00:50:37,560
+eva and the pilot that that's part of the torture of this this particular scene
+
+1336
+00:50:37,560 --> 00:50:38,780
+oh interesting
+
+1337
+00:50:40,220 --> 00:50:41,720
+feel that one for a little while
+
+1338
+00:50:41,720 --> 00:50:43,320
+oh man yeah
+
+1339
+00:50:43,320 --> 00:50:46,040
+he's not just witness to this that he's part of it
+
+1340
+00:50:50,180 --> 00:50:52,380
+wow this movie makes my head hurt
+
+1341
+00:50:55,000 --> 00:50:55,620
+Chris Spike
+
+1342
+00:50:55,620 --> 00:50:56,120
+Spencer once
+
+1343
+00:50:56,120 --> 00:50:56,680
+again did
+
+1344
+00:50:56,680 --> 00:50:58,600
+an amazing, amazing job.
+
+1345
+00:50:59,120 --> 00:50:59,520
+Stop!
+
+1346
+00:51:02,760 --> 00:51:03,740
+Father, no!
+
+1347
+00:51:05,180 --> 00:51:06,840
+One of those scenes. Oh, and cut to the girlfriend.
+
+1348
+00:51:08,080 --> 00:51:08,880
+That's just brutal.
+
+1349
+00:51:09,300 --> 00:51:11,860
+This is Kimberly Yates. She kind of did a lot of the different voices.
+
+1350
+00:51:12,980 --> 00:51:17,180
+She just, she, we love working with Kimberly because she just cracks us up.
+
+1351
+00:51:17,580 --> 00:51:20,280
+What shall I cook is one of my favorite lines of this whole deal.
+
+1352
+00:51:20,600 --> 00:51:21,040
+So cute.
+
+1353
+00:51:21,220 --> 00:51:21,540
+Is she
+
+1354
+00:51:21,540 --> 00:51:22,340
+from the TV series
+
+1355
+00:51:22,340 --> 00:51:23,320
+or is she, uh...
+
+1356
+00:51:23,900 --> 00:51:24,280
+I'm sorry?
+
+1357
+00:51:24,520 --> 00:51:25,520
+Is she from the original series?
+
+1358
+00:51:25,640 --> 00:51:25,780
+No,
+
+1359
+00:51:25,900 --> 00:51:26,240
+originally it
+
+1360
+00:51:26,240 --> 00:51:28,620
+was Carol Amerson was Hikari,
+
+1361
+00:51:28,860 --> 00:51:32,060
+but again, another actor fell off the face of the earth.
+
+1362
+00:51:32,920 --> 00:51:35,680
+She was a radio DJ in Houston and don't
+
+1363
+00:51:35,680 --> 00:51:36,200
+know where she went.
+
+1364
+00:51:37,260 --> 00:51:38,260
+It seems like you're
+
+1365
+00:51:38,260 --> 00:51:38,420
+always
+
+1366
+00:51:38,420 --> 00:51:38,680
+the
+
+1367
+00:51:38,680 --> 00:51:39,500
+life of the radio DJ.
+
+1368
+00:51:39,980 --> 00:51:41,380
+Commander Ryutski is the one who's
+
+1369
+00:51:41,380 --> 00:51:42,800
+probably working in Albuquerque right now.
+
+1370
+00:51:42,960 --> 00:51:44,400
+Have you been asking around about your father?
+
+1371
+00:51:44,940 --> 00:51:46,980
+I just haven't been around him much.
+
+1372
+00:51:47,220 --> 00:51:48,240
+And Ray's glasses,
+
+1373
+00:51:48,520 --> 00:51:53,140
+her symbol of the one nice act that she's had,
+
+1374
+00:51:53,380 --> 00:51:53,860
+I imagine,
+
+1375
+00:51:54,100 --> 00:51:54,620
+in her very
+
+1376
+00:51:54,620 --> 00:51:55,940
+short life.
+
+1377
+00:51:59,200 --> 00:52:00,280
+The young tough Kendo.
+
+1378
+00:52:07,440 --> 00:52:08,280
+It's Kaji, right?
+
+1379
+00:52:08,840 --> 00:52:09,320
+That's why
+
+1380
+00:52:09,320 --> 00:52:10,160
+we spend so much time...
+
+1381
+00:52:10,160 --> 00:52:13,040
+Yeah, Kaji's speaking to Shinji.
+
+1382
+00:52:13,140 --> 00:52:13,700
+He's kind of...
+
+1383
+00:52:13,940 --> 00:52:15,920
+Kaji is kind of...
+
+1384
+00:52:17,680 --> 00:52:18,160
+Shinji's...
+
+1385
+00:52:19,320 --> 00:52:19,800
+What
+
+1386
+00:52:19,800 --> 00:52:21,260
+Shinji would love his alter ego to be,
+
+1387
+00:52:21,400 --> 00:52:24,060
+this cool, smooth, you know...
+
+1388
+00:52:24,860 --> 00:52:25,300
+just
+
+1389
+00:52:26,600 --> 00:52:27,640
+pimp daddy kind of, you know.
+
+1390
+00:52:28,620 --> 00:52:29,800
+He's also one of the most
+
+1391
+00:52:30,600 --> 00:52:31,040
+really
+
+1392
+00:52:32,540 --> 00:52:33,360
+understandable characters.
+
+1393
+00:52:33,490 --> 00:52:33,600
+He
+
+1394
+00:52:33,600 --> 00:52:35,760
+speaks and it sounds like
+
+1395
+00:52:35,760 --> 00:52:36,480
+it makes sense.
+
+1396
+00:52:37,430 --> 00:52:39,000
+I don't mean to interrupt. This is my favorite scene.
+
+1397
+00:52:39,120 --> 00:52:40,120
+This is Allison playing
+
+1398
+00:52:41,760 --> 00:52:43,500
+Masato and she's had a few drinks
+
+1399
+00:52:44,040 --> 00:52:45,260
+and I just love her
+
+1400
+00:52:46,140 --> 00:52:46,800
+right here.
+
+1401
+00:52:48,920 --> 00:52:50,080
+Should I buy you some fire?
+
+1402
+00:52:50,490 --> 00:52:51,200
+I just love
+
+1403
+00:52:53,180 --> 00:53:01,240
+And actually, when they switch here to this two shot, she talks about homeostasis.
+
+1404
+00:53:03,120 --> 00:53:08,380
+And I'm just so sad we had to bury it because there was this other new conversation going on.
+
+1405
+00:53:08,640 --> 00:53:12,560
+But we laughed a lot in the studio on that.
+
+1406
+00:53:12,840 --> 00:53:14,040
+Allison did an amazing job.
+
+1407
+00:53:14,760 --> 00:53:19,760
+I don't think anyone could ever have done the role of Misato Justice the way Allison did.
+
+1408
+00:53:20,040 --> 00:53:23,180
+Actually, when Mac Greenfield and I were originally casting the series,
+
+1409
+00:53:23,780 --> 00:53:24,940
+I wanted to read for Masato,
+
+1410
+00:53:26,000 --> 00:53:27,880
+because I thought she was just a great, really cool character.
+
+1411
+00:53:28,100 --> 00:53:29,620
+And then Alison came in and read for her,
+
+1412
+00:53:30,320 --> 00:53:31,700
+and I just heard Alison read, and I went,
+
+1413
+00:53:31,780 --> 00:53:32,120
+OK, never mind.
+
+1414
+00:53:32,980 --> 00:53:35,160
+She was so dead-on perfect
+
+1415
+00:53:36,540 --> 00:53:39,080
+that we couldn't not cast her.
+
+1416
+00:53:39,980 --> 00:53:42,720
+There's nothing like hearing somebody do your part so much better.
+
+1417
+00:53:43,420 --> 00:53:44,180
+It's like, damn it.
+
+1418
+00:53:45,980 --> 00:53:46,380
+OK.
+
+1419
+00:53:46,580 --> 00:53:47,540
+Well, there goes that part.
+
+1420
+00:53:47,580 --> 00:53:49,140
+I always joke that Mac cast me as Ray
+
+1421
+00:53:49,160 --> 00:53:50,660
+because he wanted to keep me quiet for a while.
+
+1422
+00:53:50,770 --> 00:53:54,540
+He was tired of listening to me do all these spazzy young characters.
+
+1423
+00:53:55,280 --> 00:53:56,160
+Wait, here he comes.
+
+1424
+00:53:56,490 --> 00:53:56,920
+Here he comes.
+
+1425
+00:53:58,560 --> 00:53:59,680
+Are we going to talk about this?
+
+1426
+00:54:00,320 --> 00:54:00,640
+In a minute.
+
+1427
+00:54:00,820 --> 00:54:01,080
+Okay.
+
+1428
+00:54:02,440 --> 00:54:02,600
+Hi.
+
+1429
+00:54:03,400 --> 00:54:04,400
+You're a little late, aren't you?
+
+1430
+00:54:05,660 --> 00:54:06,280
+Oh, my God!
+
+1431
+00:54:06,860 --> 00:54:07,800
+They killed Kaji!
+
+1432
+00:54:08,880 --> 00:54:09,600
+You bastards!
+
+1433
+00:54:10,590 --> 00:54:11,020
+Why won't
+
+1434
+00:54:11,020 --> 00:54:11,620
+you listen to me?
+
+1435
+00:54:12,060 --> 00:54:12,800
+Kaji is dead!
+
+1436
+00:54:12,840 --> 00:54:14,580
+I've been waiting to do that for a year, dude.
+
+1437
+00:54:15,040 --> 00:54:18,080
+Well, on the original Japanese soundtrack,
+
+1438
+00:54:18,420 --> 00:54:23,200
+That sound was a much less pronounced shot.
+
+1439
+00:54:23,580 --> 00:54:25,020
+It sounded like someone got slapped.
+
+1440
+00:54:25,300 --> 00:54:31,240
+And we weren't happy with that, so we put in a great gunshot, or Sean, our sound engineer.
+
+1441
+00:54:31,540 --> 00:54:32,020
+Sound god.
+
+1442
+00:54:32,380 --> 00:54:34,000
+Put in a great shot there.
+
+1443
+00:54:35,000 --> 00:54:37,240
+That is one of the big questions of Ava.
+
+1444
+00:54:37,460 --> 00:54:38,540
+Who shot Kaji?
+
+1445
+00:54:38,620 --> 00:54:47,800
+I mean, we get asked that a lot at conventions, and I think it's yet another give them something to talk about in the parking lot moment where, you know, it's...
+
+1446
+00:54:48,279 --> 00:54:49,300
+They're not gonna tell us.
+
+1447
+00:54:49,600 --> 00:54:52,100
+It's Japanese film. You don't get answers. You get questions.
+
+1448
+00:54:52,360 --> 00:54:53,660
+Exactly. You're gonna have to live with that.
+
+1449
+00:54:53,810 --> 00:54:53,900
+My
+
+1450
+00:54:53,900 --> 00:54:55,920
+favorite, though, is when some fans come up to me and say,
+
+1451
+00:54:56,380 --> 00:54:59,200
+"What was it?" Oh, they were talking about a part in, uh...
+
+1452
+00:55:01,120 --> 00:55:04,440
+in, uh, the Eva movie where there's one part where Gendo's lips move.
+
+1453
+00:55:05,560 --> 00:55:07,140
+Right, right. And no sound comes out.
+
+1454
+00:55:07,440 --> 00:55:07,780
+And he's like,
+
+1455
+00:55:07,880 --> 00:55:10,500
+"Well, uh, I have a friend who read the lip flaps,
+
+1456
+00:55:10,740 --> 00:55:12,340
+and he says that it said blah, blah, blah."
+
+1457
+00:55:12,340 --> 00:55:15,800
+And Jason's... Jason goes, "Um, it's a cartoon!"
+
+1458
+00:55:15,820 --> 00:55:16,420
+It's
+
+1459
+00:55:16,420 --> 00:55:17,640
+lip flaps. That's all they do.
+
+1460
+00:55:18,820 --> 00:55:23,400
+This scene is actually probably just one of the sweetest scenes in all of cinema, I think.
+
+1461
+00:55:23,600 --> 00:55:25,240
+Just this little exchange between the two.
+
+1462
+00:55:25,940 --> 00:55:31,640
+And it's so cute when Shinji gets embarrassed when he calls him Mr. Ikari.
+
+1463
+00:55:31,880 --> 00:55:32,100
+It's just
+
+1464
+00:55:32,100 --> 00:55:32,880
+a
+
+1465
+00:55:32,880 --> 00:55:33,820
+little blush and everything.
+
+1466
+00:55:33,890 --> 00:55:38,600
+And I think both Spike and Aaron did an incredible job of capturing that.
+
+1467
+00:55:39,090 --> 00:55:42,560
+This whole... I mean, there is some homoeroticism under this scene,
+
+1468
+00:55:42,820 --> 00:55:44,900
+but that's not really what this scene is about.
+
+1469
+00:55:45,380 --> 00:55:45,380
+So
+
+1470
+00:55:45,380 --> 00:55:47,260
+it's just so precious, I think.
+
+1471
+00:55:47,440 --> 00:55:49,340
+Yeah, it's people bonding.
+
+1472
+00:55:49,580 --> 00:55:52,320
+It's a friendship, and a real friendship.
+
+1473
+00:55:53,120 --> 00:55:56,740
+I've always thought that...
+
+1474
+00:55:57,560 --> 00:56:01,840
+It's funny, because the character of Quarro is so brilliant and so cruel.
+
+1475
+00:56:02,440 --> 00:56:09,060
+Because this is the only character that has ever said to Shinji that he's loved.
+
+1476
+00:56:09,920 --> 00:56:13,160
+Quarro tells Shinji that he loves him, and then Shinji is forced to kill him.
+
+1477
+00:56:14,420 --> 00:56:19,640
+That's just way, way too depressing.
+
+1478
+00:56:20,180 --> 00:56:21,460
+It's the essence of sacrifice.
+
+1479
+00:56:22,500 --> 00:56:23,220
+The essence of honor.
+
+1480
+00:56:23,720 --> 00:56:25,940
+It's the essence of honor. I could bottle it.
+
+1481
+00:56:27,100 --> 00:56:27,660
+I hate you.
+
+1482
+00:56:29,760 --> 00:56:30,920
+Don't talk to me ever again.
+
+1483
+00:56:31,520 --> 00:56:32,760
+Guaranteed to clear a room.
+
+1484
+00:56:34,280 --> 00:56:37,740
+I saw this episode with a room full of Kabbalists.
+
+1485
+00:56:39,740 --> 00:56:40,220
+It
+
+1486
+00:56:40,220 --> 00:56:42,560
+was funny. The minute we heard Oda Joy being hummed,
+
+1487
+00:56:42,560 --> 00:56:44,200
+we realized she was doomed.
+
+1488
+00:56:45,520 --> 00:56:46,040
+So
+
+1489
+00:56:46,040 --> 00:56:48,460
+there's a room full of occultists going, oh no.
+
+1490
+00:56:49,520 --> 00:56:51,320
+Well, which symbolism does Odejoy have?
+
+1491
+00:56:54,540 --> 00:56:57,520
+Odejoy, according to some people, and I'll back this up,
+
+1492
+00:56:57,520 --> 00:56:59,480
+he's quite possibly one of the great human achievements.
+
+1493
+00:56:59,880 --> 00:57:00,440
+Oh, absolutely.
+
+1494
+00:57:00,820 --> 00:57:03,320
+It almost justifies our worth on this planet that this
+
+1495
+00:57:03,320 --> 00:57:03,720
+exists.
+
+1496
+00:57:03,920 --> 00:57:05,280
+As Kororo says earlier.
+
+1497
+00:57:06,340 --> 00:57:07,900
+One of the greatest human achievements.
+
+1498
+00:57:08,240 --> 00:57:10,060
+And it's about destiny.
+
+1499
+00:57:10,140 --> 00:57:17,760
+It was really, as the author himself will admit, it's about destiny and beyond religious destiny, spiritual destiny.
+
+1500
+00:57:18,020 --> 00:57:23,540
+And Kawada being this angel of free will.
+
+1501
+00:57:23,740 --> 00:57:26,600
+And in my opinion, there's also a bit of Gabriel in here.
+
+1502
+00:57:26,690 --> 00:57:27,960
+We have music and we have
+
+1503
+00:57:27,960 --> 00:57:29,360
+that
+
+1504
+00:57:29,360 --> 00:57:31,320
+musical grand finale which Gabriel
+
+1505
+00:57:31,320 --> 00:57:32,280
+has always
+
+1506
+00:57:32,280 --> 00:57:33,920
+promised that he's going to bring us at the end.
+
+1507
+00:57:34,540 --> 00:57:36,420
+And one of the most human of the angels.
+
+1508
+00:57:36,780 --> 00:57:36,860
+I
+
+1509
+00:57:36,860 --> 00:57:38,940
+won't believe that Karu's an angel. It's a lie!
+
+1510
+00:57:39,740 --> 00:57:42,620
+It's this moment of decision.
+
+1511
+00:57:42,820 --> 00:57:45,200
+It's this decision of who is going to...
+
+1512
+00:57:45,200 --> 00:57:48,460
+Is the sacrifice going to be made or are we not going to be capable of it?
+
+1513
+00:57:49,060 --> 00:57:49,160
+Of
+
+1514
+00:57:49,160 --> 00:57:49,700
+the individual
+
+1515
+00:57:49,700 --> 00:57:51,920
+and how the individual shapes the world around them.
+
+1516
+00:57:54,000 --> 00:57:58,220
+That line, Shinji, you're late, is just such a multifaceted line.
+
+1517
+00:57:58,900 --> 00:58:01,280
+To me, I always kind of get teary listening to it.
+
+1518
+00:58:02,800 --> 00:58:03,720
+He's late to
+
+1519
+00:58:03,720 --> 00:58:03,860
+so
+
+1520
+00:58:03,860 --> 00:58:04,620
+many things.
+
+1521
+00:58:07,480 --> 00:58:08,340
+Oh, it's just so beautiful.
+
+1522
+00:58:09,500 --> 00:58:10,920
+And then we get into our AT Fields.
+
+1523
+00:58:13,000 --> 00:58:14,360
+The angel wore tennis shoes.
+
+1524
+00:58:14,540 --> 00:58:14,840
+It's just such
+
+1525
+00:58:14,840 --> 00:58:15,640
+a funny--
+
+1526
+00:58:17,010 --> 00:58:17,140
+No, no, no.
+
+1527
+00:58:17,880 --> 00:58:18,960
+And once again--
+
+1528
+00:58:18,960 --> 00:58:19,140
+The converse
+
+1529
+00:58:19,140 --> 00:58:19,420
+of our
+
+1530
+00:58:19,420 --> 00:58:19,980
+destruction.
+
+1531
+00:58:20,090 --> 00:58:20,680
+The converse
+
+1532
+00:58:20,680 --> 00:58:21,400
+is fabulous.
+
+1533
+00:58:22,280 --> 00:58:23,280
+We're so going to get hate mail.
+
+1534
+00:58:23,820 --> 00:58:24,300
+Once
+
+1535
+00:58:24,300 --> 00:58:28,940
+again, Aaron Crone just did an amazing job with this.
+
+1536
+00:58:29,090 --> 00:58:30,140
+Just absolutely beautiful.
+
+1537
+00:58:30,280 --> 00:58:30,540
+Got
+
+1538
+00:58:30,540 --> 00:58:30,660
+him!
+
+1539
+00:58:31,160 --> 00:58:31,300
+Stop!
+
+1540
+00:58:31,480 --> 00:58:33,020
+I'd better call it on than I would have ever imagined.
+
+1541
+00:58:33,500 --> 00:58:34,900
+And Spike does a wonderful
+
+1542
+00:58:34,900 --> 00:58:37,180
+job at portraying just how
+
+1543
+00:58:37,200 --> 00:58:38,980
+tortured Chinchius
+
+1544
+00:58:38,980 --> 00:58:40,940
+in this sequence.
+
+1545
+00:58:42,760 --> 00:58:45,680
+This sort of wrestling between trying
+
+1546
+00:58:45,680 --> 00:58:46,340
+to save the world
+
+1547
+00:58:46,860 --> 00:58:51,920
+and not wanting to kill his best friend and only love.
+
+1548
+00:58:53,460 --> 00:58:56,820
+Something interesting I came across
+
+1549
+00:58:56,820 --> 00:58:57,820
+a
+
+1550
+00:58:57,820 --> 00:58:58,600
+couple nights ago,
+
+1551
+00:58:58,600 --> 00:58:59,140
+I was reading
+
+1552
+00:58:59,140 --> 00:58:59,420
+through
+
+1553
+00:58:59,420 --> 00:59:01,080
+Mr.
+
+1554
+00:59:02,380 --> 00:59:03,560
+Crowley's book of Thoth,
+
+1555
+00:59:03,640 --> 00:59:05,880
+and he was talking about the Cain and Abel method
+
+1556
+00:59:05,980 --> 00:59:06,880
+from an appalled standpoint.
+
+1557
+00:59:08,240 --> 00:59:10,440
+and how the murder of the brother
+
+1558
+00:59:11,000 --> 00:59:12,660
+and how it represents to
+
+1559
+00:59:12,660 --> 00:59:14,140
+another
+
+1560
+00:59:14,140 --> 00:59:14,460
+symbol
+
+1561
+00:59:14,680 --> 00:59:15,960
+of the tarot card of the lovers
+
+1562
+00:59:16,360 --> 00:59:16,420
+and
+
+1563
+00:59:16,420 --> 00:59:20,820
+how it's really about this act of Cain,
+
+1564
+00:59:20,850 --> 00:59:21,200
+who really
+
+1565
+00:59:21,200 --> 00:59:22,420
+did love his brother.
+
+1566
+00:59:22,490 --> 00:59:23,480
+There was a real love.
+
+1567
+00:59:23,550 --> 00:59:25,520
+The sacrifice of that which gave you love
+
+1568
+00:59:25,570 --> 00:59:27,720
+and that which you loved most was actually the first...
+
+1569
+00:59:28,240 --> 00:59:29,580
+It was the first time biblically
+
+1570
+00:59:29,610 --> 00:59:31,680
+that God really paid attention to what we were doing
+
+1571
+00:59:31,850 --> 00:59:33,200
+and the first time that he personally...
+
+1572
+00:59:33,220 --> 00:59:34,340
+- It's a mankind's faith.
+
+1573
+00:59:35,040 --> 00:59:36,960
+- Got in there and got involved
+
+1574
+00:59:37,000 --> 00:59:39,800
+And this is certainly the same act.
+
+1575
+00:59:41,320 --> 00:59:43,540
+And this is certainly about to get God's attention.
+
+1576
+00:59:43,790 --> 00:59:44,300
+Oh, yeah.
+
+1577
+00:59:45,580 --> 00:59:46,360
+Something interesting.
+
+1578
+00:59:46,680 --> 00:59:47,300
+That
+
+1579
+00:59:47,300 --> 00:59:48,060
+is interesting.
+
+1580
+00:59:49,780 --> 00:59:51,640
+Aoba, this was my character.
+
+1581
+00:59:52,270 --> 00:59:52,440
+He
+
+1582
+00:59:52,440 --> 00:59:54,140
+didn't do much in...
+
+1583
+00:59:54,500 --> 00:59:55,420
+He actually had more of a
+
+1584
+00:59:55,420 --> 00:59:56,380
+role
+
+1585
+00:59:56,380 --> 00:59:59,520
+in the movies than he did the original series.
+
+1586
+00:59:59,570 --> 01:00:05,120
+He was just kind of the button pusher more and the announcer of horrible
+
+1587
+01:00:05,120 --> 01:00:05,520
+things.
+
+1588
+01:00:05,560 --> 01:00:06,060
+Impending doom.
+
+1589
+01:00:06,340 --> 01:00:06,520
+Yeah.
+
+1590
+01:00:07,460 --> 01:00:08,500
+I really
+
+1591
+01:00:08,500 --> 01:00:10,240
+always loved our little Greek chorus.
+
+1592
+01:00:11,300 --> 01:00:12,100
+The three, yeah.
+
+1593
+01:00:13,000 --> 01:00:13,880
+Gendo's Peeps.
+
+1594
+01:00:14,980 --> 01:00:15,500
+Gendo's
+
+1595
+01:00:15,500 --> 01:00:15,880
+Peeps.
+
+1596
+01:00:16,080 --> 01:00:16,480
+It's Posse.
+
+1597
+01:00:19,840 --> 01:00:21,120
+This music is so beautiful.
+
+1598
+01:00:21,660 --> 01:00:24,980
+They've got such an incredible rendition as well.
+
+1599
+01:00:25,280 --> 01:00:29,360
+I've never been able to find a copy of this piece of music
+
+1600
+01:00:29,360 --> 01:00:29,800
+that I've loved
+
+1601
+01:00:29,800 --> 01:00:31,360
+more than this copy.
+
+1602
+01:00:33,040 --> 01:00:34,440
+Again, a soundtrack worth picking up.
+
+1603
+01:00:35,700 --> 01:00:36,120
+Here you see
+
+1604
+01:00:36,120 --> 01:00:37,100
+between
+
+1605
+01:00:37,100 --> 01:00:37,680
+the...
+
+1606
+01:00:40,380 --> 01:00:41,640
+I love this music.
+
+1607
+01:00:44,460 --> 01:00:48,960
+This is Hugo and Masato's, their whole tension.
+
+1608
+01:00:49,500 --> 01:00:50,500
+Unrequited love thing.
+
+1609
+01:00:52,560 --> 01:00:53,040
+There's
+
+1610
+01:00:53,040 --> 01:00:55,700
+all this small little inter-office vibes going on there.
+
+1611
+01:00:56,860 --> 01:00:57,860
+Except for Aoba and his guitar.
+
+1612
+01:00:58,220 --> 01:00:59,860
+Aoba gets nothing in this.
+
+1613
+01:00:59,940 --> 01:01:00,520
+He's the only guy
+
+1614
+01:01:00,520 --> 01:01:02,400
+who gets no action at all in the whole series.
+
+1615
+01:01:02,960 --> 01:01:05,360
+Even Ray at the end doesn't do anything for him.
+
+1616
+01:01:05,380 --> 01:01:06,460
+I mean, it's just amazing.
+
+1617
+01:01:07,880 --> 01:01:08,700
+Literally, he's the...
+
+1618
+01:01:09,840 --> 01:01:11,040
+And he's the rock star.
+
+1619
+01:01:11,280 --> 01:01:12,920
+I mean, for crying out loud,
+
+1620
+01:01:12,920 --> 01:01:13,260
+he should be
+
+1621
+01:01:13,260 --> 01:01:14,020
+getting more than anybody.
+
+1622
+01:01:14,360 --> 01:01:14,800
+Lilith.
+
+1623
+01:01:15,220 --> 01:01:17,500
+I see. I understand now.
+
+1624
+01:01:17,720 --> 01:01:18,600
+Lilith. Lilith.
+
+1625
+01:01:19,560 --> 01:01:19,960
+Lilith.
+
+1626
+01:01:21,340 --> 01:01:23,900
+I like how there's all this insane action going on in the background.
+
+1627
+01:01:24,000 --> 01:01:24,660
+He's just sort of standing
+
+1628
+01:01:24,660 --> 01:01:24,760
+there,
+
+1629
+01:01:24,840 --> 01:01:25,960
+floating there with his hands in his
+
+1630
+01:01:25,960 --> 01:01:26,300
+pants.
+
+1631
+01:01:26,320 --> 01:01:27,440
+Oh, that's what it's all about.
+
+1632
+01:01:28,100 --> 01:01:30,140
+You know, if I could float, I wouldn't be that
+
+1633
+01:01:30,140 --> 01:01:30,920
+interested either.
+
+1634
+01:01:31,500 --> 01:01:31,900
+Just
+
+1635
+01:01:31,900 --> 01:01:32,660
+saying so.
+
+1636
+01:01:33,920 --> 01:01:34,500
+And we
+
+1637
+01:01:34,500 --> 01:01:35,220
+have our sacrifice.
+
+1638
+01:01:36,520 --> 01:01:36,900
+Blood has been
+
+1639
+01:01:36,900 --> 01:01:37,220
+spilled.
+
+1640
+01:01:37,320 --> 01:01:37,660
+We are
+
+1641
+01:01:37,660 --> 01:01:38,360
+standing knee
+
+1642
+01:01:38,360 --> 01:01:39,860
+-deep in Lula's blood to begin with.
+
+1643
+01:01:41,700 --> 01:01:43,140
+No menstruation analogy there.
+
+1644
+01:01:43,700 --> 01:01:43,880
+No.
+
+1645
+01:01:44,740 --> 01:01:45,920
+It's there. It's part of it.
+
+1646
+01:01:47,460 --> 01:01:48,300
+She was cut in half.
+
+1647
+01:01:48,900 --> 01:01:49,400
+Right down there.
+
+1648
+01:01:49,400 --> 01:01:51,920
+I mean, she had the longulis lance in her.
+
+1649
+01:01:52,280 --> 01:01:53,020
+They removed it,
+
+1650
+01:01:53,020 --> 01:01:53,640
+and half of her grew
+
+1651
+01:01:53,640 --> 01:01:53,900
+back.
+
+1652
+01:01:54,140 --> 01:01:54,220
+I
+
+1653
+01:01:54,220 --> 01:01:55,440
+mean, there's a lot to be said there.
+
+1654
+01:01:55,560 --> 01:01:57,420
+And you can see the little rays they've been pulling off of
+
+1655
+01:01:57,420 --> 01:01:58,320
+her
+
+1656
+01:01:58,320 --> 01:01:58,640
+wound.
+
+1657
+01:01:59,000 --> 01:01:59,720
+They've been making little
+
+1658
+01:01:59,720 --> 01:02:00,700
+girls out of her wound.
+
+1659
+01:02:00,720 --> 01:02:02,720
+talking about please don't make me do this
+
+1660
+01:02:02,720 --> 01:02:04,520
+another connection worth
+
+1661
+01:02:04,520 --> 01:02:05,980
+playing with that mask
+
+1662
+01:02:05,980 --> 01:02:06,300
+by the way
+
+1663
+01:02:06,300 --> 01:02:12,980
+the seven eyes of god is is very worthwhile um i actually wrote this down so i'm so impressed
+
+1664
+01:02:13,130 --> 01:02:16,320
+with the finding you are not the existence which should die several
+
+1665
+01:02:16,320 --> 01:02:17,340
+times in in
+
+1666
+01:02:17,340 --> 01:02:17,920
+the bible it's
+
+1667
+01:02:18,060 --> 01:02:18,520
+mentioned that
+
+1668
+01:02:18,520 --> 01:02:21,580
+it is what you god has seven eyes and and so we have this
+
+1669
+01:02:21,580 --> 01:02:24,260
+again is also god's number
+
+1670
+01:02:24,580 --> 01:02:24,840
+- Seven as
+
+1671
+01:02:24,840 --> 01:02:25,720
+well. - Seven as well.
+
+1672
+01:02:26,470 --> 01:02:29,000
+One eye on unit zero, two eyes on unit one,
+
+1673
+01:02:29,240 --> 01:02:31,120
+four eyes on unit two.
+
+1674
+01:02:31,390 --> 01:02:32,100
+- On unit two, yeah.
+
+1675
+01:02:32,130 --> 01:02:32,620
+- Yeah, it's
+
+1676
+01:02:32,620 --> 01:02:33,180
+seven eyes.
+
+1677
+01:02:33,440 --> 01:02:36,840
+- Oh, wow. - Celia's a logo as well.
+
+1678
+01:02:38,580 --> 01:02:42,720
+Just another thing worth taking a look at and worth looking at later.
+
+1679
+01:02:42,960 --> 01:02:43,820
+Now, didn't he say... No.
+
+1680
+01:02:46,100 --> 01:02:50,420
+Which Babylonian god was unit one modeled after?
+
+1681
+01:02:53,360 --> 01:02:54,240
+God, I...
+
+1682
+01:02:54,260 --> 01:02:56,240
+There's been a bit of debate about this.
+
+1683
+01:02:56,900 --> 01:03:06,300
+I've heard some odd human being that I talked to at a convention said Ishtar.
+
+1684
+01:03:06,380 --> 01:03:08,060
+I've never really gone with that one.
+
+1685
+01:03:08,620 --> 01:03:17,320
+God, I wanted to say Unicron, but there's a single-horned demon in the Babylonian pantheon
+
+1686
+01:03:18,460 --> 01:03:21,840
+that, again, has been turned into a demon for the Christian mythos
+
+1687
+01:03:23,140 --> 01:03:26,420
+and is involved very much in that same Cain and Abel movement
+
+1688
+01:03:26,660 --> 01:03:28,200
+and that same sacrificial movement.
+
+1689
+01:03:31,440 --> 01:03:34,740
+Again, it's the same theme repeated over and over again,
+
+1690
+01:03:34,800 --> 01:03:36,920
+sacrifice and movement, sacrifice and movement.
+
+1691
+01:03:37,320 --> 01:03:41,220
+I find it interesting in this scene that we didn't see Shinji go to the cockpit
+
+1692
+01:03:41,300 --> 01:03:43,380
+and tormenting with the whole decision.
+
+1693
+01:03:43,480 --> 01:03:44,460
+It just showed the...
+
+1694
+01:03:44,960 --> 01:03:47,480
+It almost makes it more excruciating that they don't show it.
+
+1695
+01:03:48,000 --> 01:03:53,080
+That one's like the elevator scene, yet it's way more poignant with the music and whatnot.
+
+1696
+01:03:53,650 --> 01:03:56,720
+Now, is this log formation an angel?
+
+1697
+01:03:57,920 --> 01:04:00,620
+It certainly looks like one of the later units, doesn't
+
+1698
+01:04:00,620 --> 01:04:00,640
+it?
+
+1699
+01:04:00,660 --> 01:04:01,240
+It does, and
+
+1700
+01:04:01,240 --> 01:04:06,360
+it's obviously a tree, but I've always thought it looked like an angel,
+
+1701
+01:04:06,410 --> 01:04:11,260
+especially maybe when, reminiscent of the part where...
+
+1702
+01:04:11,720 --> 01:04:12,440
+One of the Eviseries.
+
+1703
+01:04:12,600 --> 01:04:12,860
+When
+
+1704
+01:04:12,860 --> 01:04:19,820
+every series was eating the angel, taking it in, that whole, you know, kind of that bent-over, haunched type thing.
+
+1705
+01:04:20,440 --> 01:04:20,880
+Want
+
+1706
+01:04:20,880 --> 01:04:22,620
+some freestyle occultism here?
+
+1707
+01:04:22,840 --> 01:04:23,160
+Go for it.
+
+1708
+01:04:23,540 --> 01:04:29,560
+Okay, well, right now we're talking about a major religion that's been in the news a lot recently.
+
+1709
+01:04:32,340 --> 01:04:35,900
+There's definitely something to be said about someone kneeling towards a sunset, isn't there?
+
+1710
+01:04:36,520 --> 01:04:36,960
+Oh, okay.
+
+1711
+01:04:37,080 --> 01:04:37,540
+I see.
+
+1712
+01:04:37,860 --> 01:04:39,120
+I just picked that up just now.
+
+1713
+01:04:39,240 --> 01:04:41,660
+Again, every time you watch this film, something new comes in.
+
+1714
+01:04:41,820 --> 01:04:45,580
+Something that doesn't matter if it was intended to be there, it's there.
+
+1715
+01:04:45,620 --> 01:04:49,440
+And you have to, much like an amazing painting, you have to kind of take it in.
+
+1716
+01:04:49,560 --> 01:04:52,760
+And this is probably one of the most beautiful credit sequences I've ever seen.
+
+1717
+01:04:52,940 --> 01:04:53,680
+The sun is setting.
+
+1718
+01:04:54,200 --> 01:04:54,300
+Yeah.
+
+1719
+01:04:54,440 --> 01:04:55,040
+They animated it.
+
+1720
+01:04:55,040 --> 01:04:56,120
+The sun is actually moving.
+
+1721
+01:04:56,280 --> 01:04:58,700
+If you fast forward it, it slowly just kind of...
+
+1722
+01:04:59,059 --> 01:04:59,380
+Sinks.
+
+1723
+01:04:59,780 --> 01:04:59,920
+Sinks.
+
+1724
+01:05:00,380 --> 01:05:07,440
+And something I noticed watching this with the air back-to-back
+
+1725
+01:05:07,880 --> 01:05:11,400
+is the opening scene of Air is the reverse shot of this.
+
+1726
+01:05:11,920 --> 01:05:12,320
+Really?
+
+1727
+01:05:12,540 --> 01:05:14,320
+Yes, it is. We'll see that in the next commentary.
+
+1728
+01:05:14,440 --> 01:05:15,160
+I will point it out.
+
+1729
+01:05:15,540 --> 01:05:18,000
+It's this shot reversed with the log,
+
+1730
+01:05:18,260 --> 01:05:20,300
+and he's looking, it's bright,
+
+1731
+01:05:20,640 --> 01:05:25,220
+and he's looking for, like, say he was past that pole.
+
+1732
+01:05:25,520 --> 01:05:26,960
+He's on the other side of that pole,
+
+1733
+01:05:27,540 --> 01:05:30,680
+and obviously he's not in this lake, but that's the shot.
+
+1734
+01:05:30,980 --> 01:05:32,200
+And I noticed that.
+
+1735
+01:05:32,220 --> 01:05:33,840
+And once again, it's something you don't notice.
+
+1736
+01:05:34,480 --> 01:05:35,360
+It's the first time
+
+1737
+01:05:35,360 --> 01:05:36,460
+it's ever in the crew to make.
+
+1738
+01:05:36,520 --> 01:05:36,620
+You'll
+
+1739
+01:05:36,620 --> 01:05:37,040
+pick it up.
+
+1740
+01:05:38,980 --> 01:05:39,880
+Unless I'm completely wrong.
+
+1741
+01:05:42,359 --> 01:05:43,540
+We'll take a look and find out.
+
+1742
+01:05:43,890 --> 01:05:46,480
+Either way, it's very interesting.
+
+1743
+01:05:47,070 --> 01:05:49,600
+I do know that we do start on a side of the lake,
+
+1744
+01:05:49,610 --> 01:05:50,640
+and right now we're in the lake.
+
+1745
+01:05:52,020 --> 01:05:54,360
+So we will take a look at that when we get back from this.
+
+1746
+01:05:54,450 --> 01:05:56,400
+Oh, and now we're on a second volley of credits.
+
+1747
+01:05:58,019 --> 01:05:59,840
+This is the never-ending credit sequence.
+
+1748
+01:06:00,610 --> 01:06:04,160
+But, you know, that's wonderful that they made it so beautiful.
+
+1749
+01:06:04,180 --> 01:06:06,440
+I almost feel guilty talking over it because it's
+
+1750
+01:06:06,440 --> 01:06:07,080
+so...
+
+1751
+01:06:07,100 --> 01:06:08,780
+They can turn us off at any time.
+
+1752
+01:06:08,820 --> 01:06:09,240
+That is true.
+
+1753
+01:06:09,460 --> 01:06:10,460
+It's just so gorgeous.
+
+1754
+01:06:10,660 --> 01:06:11,180
+They can zoom,
+
+1755
+01:06:11,400 --> 01:06:12,220
+they can rewind it again.
+
+1756
+01:06:14,320 --> 01:06:16,780
+It is an amazing, amazing piece of music.
+
+1757
+01:06:17,180 --> 01:06:21,580
+Again, this piece of music is the theme throughout all of this part of the show,
+
+1758
+01:06:23,460 --> 01:06:25,620
+of this film, the canon.
+
+1759
+01:06:30,120 --> 01:06:31,340
+I suppose we should...
+
+1760
+01:06:31,340 --> 01:06:34,280
+Well, yeah, I guess we're about at the end,
+
+1761
+01:06:34,300 --> 01:06:36,380
+so thank you very much for listening to the commentary.
+
+1762
+01:06:36,700 --> 01:06:40,140
+I hope we gave you some insight into the production
+
+1763
+01:06:40,580 --> 01:06:43,840
+and obviously Taliesin gave us a lot of background
+
+1764
+01:06:44,230 --> 01:06:47,080
+in mythology and all the kind of symbolism.
+
+1765
+01:06:47,670 --> 01:06:48,420
+- That was just loud.
+
+1766
+01:06:48,920 --> 01:06:49,660
+- Well, you know.
+
+1767
+01:06:50,460 --> 01:06:52,360
+- So we hope that you will join us
+
+1768
+01:06:53,160 --> 01:06:56,440
+for our commentary on Rebirth
+
+1769
+01:06:56,960 --> 01:06:58,720
+and on Air and Sincerely Yours.
+
+1770
+01:06:59,280 --> 01:07:01,500
+- More occult and voice acting fun.
+
+1771
+01:07:03,020 --> 01:07:03,560
+- More to come.
+
+1772
+01:07:03,720 --> 01:07:04,200
+- More to come.
+
+1773
+01:11:19,160 --> 01:11:20,560
+¶¶
+
+1774
+01:12:25,780 --> 01:12:28,580
+¶¶
+
+1775
+01:13:16,600 --> 01:13:19,400
+The End
+
+1776
+01:13:34,760 --> 01:13:35,140
+I
+
+1777
+01:13:35,140 --> 01:13:42,860
+talked about at the end of Eva where it's basically the reverse shot of the final credits that we see.
+
+1778
+01:13:43,060 --> 01:13:44,140
+At the end of death. You're right.
+
+1779
+01:13:44,400 --> 01:13:44,820
+Wow.
+
+1780
+01:13:45,340 --> 01:13:45,900
+You're the smartest.
+
+1781
+01:13:45,900 --> 01:13:46,260
+And it's
+
+1782
+01:13:46,260 --> 01:13:49,480
+into the blue. We've gone from an orange shot over there to the blue over here.
+
+1783
+01:13:49,640 --> 01:13:52,620
+Right. And I just discovered that just yesterday, as a matter of fact.
+
+1784
+01:13:52,720 --> 01:13:55,360
+So you still discover things in this movie that you did not notice.
+
+1785
+01:13:57,260 --> 01:14:01,120
+This movie is so multi-layered and multifaceted. It's amazing.
+
+1786
+01:14:01,920 --> 01:14:09,560
+Now, Spike Spencer, who played Shinji, of course, when I first told him about this
+
+1787
+01:14:09,560 --> 01:14:11,180
+opening sequence,
+
+1788
+01:14:13,000 --> 01:14:17,140
+Spike's response was to start laughing and turn to me and go, of course.
+
+1789
+01:14:18,420 --> 01:14:19,540
+Of course that's what Shinji does.
+
+1790
+01:14:22,420 --> 01:14:22,900
+So,
+
+1791
+01:14:22,900 --> 01:14:23,920
+at least it wasn't
+
+1792
+01:14:23,920 --> 01:14:24,600
+a shock to him.
+
+1793
+01:14:25,120 --> 01:14:29,320
+I think we can all comment on our first time seeing this scene, that is.
+
+1794
+01:14:29,780 --> 01:14:29,980
+We're
+
+1795
+01:14:29,980 --> 01:14:30,680
+fooling around.
+
+1796
+01:14:31,640 --> 01:14:35,340
+Yes, thank you. I was actually with a group of friends watching this for the first time.
+
+1797
+01:14:35,860 --> 01:14:39,420
+About five guys, four girls, were all sitting in the back of a bank room. It's an anime club.
+
+1798
+01:14:40,800 --> 01:14:46,160
+All the guys at once, there was just this moment where we all realized what was going on and just all lost it.
+
+1799
+01:14:46,300 --> 01:14:48,340
+And not a girl in there caught on.
+
+1800
+01:14:48,700 --> 01:14:50,000
+Until he had the handful of baby batter?
+
+1801
+01:14:50,400 --> 01:14:52,080
+No, they even didn't get it then.
+
+1802
+01:14:52,200 --> 01:14:52,660
+No.
+
+1803
+01:14:53,540 --> 01:14:54,860
+I had no idea.
+
+1804
+01:14:56,060 --> 01:14:57,760
+It was some of the densest women ever.
+
+1805
+01:15:01,160 --> 01:15:02,140
+This is a bad moment.
+
+1806
+01:15:04,360 --> 01:15:05,260
+Handful of baby batter.
+
+1807
+01:15:05,520 --> 01:15:06,520
+That's just good cinema.
+
+1808
+01:15:07,420 --> 01:15:12,780
+And actually the line he delivers when he, after the thing, is very controversial.
+
+1809
+01:15:14,060 --> 01:15:19,260
+We went away with it that we believe is very true to the original.
+
+1810
+01:15:19,640 --> 01:15:21,980
+And there's, of course, this is one of these things.
+
+1811
+01:15:22,640 --> 01:15:26,400
+Many different people say it's a different, many different interpretations from the Japanese.
+
+1812
+01:15:27,400 --> 01:15:31,960
+Yes, there was one fan who actually told us that we were using gratuitous swearing.
+
+1813
+01:15:33,719 --> 01:15:36,560
+And I disagreed strongly.
+
+1814
+01:15:36,840 --> 01:15:45,880
+I think that in this particular situation, the fact that a 14-year-old boy is wanking over the comatose body of a 14-year-old girl...
+
+1815
+01:15:46,719 --> 01:15:47,600
+Money shot.
+
+1816
+01:15:49,420 --> 01:15:50,280
+I think
+
+1817
+01:15:50,280 --> 01:15:53,100
+to have him say, I'm so fucked up.
+
+1818
+01:15:53,260 --> 01:15:53,900
+Yeah, exactly.
+
+1819
+01:15:54,160 --> 01:15:54,620
+That's pretty
+
+1820
+01:15:54,620 --> 01:15:56,160
+much right there.
+
+1821
+01:15:56,440 --> 01:16:01,420
+Now, at the conventions, though, we have actually been screening this at conventions.
+
+1822
+01:16:01,570 --> 01:16:03,380
+By the time you see this, you'll probably have seen it
+
+1823
+01:16:03,380 --> 01:16:03,500
+at
+
+1824
+01:16:03,500 --> 01:16:03,900
+a convention.
+
+1825
+01:16:04,760 --> 01:16:08,680
+But that line always gets a huge amount of applause.
+
+1826
+01:16:09,160 --> 01:16:09,360
+Yeah.
+
+1827
+01:16:09,380 --> 01:16:09,680
+It's
+
+1828
+01:16:09,680 --> 01:16:09,980
+amazing.
+
+1829
+01:16:11,180 --> 01:16:13,520
+So that one fan who didn't like it, don't watch.
+
+1830
+01:16:14,280 --> 01:16:15,240
+Not our problem.
+
+1831
+01:16:15,450 --> 01:16:18,040
+And here's where Aoba gets fleshed out as a little more of a
+
+1832
+01:16:18,040 --> 01:16:19,020
+grumpy character.
+
+1833
+01:16:20,240 --> 01:16:21,880
+It's just a bad coffee day, I think.
+
+1834
+01:16:22,560 --> 01:16:24,200
+End of the world would be a bad coffee day.
+
+1835
+01:16:24,220 --> 01:16:24,680
+This whole end of
+
+1836
+01:16:24,680 --> 01:16:26,700
+the world day, he's grumpy this whole day pretty much.
+
+1837
+01:16:26,880 --> 01:16:29,500
+This whole episode, these two episodes,
+
+1838
+01:16:29,800 --> 01:16:30,060
+he's just,
+
+1839
+01:16:30,200 --> 01:16:32,680
+he's like, you know, you people are idiots basically.
+
+1840
+01:16:34,400 --> 01:16:38,540
+Here's once again Allison Keith, amazing, amazing actress.
+
+1841
+01:16:40,580 --> 01:16:43,340
+She's always just done an incredible job with Misato.
+
+1842
+01:16:43,960 --> 01:16:50,760
+And, oh, I meant to send her, there's some fan forums and some web boards saying, you know,
+
+1843
+01:16:50,820 --> 01:16:53,100
+oh, the only reason I watched Evangelion
+
+1844
+01:16:53,100 --> 01:16:54,300
+is because I wanted to see
+
+1845
+01:16:55,360 --> 01:16:57,000
+Alice and Keith do Misato again.
+
+1846
+01:16:57,800 --> 01:17:00,080
+So, I don't think she ever knew that.
+
+1847
+01:17:01,420 --> 01:17:02,500
+She needs to know that.
+
+1848
+01:17:02,700 --> 01:17:03,000
+She's awesome.
+
+1849
+01:17:04,720 --> 01:17:06,220
+She'll never listen to the commentary anyway.
+
+1850
+01:17:06,380 --> 01:17:06,760
+That's okay.
+
+1851
+01:17:06,840 --> 01:17:07,040
+She couldn't
+
+1852
+01:17:07,040 --> 01:17:07,460
+be bothered.
+
+1853
+01:17:08,000 --> 01:17:09,860
+Here we have Salee a little more fleshed out.
+
+1854
+01:17:11,060 --> 01:17:13,260
+It's Salee the Space Odyssey at this point.
+
+1855
+01:17:13,320 --> 01:17:13,660
+Yeah, exactly.
+
+1856
+01:17:14,140 --> 01:17:14,220
+The
+
+1857
+01:17:14,220 --> 01:17:14,740
+obelisks.
+
+1858
+01:17:14,820 --> 01:17:16,020
+Okay, does anybody else think
+
+1859
+01:17:16,120 --> 01:17:17,400
+that Fuski looks like Jay Leno
+
+1860
+01:17:17,800 --> 01:17:19,620
+with the ginormous chin?
+
+1861
+01:17:20,400 --> 01:17:22,000
+Yes, the Kawamori...
+
+1862
+01:17:22,340 --> 01:17:23,420
+There's you. That was you.
+
+1863
+01:17:24,100 --> 01:17:26,520
+We need not cast aside our human form.
+
+1864
+01:17:27,220 --> 01:17:28,940
+I admit I'm running the Illuminati.
+
+1865
+01:17:29,200 --> 01:17:29,340
+I'll
+
+1866
+01:17:29,340 --> 01:17:30,340
+admit
+
+1867
+01:17:30,340 --> 01:17:31,100
+it to it right now.
+
+1868
+01:17:34,040 --> 01:17:37,180
+It's interesting they put sound only on the obelisk like that.
+
+1869
+01:17:37,340 --> 01:17:40,100
+Like, we don't see the disembodied, you know what I mean?
+
+1870
+01:17:40,420 --> 01:17:42,120
+Well, yeah, originally in the show,
+
+1871
+01:17:42,860 --> 01:17:44,500
+there's the holographic projections of all of them.
+
+1872
+01:17:44,580 --> 01:17:45,440
+That's why they're all different colors.
+
+1873
+01:17:46,040 --> 01:17:47,520
+So they're having technical
+
+1874
+01:17:47,520 --> 01:17:48,740
+difficulties at this point.
+
+1875
+01:17:49,420 --> 01:17:51,560
+I think they just can't be bothered at this point.
+
+1876
+01:17:51,700 --> 01:17:52,460
+They're not shaving.
+
+1877
+01:17:52,600 --> 01:17:56,600
+They're saving money for the big end of the world sequence.
+
+1878
+01:17:57,280 --> 01:17:58,480
+Which the people who run this,
+
+1879
+01:17:58,660 --> 01:18:00,600
+what they're going to be doing up to the very last moment
+
+1880
+01:18:00,890 --> 01:18:03,220
+is just making sure they've got down those 20 bucks.
+
+1881
+01:18:04,680 --> 01:18:06,140
+Making sure they have Cab Fair home.
+
+1882
+01:18:06,320 --> 01:18:06,440
+They
+
+1883
+01:18:06,440 --> 01:18:07,960
+learned their lesson from the first one,
+
+1884
+01:18:08,080 --> 01:18:08,580
+so that was a
+
+1885
+01:18:08,580 --> 01:18:09,660
+series.
+
+1886
+01:18:09,940 --> 01:18:12,360
+I can drag that into an interesting occult place, actually.
+
+1887
+01:18:12,920 --> 01:18:16,100
+There's a big thing in this film
+
+1888
+01:18:16,300 --> 01:18:17,880
+about the fruit of life and the fruit of wisdom,
+
+1889
+01:18:18,120 --> 01:18:21,380
+which, as we all know, we ate the fruits of wisdom in the garden.
+
+1890
+01:18:21,580 --> 01:18:22,780
+Very significant. Go on.
+
+1891
+01:18:23,220 --> 01:18:23,300
+Yes.
+
+1892
+01:18:24,840 --> 01:18:27,040
+And we're banished before we could eat the fruit of life.
+
+1893
+01:18:27,260 --> 01:18:29,780
+A lot of the times fruit of wisdom is considered to be a material,
+
+1894
+01:18:31,900 --> 01:18:34,360
+intellectual look at the world, whereas the fruit of life,
+
+1895
+01:18:34,840 --> 01:18:37,540
+not just being eternal life, but is a spiritual connection with God.
+
+1896
+01:18:38,580 --> 01:18:41,500
+It's a little bit too much intellectualism and things start to go.
+
+1897
+01:18:42,280 --> 01:18:42,500
+And
+
+1898
+01:18:42,500 --> 01:18:43,200
+explain the
+
+1899
+01:18:43,200 --> 01:18:44,340
+very significant comment you
+
+1900
+01:18:44,340 --> 01:18:44,940
+just made about the
+
+1901
+01:18:44,940 --> 01:18:45,340
+glasses.
+
+1902
+01:18:45,760 --> 01:18:51,460
+This is when you first realize that Rey has turned against
+
+1903
+01:18:51,460 --> 01:18:51,660
+Gendo.
+
+1904
+01:18:51,680 --> 01:18:52,700
+She's thinking on her own.
+
+1905
+01:18:54,100 --> 01:18:58,260
+And then not only that, the scene that came afterwards was Shinji curled up with his recorder and
+
+1906
+01:18:58,260 --> 01:18:59,760
+the battery was dead.
+
+1907
+01:19:00,440 --> 01:19:02,520
+The first time I saw that, it gave me chills.
+
+1908
+01:19:03,340 --> 01:19:04,400
+I couldn't explain why.
+
+1909
+01:19:04,420 --> 01:19:07,300
+It wasn't that incredibly significant.
+
+1910
+01:19:07,640 --> 01:19:13,000
+But for some reason, I just thought that that was a smart choice.
+
+1911
+01:19:14,220 --> 01:19:16,680
+Masato's moved on to canned coffee now instead of beer.
+
+1912
+01:19:16,840 --> 01:19:18,540
+That would panic anybody.
+
+1913
+01:19:18,800 --> 01:19:20,360
+That should panic
+
+1914
+01:19:20,360 --> 01:19:20,680
+anyone.
+
+1915
+01:19:23,280 --> 01:19:24,560
+Actually, we saw that one.
+
+1916
+01:19:24,570 --> 01:19:28,160
+There was a poster that had all the female cast of Eva
+
+1917
+01:19:28,600 --> 01:19:29,740
+holding that canned coffee.
+
+1918
+01:19:29,990 --> 01:19:33,080
+Yeah, the UCC coffee that everybody drinks.
+
+1919
+01:19:34,160 --> 01:19:35,080
+Official coffee
+
+1920
+01:19:35,080 --> 01:19:35,700
+of the apocalypse.
+
+1921
+01:19:39,520 --> 01:19:41,400
+You're a post-apocalyptic caffeine source.
+
+1922
+01:19:42,760 --> 01:19:43,400
+See, look, Leno.
+
+1923
+01:19:44,380 --> 01:19:45,020
+Totally Leno
+
+1924
+01:19:45,200 --> 01:19:45,300
+Yeah,
+
+1925
+01:19:45,500 --> 01:19:46,880
+character designs got a little funny for
+
+1926
+01:19:46,880 --> 01:19:48,060
+this film
+
+1927
+01:19:48,200 --> 01:19:50,260
+He looks a little bit like the guy from Battle Angel
+
+1928
+01:19:51,420 --> 01:19:52,420
+Oh, uh, you know
+
+1929
+01:19:54,760 --> 01:19:55,160
+There's
+
+1930
+01:19:55,160 --> 01:19:56,260
+not much you can say at this point
+
+1931
+01:19:56,380 --> 01:19:57,280
+This is an
+
+1932
+01:19:57,280 --> 01:20:00,280
+amazing techno babble that they managed to run through this entire sequence
+
+1933
+01:20:00,680 --> 01:20:02,860
+Which was a big pain in the neck to translate
+
+1934
+01:20:03,180 --> 01:20:04,040
+It's always the worst
+
+1935
+01:20:04,660 --> 01:20:07,040
+And I remember I was writing that part of the script
+
+1936
+01:20:07,120 --> 01:20:08,540
+And I'd come upstairs and I'd say to Jason
+
+1937
+01:20:08,700 --> 01:20:10,860
+You should be writing this part, it's all boy stuff
+
+1938
+01:20:11,240 --> 01:20:12,100
+I don't know any
+
+1939
+01:20:12,940 --> 01:20:21,120
+I had to do a lot of research so I actually knew what I was talking about when I wrote all that stuff.
+
+1940
+01:20:23,340 --> 01:20:24,540
+I have a question about this.
+
+1941
+01:20:24,850 --> 01:20:24,960
+Okay.
+
+1942
+01:20:25,380 --> 01:20:31,600
+Do you think that she's already set in motion the plan to betray Gendo before this all happens?
+
+1943
+01:20:31,630 --> 01:20:32,720
+Or do you think she does it now?
+
+1944
+01:20:33,640 --> 01:20:35,720
+No, I think she does it while she's programming the computer.
+
+1945
+01:20:36,780 --> 01:20:40,080
+But in this sequence or previous before that she was put in the brig?
+
+1946
+01:20:41,000 --> 01:20:42,860
+I think in this sequence.
+
+1947
+01:20:43,980 --> 01:20:47,920
+Because in the episode in the series where she actually goes into the Magi,
+
+1948
+01:20:49,100 --> 01:20:51,900
+she hasn't become disenfranchised from Gendo yet.
+
+1949
+01:20:53,340 --> 01:20:57,840
+There used to be a very interesting Ritsuko-Kowaru connection
+
+1950
+01:20:58,400 --> 01:21:00,620
+that was highlighted in the animated series just a little bit.
+
+1951
+01:21:00,620 --> 01:21:04,060
+It was just touched, and nothing ever really came of it.
+
+1952
+01:21:05,260 --> 01:21:08,340
+Anybody should go through the director's versions of the last few episodes
+
+1953
+01:21:08,490 --> 01:21:09,640
+and see if there's anything new there.
+
+1954
+01:21:09,700 --> 01:21:11,140
+I haven't gotten that far in my copy yet.
+
+1955
+01:21:12,880 --> 01:21:14,820
+Because they must have gotten Quadra from somewhere.
+
+1956
+01:21:15,900 --> 01:21:18,440
+Someone postulated that they got it from Ritsuko.
+
+1957
+01:21:19,960 --> 01:21:20,380
+What do you mean?
+
+1958
+01:21:20,480 --> 01:21:22,700
+That it's part Lilith, part Ritsuko?
+
+1959
+01:21:22,860 --> 01:21:24,980
+The same way that Rey is from...
+
+1960
+01:21:25,000 --> 01:21:26,620
+Oh, you mean like, oh, do you think Ritsuko's mother?
+
+1961
+01:21:27,320 --> 01:21:28,760
+Either Ritsuko's mother or Ritsuko herself.
+
+1962
+01:21:29,060 --> 01:21:30,500
+She had, we're not really,
+
+1963
+01:21:30,640 --> 01:21:32,220
+there's been some postulation both ways.
+
+1964
+01:21:32,380 --> 01:21:34,040
+It's been around the argument table before.
+
+1965
+01:21:34,960 --> 01:21:35,400
+Interesting.
+
+1966
+01:21:35,760 --> 01:21:35,900
+Yeah.
+
+1967
+01:21:37,680 --> 01:21:41,960
+It's, again, just another question that they will never answer with this film.
+
+1968
+01:21:43,520 --> 01:21:49,140
+Yeah, there are some people who say that this is Anno's way of saying up yours to the fans.
+
+1969
+01:21:49,860 --> 01:21:52,360
+Because after he finished the series, he got a lot of death threats.
+
+1970
+01:21:54,740 --> 01:21:58,200
+And so apparently he sort of said, okay, fine, you want another ending? Here you go.
+
+1971
+01:21:59,040 --> 01:22:01,280
+And came up with this incredibly disturbing movie.
+
+1972
+01:22:02,520 --> 01:22:03,120
+It's kind of fun.
+
+1973
+01:22:03,140 --> 01:22:06,980
+The entire fan wish list really does come true in this way.
+
+1974
+01:22:06,980 --> 01:22:08,980
+You get to see Asuka kick some butt.
+
+1975
+01:22:08,990 --> 01:22:11,800
+You get to see everybody kind of come together, all these relationships resolve.
+
+1976
+01:22:12,040 --> 01:22:14,440
+But in the most horribly
+
+1977
+01:22:14,440 --> 01:22:17,120
+painful, unsatisfactory...
+
+1978
+01:22:17,740 --> 01:22:17,840
+It's
+
+1979
+01:22:17,840 --> 01:22:18,800
+like a deal with the devil.
+
+1980
+01:22:19,620 --> 01:22:20,000
+You know what I mean?
+
+1981
+01:22:20,150 --> 01:22:21,220
+You get everything you would ever
+
+1982
+01:22:21,220 --> 01:22:23,040
+wish for, but it's all...
+
+1983
+01:22:23,360 --> 01:22:24,800
+But it's all just gone wrong.
+
+1984
+01:22:25,090 --> 01:22:26,000
+It's gone horribly awry.
+
+1985
+01:22:28,200 --> 01:22:31,900
+This is Keel, Tom Booker, who we met through Second City.
+
+1986
+01:22:32,000 --> 01:22:32,860
+He's a
+
+1987
+01:22:32,860 --> 01:22:36,100
+very, very wonderful, very funny guy.
+
+1988
+01:22:36,480 --> 01:22:37,960
+You've seen him in commercials and whatnot.
+
+1989
+01:22:38,200 --> 01:22:42,980
+He's a very talented actor, and he enjoyed playing Keel.
+
+1990
+01:22:44,080 --> 01:22:44,840
+Showtime, ladies.
+
+1991
+01:22:45,180 --> 01:22:46,040
+I love that line.
+
+1992
+01:22:46,140 --> 01:22:46,680
+Okay, this is our
+
+1993
+01:22:46,680 --> 01:22:47,940
+friend Riley Barber,
+
+1994
+01:22:48,580 --> 01:22:51,760
+who is also an accomplished stand-up comic.
+
+1995
+01:22:51,860 --> 01:22:54,980
+He travels the world doing comedy,
+
+1996
+01:22:55,220 --> 01:22:58,320
+and I love the way he delivers that line.
+
+1997
+01:22:59,220 --> 01:23:01,040
+And I don't know why I wrote it that way,
+
+1998
+01:23:01,200 --> 01:23:06,560
+Showtime ladies, I just, for some reason I just kept thinking of some really tough as
+
+1999
+01:23:06,760 --> 01:23:13,600
+nails sergeant who always refers to the guys, you know, his special elite corps as
+
+2000
+01:23:13,600 --> 01:23:13,740
+"Come
+
+2001
+01:23:13,740 --> 01:23:19,720
+on ladies, let's go kick some butt" kind of thing. So, again, strictly for my own amusement,
+
+2002
+01:23:19,980 --> 01:23:20,600
+but I think it worked.
+
+2003
+01:23:20,760 --> 01:23:26,380
+Well, it's gotta be amazing Kazangas to think you could take Nerve. I mean, you gotta think
+
+2004
+01:23:26,420 --> 01:23:31,160
+of the people they were sending in to take this place out. This is the front of
+
+2005
+01:23:31,740 --> 01:23:32,920
+angel attack. This
+
+2006
+01:23:32,920 --> 01:23:33,300
+is not
+
+2007
+01:23:34,220 --> 01:23:35,100
+the NWL.
+
+2008
+01:23:35,270 --> 01:23:36,000
+This is not Kuwait.
+
+2009
+01:23:36,120 --> 01:23:37,160
+These are people with guns.
+
+2010
+01:23:37,960 --> 01:23:39,220
+Amy does a great job of capturing
+
+2011
+01:23:40,200 --> 01:23:40,940
+Buki's whole
+
+2012
+01:23:43,020 --> 01:23:43,460
+Buki's
+
+2013
+01:23:43,600 --> 01:23:45,240
+like us. The viewer.
+
+2014
+01:23:45,480 --> 01:23:47,040
+She is the viewer's voice, I think.
+
+2015
+01:23:47,320 --> 01:23:48,660
+She speaks what we're thinking.
+
+2016
+01:23:50,540 --> 01:23:51,020
+You know, anytime
+
+2017
+01:23:51,340 --> 01:23:53,340
+there's an Ava eating something it shouldn't be eating
+
+2018
+01:23:53,460 --> 01:23:55,240
+she's the one that shows the disgust and the
+
+2019
+01:23:55,800 --> 01:23:55,940
+fear.
+
+2020
+01:23:56,920 --> 01:23:57,360
+She's
+
+2021
+01:23:57,360 --> 01:23:58,500
+the most human of them all.
+
+2022
+01:23:59,100 --> 01:24:00,900
+That was such a grunty death.
+
+2023
+01:24:01,160 --> 01:24:03,140
+He didn't actually stab
+
+2024
+01:24:03,140 --> 01:24:03,280
+him.
+
+2025
+01:24:03,670 --> 01:24:05,140
+It was a Carl's Jr. sandwich.
+
+2026
+01:24:06,200 --> 01:24:07,300
+It got all over the place.
+
+2027
+01:24:08,760 --> 01:24:11,520
+If you have the DVD where this thing gets shot, this truck,
+
+2028
+01:24:12,080 --> 01:24:12,180
+if
+
+2029
+01:24:12,180 --> 01:24:13,760
+you go back and forth, you can make it.
+
+2030
+01:24:13,760 --> 01:24:14,820
+It looks like it's coming alive.
+
+2031
+01:24:15,160 --> 01:24:16,440
+And our
+
+2032
+01:24:16,440 --> 01:24:19,120
+punchy moments while we were recording this,
+
+2033
+01:24:19,720 --> 01:24:22,480
+we had a lot of fun with the sound tech.
+
+2034
+01:24:23,900 --> 01:24:26,060
+Keith Aram, our sound tech on that portion of it,
+
+2035
+01:24:26,390 --> 01:24:27,260
+we just had a blast.
+
+2036
+01:24:28,660 --> 01:24:31,640
+I think we laughed harder than we had any right to at that point.
+
+2037
+01:24:31,800 --> 01:24:34,740
+But you can make him, the truck, kind of jump and come alive.
+
+2038
+01:24:34,920 --> 01:24:35,180
+It's great.
+
+2039
+01:24:35,880 --> 01:24:39,700
+Again, with a movie that's so hardcore and so serious
+
+2040
+01:24:40,140 --> 01:24:43,180
+that there's times when you just have to escape
+
+2041
+01:24:45,000 --> 01:24:46,680
+from the gravity of the situation,
+
+2042
+01:24:46,930 --> 01:24:49,180
+and that's when we usually start messing around.
+
+2043
+01:24:49,180 --> 01:24:49,760
+Which is why we're all
+
+2044
+01:24:49,760 --> 01:24:51,320
+being funny right now as well.
+
+2045
+01:24:52,100 --> 01:24:55,180
+This is one of the most horrific pieces of violence
+
+2046
+01:24:55,240 --> 01:24:58,360
+I think it's certainly ever put to sell, if not film.
+
+2047
+01:24:59,340 --> 01:24:59,640
+Absolutely.
+
+2048
+01:24:59,840 --> 01:25:00,420
+And you
+
+2049
+01:25:00,420 --> 01:25:01,720
+can only see it so many hundreds of times
+
+2050
+01:25:01,940 --> 01:25:04,460
+before you just have to start laughing as a defense mechanism.
+
+2051
+01:25:05,320 --> 01:25:06,300
+And if you're listening to this commentary,
+
+2052
+01:25:06,320 --> 01:25:07,720
+you probably have seen it a couple hundred
+
+2053
+01:25:07,720 --> 01:25:08,560
+times at this point,
+
+2054
+01:25:08,780 --> 01:25:09,640
+so laugh with us.
+
+2055
+01:25:10,220 --> 01:25:11,020
+Share the laughter.
+
+2056
+01:25:11,720 --> 01:25:12,880
+Okay, I have to point something out.
+
+2057
+01:25:13,720 --> 01:25:15,540
+Whenever they draw Ray...
+
+2058
+01:25:15,540 --> 01:25:17,400
+Now, she's obviously naked, so I understand.
+
+2059
+01:25:18,700 --> 01:25:20,600
+But whenever they draw Ray on a poster,
+
+2060
+01:25:21,460 --> 01:25:24,240
+they always show her little hiney crack from behind.
+
+2061
+01:25:25,340 --> 01:25:27,300
+doesn't matter clothes, whatever.
+
+2062
+01:25:27,550 --> 01:25:30,240
+They always make a point of showing Ray's little hiney.
+
+2063
+01:25:30,820 --> 01:25:31,560
+I don't understand that.
+
+2064
+01:25:32,480 --> 01:25:34,380
+So now, what were you saying about the seven pools?
+
+2065
+01:25:35,160 --> 01:25:35,640
+Oh, okay.
+
+2066
+01:25:35,920 --> 01:25:40,560
+Yeah, that, she was kind of sitting in this LCL pool right there.
+
+2067
+01:25:41,720 --> 01:25:44,460
+It was kind of shaped out as the Kabbalistic tree of life,
+
+2068
+01:25:45,420 --> 01:25:46,300
+kind of a close modern one.
+
+2069
+01:25:46,420 --> 01:25:48,620
+And it's a little off, but we kind of figured out
+
+2070
+01:25:48,640 --> 01:25:52,340
+she's sitting in what is called Yasad,
+
+2071
+01:25:52,360 --> 01:25:55,120
+which is this one particular sphere of this map of the universe.
+
+2072
+01:25:56,020 --> 01:25:56,420
+And it's the
+
+2073
+01:25:56,420 --> 01:25:58,280
+Hebrew for hot tub, I think.
+
+2074
+01:25:59,840 --> 01:26:00,240
+I'm sorry.
+
+2075
+01:26:02,100 --> 01:26:03,780
+It's very much, it's the gateway of death.
+
+2076
+01:26:03,920 --> 01:26:05,900
+It's the doorway into the dream realm, into the ethereal.
+
+2077
+01:26:06,030 --> 01:26:07,700
+She is on the cusp of death.
+
+2078
+01:26:07,860 --> 01:26:10,160
+She is ready to cross out of this world into the next,
+
+2079
+01:26:10,320 --> 01:26:13,580
+if we are to read it that way, which, I don't know.
+
+2080
+01:26:13,720 --> 01:26:14,800
+I'd like a full shape that way.
+
+2081
+01:26:14,830 --> 01:26:15,600
+But yes, of course we
+
+2082
+01:26:15,600 --> 01:26:16,500
+have to read it that way.
+
+2083
+01:26:16,570 --> 01:26:16,880
+Why not?
+
+2084
+01:26:18,240 --> 01:26:21,360
+This film is meticulous in its ability to be completely
+
+2085
+01:26:21,360 --> 01:26:22,080
+incomprehensible.
+
+2086
+01:26:24,960 --> 01:26:27,420
+delights in disturbing and confusing its viewers.
+
+2087
+01:26:29,220 --> 01:26:30,460
+Violence, on the other hand, we can all
+
+2088
+01:26:30,460 --> 01:26:30,760
+understand.
+
+2089
+01:26:30,860 --> 01:26:31,480
+We understand that.
+
+2090
+01:26:31,620 --> 01:26:32,680
+That's pretty easy to get
+
+2091
+01:26:32,680 --> 01:26:32,880
+through.
+
+2092
+01:26:37,500 --> 01:26:38,560
+We got our Greek chorus.
+
+2093
+01:26:39,160 --> 01:26:39,700
+Again, yes.
+
+2094
+01:26:41,300 --> 01:26:42,420
+Just telling us everything.
+
+2095
+01:26:43,080 --> 01:26:44,660
+Everything we want to know about what's going on.
+
+2096
+01:26:45,300 --> 01:26:45,840
+And then some.
+
+2097
+01:26:46,340 --> 01:26:47,060
+Towson has wonderful
+
+2098
+01:26:47,060 --> 01:26:47,440
+diagrams.
+
+2099
+01:26:47,680 --> 01:26:48,200
+Oh, here's some
+
+2100
+01:26:48,200 --> 01:26:48,580
+wonderful...
+
+2101
+01:26:48,580 --> 01:26:49,280
+Kimberly Yates.
+
+2102
+01:26:49,760 --> 01:26:50,700
+Kimberly Yates dying.
+
+2103
+01:26:52,360 --> 01:26:52,920
+Oh, oh,
+
+2104
+01:26:53,080 --> 01:26:53,420
+oh, oh!
+
+2105
+01:26:54,720 --> 01:26:57,400
+This I added strictly for my own amusement.
+
+2106
+01:26:57,490 --> 01:26:58,140
+I didn't think...
+
+2107
+01:26:58,370 --> 01:26:58,840
+Ooh, here it comes.
+
+2108
+01:27:00,740 --> 01:27:01,040
+Yay!
+
+2109
+01:27:01,520 --> 01:27:02,960
+Because otherwise it's just like this random person
+
+2110
+01:27:03,140 --> 01:27:03,740
+blasting him with flame.
+
+2111
+01:27:05,520 --> 01:27:07,620
+That's the only thing we altered from the original Japanese.
+
+2112
+01:27:08,040 --> 01:27:08,240
+Otherwise,
+
+2113
+01:27:08,480 --> 01:27:09,100
+honest to God,
+
+2114
+01:27:09,210 --> 01:27:12,260
+we tried to do word for word the same as the original.
+
+2115
+01:27:12,410 --> 01:27:14,900
+We really tried to...
+
+2116
+01:27:16,260 --> 01:27:17,940
+It was almost more of just a translation
+
+2117
+01:27:18,220 --> 01:27:19,820
+than an adaptation.
+
+2118
+01:27:20,680 --> 01:27:20,820
+You know?
+
+2119
+01:27:22,820 --> 01:27:23,620
+Now we have the Blake.
+
+2120
+01:27:23,740 --> 01:27:26,680
+When I first saw this, I thought they were just filling the place with LCL or something.
+
+2121
+01:27:26,920 --> 01:27:28,880
+But this is fast, fast-drying plastic.
+
+2122
+01:27:29,580 --> 01:27:30,940
+Really good idea to keep people out.
+
+2123
+01:27:31,760 --> 01:27:32,220
+That didn't work.
+
+2124
+01:27:32,400 --> 01:27:33,280
+Well, no, it didn't work.
+
+2125
+01:27:33,500 --> 01:27:33,840
+Didn't work.
+
+2126
+01:27:34,320 --> 01:27:34,860
+That won't work.
+
+2127
+01:27:35,440 --> 01:27:35,600
+No.
+
+2128
+01:27:35,760 --> 01:27:35,940
+No.
+
+2129
+01:27:36,700 --> 01:27:38,280
+I wish they would show how they got through that, though.
+
+2130
+01:27:38,280 --> 01:27:39,220
+I was always kind of curious.
+
+2131
+01:27:39,700 --> 01:27:41,400
+How exactly did they get through the liquid
+
+2132
+01:27:41,400 --> 01:27:41,780
+plastic?
+
+2133
+01:27:41,800 --> 01:27:43,080
+They just had the lighter up to it.
+
+2134
+01:27:47,300 --> 01:27:47,700
+You don't think?
+
+2135
+01:27:48,100 --> 01:27:48,300
+Well.
+
+2136
+01:27:50,180 --> 01:27:51,600
+No, we never got to see, did we?
+
+2137
+01:27:53,640 --> 01:27:54,800
+Allison is so awesome.
+
+2138
+01:27:54,990 --> 01:27:55,080
+She
+
+2139
+01:27:55,080 --> 01:27:55,660
+plays the
+
+2140
+01:27:55,660 --> 01:27:56,900
+most amazing badass.
+
+2141
+01:27:57,480 --> 01:27:57,940
+She really took
+
+2142
+01:27:57,940 --> 01:28:01,040
+off of this particular section of the film, really.
+
+2143
+01:28:01,470 --> 01:28:02,200
+She got to shine.
+
+2144
+01:28:04,680 --> 01:28:05,260
+Oh, dear.
+
+2145
+01:28:07,520 --> 01:28:13,220
+This is kind of where you get to see the relationship between Aoba
+
+2146
+01:28:13,220 --> 01:28:13,460
+and the
+
+2147
+01:28:13,460 --> 01:28:14,120
+rest of the staff.
+
+2148
+01:28:14,340 --> 01:28:17,040
+He's definitely the cynic, like, dude, we're all going to die.
+
+2149
+01:28:17,100 --> 01:28:23,200
+This is just cranky and he's the fatalist of the bunch.
+
+2150
+01:28:24,220 --> 01:28:27,180
+Basically because he has no action on the side.
+
+2151
+01:28:27,210 --> 01:28:29,980
+He gets no love at all of all the characters in
+
+2152
+01:28:29,980 --> 01:28:30,360
+this show.
+
+2153
+01:28:30,760 --> 01:28:33,600
+This is really the most involved they ever, the three of them, really get.
+
+2154
+01:28:34,800 --> 01:28:37,700
+This is a real kind of dirty, filthy deal they have to
+
+2155
+01:28:37,700 --> 01:28:38,180
+deal with here.
+
+2156
+01:28:38,440 --> 01:28:43,660
+This scene particularly with Ibuki definitely captures his character.
+
+2157
+01:28:45,980 --> 01:28:47,460
+Sort of no patience for weakness.
+
+2158
+01:28:48,500 --> 01:28:49,820
+Well, this line here.
+
+2159
+01:28:50,120 --> 01:28:51,200
+You kill or you die.
+
+2160
+01:28:51,320 --> 01:28:52,380
+You kill or you die.
+
+2161
+01:28:52,800 --> 01:28:53,640
+If I'm, you know,
+
+2162
+01:28:54,080 --> 01:28:56,060
+Oba's such a minor character in the series in a way,
+
+2163
+01:28:56,240 --> 01:28:58,400
+and if I ever get asked to repeat a line,
+
+2164
+01:28:58,540 --> 01:28:58,600
+it's
+
+2165
+01:28:58,600 --> 01:28:59,260
+always that line.
+
+2166
+01:28:59,380 --> 01:28:59,980
+You kill or you
+
+2167
+01:28:59,980 --> 01:29:00,360
+die.
+
+2168
+01:29:00,680 --> 01:29:01,540
+So it's...
+
+2169
+01:29:02,440 --> 01:29:03,480
+Those are Ray innards.
+
+2170
+01:29:03,780 --> 01:29:06,480
+That's the disintegrated clone tank.
+
+2171
+01:29:07,720 --> 01:29:08,360
+Chamber of Guff.
+
+2172
+01:29:08,620 --> 01:29:09,300
+Chamber of Guff,
+
+2173
+01:29:09,460 --> 01:29:09,580
+yeah.
+
+2174
+01:29:10,800 --> 01:29:12,360
+Not the antechamber, right?
+
+2175
+01:29:13,320 --> 01:29:13,760
+Well, that's...
+
+2176
+01:29:13,760 --> 01:29:14,180
+Because it's bodies
+
+2177
+01:29:14,180 --> 01:29:14,700
+but no souls.
+
+2178
+01:29:15,000 --> 01:29:16,260
+Well, I
+
+2179
+01:29:16,260 --> 01:29:17,100
+suppose so.
+
+2180
+01:29:17,740 --> 01:29:21,640
+It would be worth, God, if anyone ever finds out exactly where that is,
+
+2181
+01:29:21,800 --> 01:29:23,520
+and if they can quote it to me, I will be so happy.
+
+2182
+01:29:24,480 --> 01:29:27,080
+And I looked for this symbol, and I cannot tell what they are standing on.
+
+2183
+01:29:28,540 --> 01:29:30,460
+Gendo has the Tree of Life in his office.
+
+2184
+01:29:30,620 --> 01:29:31,780
+You can see that pretty clearly.
+
+2185
+01:29:32,960 --> 01:29:34,020
+I believe he's sitting at Kether.
+
+2186
+01:29:34,080 --> 01:29:34,840
+I might be wrong with that.
+
+2187
+01:29:34,940 --> 01:29:39,180
+But it would make sense that he would put himself at the godhead of the I am in control.
+
+2188
+01:29:39,700 --> 01:29:40,740
+Oh, you're about to die.
+
+2189
+01:29:41,520 --> 01:29:42,100
+There you are, Taliesin.
+
+2190
+01:29:42,960 --> 01:29:44,920
+Ooh, you're dead.
+
+2191
+01:29:45,320 --> 01:29:46,800
+Wait, wait, no, I'm not quite, okay.
+
+2192
+01:29:46,940 --> 01:29:47,200
+Okay.
+
+2193
+01:29:47,720 --> 01:29:49,040
+Go, go for a walk.
+
+2194
+01:29:52,480 --> 01:29:54,660
+It gets so silly just dying for a day.
+
+2195
+01:29:54,900 --> 01:29:55,060
+Just
+
+2196
+01:29:55,060 --> 01:29:55,300
+dying.
+
+2197
+01:29:55,320 --> 01:29:55,980
+For money, yeah.
+
+2198
+01:29:56,060 --> 01:29:56,840
+Dying for money.
+
+2199
+01:29:59,600 --> 01:30:01,220
+Now this originally...
+
+2200
+01:30:01,480 --> 01:30:02,400
+There's a taluson right there
+
+2201
+01:30:02,400 --> 01:30:02,580
+as well.
+
+2202
+01:30:02,600 --> 01:30:03,220
+Taluson once again.
+
+2203
+01:30:04,940 --> 01:30:06,440
+Did a beautiful job with this.
+
+2204
+01:30:06,720 --> 01:30:08,520
+It's funny, it was originally...
+
+2205
+01:30:09,200 --> 01:30:10,100
+You gotta love that.
+
+2206
+01:30:10,320 --> 01:30:10,380
+Ow!
+
+2207
+01:30:11,460 --> 01:30:12,400
+Oh, this is wonderful.
+
+2208
+01:30:12,600 --> 01:30:15,940
+we added a sound effect when she blows his brains out.
+
+2209
+01:30:16,480 --> 01:30:18,580
+I don't know if you can hear it, but...
+
+2210
+01:30:19,320 --> 01:30:20,640
+You hear that little...
+
+2211
+01:30:21,060 --> 01:30:23,380
+We added that itch because it was so disgusting and wonderful.
+
+2212
+01:30:23,900 --> 01:30:24,300
+Now, it's funny.
+
+2213
+01:30:24,480 --> 01:30:28,260
+Originally, when I sort of envisioned this section of the movie
+
+2214
+01:30:28,480 --> 01:30:29,320
+with the guy holding the gun,
+
+2215
+01:30:29,320 --> 01:30:32,060
+I sort of envisioned this horrible guy
+
+2216
+01:30:32,320 --> 01:30:34,180
+who eats babies for breakfast kind of thing.
+
+2217
+01:30:34,220 --> 01:30:34,900
+Sorry, kid.
+
+2218
+01:30:35,460 --> 01:30:37,320
+And then Taliesin came in and did that read,
+
+2219
+01:30:37,340 --> 01:30:39,140
+and I was like, oh, that's even colder.
+
+2220
+01:30:39,240 --> 01:30:39,940
+I love it.
+
+2221
+01:30:40,200 --> 01:30:42,680
+Now, how significant is the number 667 at this point?
+
+2222
+01:30:42,760 --> 01:30:43,640
+The Neighbor of the Beast.
+
+2223
+01:30:43,840 --> 01:30:43,900
+The
+
+2224
+01:30:43,900 --> 01:30:44,420
+Neighbor of
+
+2225
+01:30:44,420 --> 01:30:44,820
+the Beast.
+
+2226
+01:30:45,080 --> 01:30:46,560
+He gets the Beast's mail occasionally.
+
+2227
+01:30:49,920 --> 01:30:50,980
+Sometimes the Beast's
+
+2228
+01:30:50,980 --> 01:30:52,200
+dog comes peas in his garden.
+
+2229
+01:30:52,920 --> 01:30:55,240
+He just made this movie for people to freeze frame it
+
+2230
+01:30:55,240 --> 01:30:57,260
+and go through it frame by frame and find things.
+
+2231
+01:30:59,020 --> 01:31:03,720
+It's this wonderful artistry mind screw at the same
+
+2232
+01:31:03,720 --> 01:31:03,920
+time.
+
+2233
+01:31:09,070 --> 01:31:09,180
+Yeah.
+
+2234
+01:31:09,200 --> 01:31:16,500
+Especially like in this scene, I think Spike was a little fed up with Shinji, I think.
+
+2235
+01:31:17,260 --> 01:31:22,600
+But he found his way back to identifying with him and portraying the character.
+
+2236
+01:31:22,650 --> 01:31:24,100
+I mean, Spike really did a brilliant job.
+
+2237
+01:31:24,130 --> 01:31:27,800
+I cannot imagine anyone else doing as good a job with Shinji.
+
+2238
+01:31:29,680 --> 01:31:32,240
+I can't imagine a more depressing role to take
+
+2239
+01:31:32,240 --> 01:31:33,240
+to try
+
+2240
+01:31:33,240 --> 01:31:34,780
+and deal with this day in and day out.
+
+2241
+01:31:36,020 --> 01:31:37,640
+The classic anti-hero.
+
+2242
+01:31:40,060 --> 01:31:41,820
+If he could be bothered even to be that.
+
+2243
+01:31:42,140 --> 01:31:42,260
+Yeah.
+
+2244
+01:31:46,600 --> 01:31:51,140
+It's part of what I really, really have always loved about this film is that I don't like him,
+
+2245
+01:31:51,260 --> 01:31:54,080
+but there's so many things in him that I don't like that I don't like about myself.
+
+2246
+01:31:54,280 --> 01:31:58,660
+There's so many places where I see exactly where he fails, and you can't fight it.
+
+2247
+01:31:58,720 --> 01:31:58,820
+You
+
+2248
+01:31:58,820 --> 01:32:01,960
+can't really disagree with it.
+
+2249
+01:32:02,260 --> 01:32:02,960
+Here's the big boom.
+
+2250
+01:32:04,540 --> 01:32:04,980
+Butt shaker.
+
+2251
+01:32:06,200 --> 01:32:06,780
+Oh, wait, here we go.
+
+2252
+01:32:07,240 --> 01:32:09,360
+Here's my second favorite line ever in this whole movie.
+
+2253
+01:32:09,850 --> 01:32:10,100
+Hold on.
+
+2254
+01:32:12,600 --> 01:32:13,020
+Oh, come on.
+
+2255
+01:32:15,620 --> 01:32:16,040
+Here we go.
+
+2256
+01:32:18,900 --> 01:32:19,880
+Speak of the devil.
+
+2257
+01:32:20,360 --> 01:32:20,620
+Damn,
+
+2258
+01:32:20,920 --> 01:32:21,900
+haven't you ever heard of moderation?
+
+2259
+01:32:22,220 --> 01:32:22,500
+Yes!
+
+2260
+01:32:24,180 --> 01:32:24,380
+I
+
+2261
+01:32:24,380 --> 01:32:25,520
+love that line.
+
+2262
+01:32:25,790 --> 01:32:26,720
+I love that line.
+
+2263
+01:32:27,580 --> 01:32:27,940
+They're just
+
+2264
+01:32:27,940 --> 01:32:29,720
+things, no matter how many times I see this movie,
+
+2265
+01:32:29,880 --> 01:32:31,600
+they're just some things that still make me happy.
+
+2266
+01:32:31,800 --> 01:32:31,920
+The
+
+2267
+01:32:31,920 --> 01:32:34,120
+room pauses every time that line comes
+
+2268
+01:32:34,120 --> 01:32:34,260
+up.
+
+2269
+01:32:34,500 --> 01:32:35,180
+We all wait
+
+2270
+01:32:35,180 --> 01:32:36,300
+for your squeal.
+
+2271
+01:32:36,540 --> 01:32:37,440
+For me, going, yee-hee.
+
+2272
+01:32:37,770 --> 01:32:39,160
+Did we already go past BC Weapon?
+
+2273
+01:32:39,290 --> 01:32:40,860
+Yeah, I guess we already had the...
+
+2274
+01:32:41,190 --> 01:32:42,500
+You guys know what BC Weapons...
+
+2275
+01:32:42,740 --> 01:32:43,040
+Biochemical.
+
+2276
+01:32:43,440 --> 01:32:43,800
+Biochemical.
+
+2277
+01:32:44,280 --> 01:32:44,360
+Yep.
+
+2278
+01:32:45,140 --> 01:32:47,120
+I'm telling you, honey, the amount of research I did
+
+2279
+01:32:47,630 --> 01:32:50,700
+before even setting pen to paper to write the script was ridiculous.
+
+2280
+01:32:51,580 --> 01:32:53,440
+It took me about a good four months to do this script.
+
+2281
+01:32:55,020 --> 01:32:55,920
+Because I wanted to make
+
+2282
+01:32:55,920 --> 01:32:58,000
+sure that I had everything down.
+
+2283
+01:32:58,380 --> 01:33:01,020
+So these are all spinal columns, basically?
+
+2284
+01:33:01,420 --> 01:33:01,480
+This
+
+2285
+01:33:01,480 --> 01:33:02,500
+is the Eva graveyard.
+
+2286
+01:33:03,120 --> 01:33:06,140
+These are prototypes that didn't work.
+
+2287
+01:33:09,100 --> 01:33:12,200
+So this is a place where rednecks could go in with their own tools
+
+2288
+01:33:12,300 --> 01:33:13,540
+and maybe put their own Ava together.
+
+2289
+01:33:14,020 --> 01:33:15,240
+Exactly. Build your own Ava.
+
+2290
+01:33:19,640 --> 01:33:24,840
+Yes, there really is almost a coherent thing going on with the Avas
+
+2291
+01:33:24,840 --> 01:33:26,480
+where they almost quite pull the whole thing together
+
+2292
+01:33:26,600 --> 01:33:27,840
+and it makes almost perfect sense.
+
+2293
+01:33:27,940 --> 01:33:30,280
+And it would almost fake you to believe that you can figure everything out.
+
+2294
+01:33:31,720 --> 01:33:33,560
+Oh, and we have the office.
+
+2295
+01:33:34,620 --> 01:33:36,260
+I want a pendulum that big one day.
+
+2296
+01:33:37,040 --> 01:33:38,280
+Yeah, that always sort of...
+
+2297
+01:33:38,820 --> 01:33:41,460
+I looked at this and I was trying to figure out what the perspective
+
+2298
+01:33:41,460 --> 01:33:42,240
+is on it.
+
+2299
+01:33:42,480 --> 01:33:44,920
+Are we looking through a clock? Are we looking down a hall?
+
+2300
+01:33:45,140 --> 01:33:45,560
+Or does he
+
+2301
+01:33:45,560 --> 01:33:49,040
+really just have this ginormous pendulum in the middle of his room
+
+2302
+01:33:51,060 --> 01:33:51,460
+that if you get
+
+2303
+01:33:51,460 --> 01:33:53,480
+up to try and clean a window, it could take you out?
+
+2304
+01:33:53,760 --> 01:33:54,840
+I mean, what is that thing?
+
+2305
+01:33:55,980 --> 01:33:59,980
+I had somebody once mention that there are three columns of light in this room
+
+2306
+01:34:00,040 --> 01:34:04,020
+and that that might represent the three columns from the cabal of the middle pillar,
+
+2307
+01:34:04,360 --> 01:34:07,440
+the pillar of mercy and the pillar of severity,
+
+2308
+01:34:07,570 --> 01:34:09,340
+and he's sitting at the very bottom right down there
+
+2309
+01:34:09,350 --> 01:34:12,540
+in the most earthly, practical place
+
+2310
+01:34:12,610 --> 01:34:13,960
+where so many of our problems come from.
+
+2311
+01:34:14,280 --> 01:34:15,200
+This little mayor.
+
+2312
+01:34:15,640 --> 01:34:16,600
+He's got some kind of...
+
+2313
+01:34:16,680 --> 01:34:17,420
+He's just an official.
+
+2314
+01:34:17,620 --> 01:34:18,160
+He's not Sealy.
+
+2315
+01:34:18,340 --> 01:34:18,820
+He's not anybody.
+
+2316
+01:34:20,600 --> 01:34:21,280
+He's a prime minister.
+
+2317
+01:34:21,380 --> 01:34:22,020
+He's a prime minister.
+
+2318
+01:34:22,140 --> 01:34:23,640
+He's kind of cut off from this whole deal.
+
+2319
+01:34:23,840 --> 01:34:25,400
+It could be the three columns lighter.
+
+2320
+01:34:25,620 --> 01:34:27,100
+It could be just they were trying to save money
+
+2321
+01:34:27,170 --> 01:34:27,960
+for the action sequence.
+
+2322
+01:34:29,420 --> 01:34:30,160
+Sometimes a window
+
+2323
+01:34:30,160 --> 01:34:30,860
+is just a window.
+
+2324
+01:34:31,820 --> 01:34:32,180
+Exactly.
+
+2325
+01:34:32,620 --> 01:34:34,200
+And you often find if you play that sequence,
+
+2326
+01:34:34,340 --> 01:34:36,220
+for your cats, they will try to chase the pendulum.
+
+2327
+01:34:41,120 --> 01:34:42,500
+And here we're going to get into
+
+2328
+01:34:42,600 --> 01:34:44,400
+some major action once Asuka
+
+2329
+01:34:44,820 --> 01:34:45,840
+kind of gets out of her...
+
+2330
+01:34:46,220 --> 01:34:46,880
+Out of her funk.
+
+2331
+01:34:47,660 --> 01:34:49,460
+This was an interesting... Will you talk about
+
+2332
+01:34:50,520 --> 01:34:51,800
+directing Tiffany through this sequence?
+
+2333
+01:34:52,500 --> 01:34:54,320
+Tiffany did an amazing job
+
+2334
+01:34:54,340 --> 01:34:56,300
+with this because it's a very,
+
+2335
+01:34:56,640 --> 01:34:58,400
+very difficult transition to go
+
+2336
+01:34:58,600 --> 01:35:00,420
+from completely insane
+
+2337
+01:35:01,000 --> 01:35:02,060
+inside your head
+
+2338
+01:35:03,820 --> 01:35:04,300
+to
+
+2339
+01:35:04,320 --> 01:35:04,720
+Absolutely.
+
+2340
+01:35:05,960 --> 01:35:08,960
+She goes from completely suicidally depressed
+
+2341
+01:35:10,380 --> 01:35:12,380
+to the most confident,
+
+2342
+01:35:13,570 --> 01:35:15,980
+always beautiful character in the movie for just a few moments.
+
+2343
+01:35:16,760 --> 01:35:18,920
+And then she kind of gets torn up and dies.
+
+2344
+01:35:19,500 --> 01:35:25,860
+But Tiffany did a wonderful job with this.
+
+2345
+01:35:27,800 --> 01:35:29,780
+Just the emotion behind it.
+
+2346
+01:35:30,190 --> 01:35:30,820
+It was beautiful.
+
+2347
+01:35:30,820 --> 01:35:33,540
+And actually, when I saw her in the booth,
+
+2348
+01:35:34,060 --> 01:35:36,780
+She would actually physicalize the lines.
+
+2349
+01:35:38,220 --> 01:35:40,320
+I think that, I mean, you have to ask Tiffany,
+
+2350
+01:35:40,380 --> 01:35:42,940
+I would imagine that playing this role must have been pretty exhausting.
+
+2351
+01:35:45,300 --> 01:35:46,420
+But she definitely did a good job.
+
+2352
+01:35:48,300 --> 01:35:51,880
+Especially the, I mean, this line, I don't want to die, is repeated.
+
+2353
+01:35:52,340 --> 01:35:56,540
+I mean, I'm sure somebody has counted it out somewhere, but it's...
+
+2354
+01:35:56,600 --> 01:35:58,540
+I did, I don't remember how many times.
+
+2355
+01:35:58,620 --> 01:35:59,080
+Too many times.
+
+2356
+01:35:59,760 --> 01:36:03,340
+Oh, and then the voice of Asuka's mother was done by Kimberly Yates.
+
+2357
+01:36:04,380 --> 01:36:06,940
+who I think did a brilliant job.
+
+2358
+01:36:07,740 --> 01:36:09,780
+You've got to freeze frame that sequence right there
+
+2359
+01:36:09,800 --> 01:36:11,380
+with the worms on the...
+
+2360
+01:36:11,480 --> 01:36:13,820
+Yeah, there's one, like, for two frames
+
+2361
+01:36:13,880 --> 01:36:15,920
+you see a picture of Asuka's corpse
+
+2362
+01:36:16,100 --> 01:36:17,260
+and it's all maggot-written
+
+2363
+01:36:17,980 --> 01:36:19,860
+and she's in the plug suit.
+
+2364
+01:36:20,040 --> 01:36:20,800
+It's really vile.
+
+2365
+01:36:21,340 --> 01:36:23,220
+That'll give you some good nightmares
+
+2366
+01:36:23,580 --> 01:36:24,320
+for the weeks to
+
+2367
+01:36:24,320 --> 01:36:24,640
+come.
+
+2368
+01:36:25,940 --> 01:36:26,580
+Here she goes.
+
+2369
+01:36:26,780 --> 01:36:28,020
+Now she's going to go kick some butt.
+
+2370
+01:36:28,720 --> 01:36:28,920
+Yeah!
+
+2371
+01:36:30,140 --> 01:36:32,300
+This was a big complaint with fans for the TV series.
+
+2372
+01:36:32,520 --> 01:36:37,800
+They felt that Oscar got taken out of the picture before we really got to see her go at it, so to speak.
+
+2373
+01:36:38,740 --> 01:36:42,540
+Also, remember, this is around the Titanic time, I might add, so this just becomes funnier.
+
+2374
+01:36:44,740 --> 01:36:49,080
+That would make me so happy to think there'd be a little tiny Leonardo DiCaprio in there just getting smushed.
+
+2375
+01:36:52,360 --> 01:36:53,520
+I'm never going to work in Hollywood, am I?
+
+2376
+01:36:53,800 --> 01:36:54,180
+No, you're not.
+
+2377
+01:36:54,280 --> 01:36:54,460
+I'm
+
+2378
+01:36:54,460 --> 01:36:55,660
+done. I'm done.
+
+2379
+01:36:56,340 --> 01:36:58,060
+Leo's fine. His AT field saved him.
+
+2380
+01:37:01,960 --> 01:37:05,920
+This is really, it's the best we ever get to see an Ava really go at it.
+
+2381
+01:37:06,000 --> 01:37:10,520
+They never have ever animated anything with this much action, this much movement.
+
+2382
+01:37:11,000 --> 01:37:14,060
+It's a beautifully, beautifully animated fight sequence.
+
+2383
+01:37:14,580 --> 01:37:16,160
+A little Macross montage right there.
+
+2384
+01:37:16,760 --> 01:37:17,460
+One of my favorites.
+
+2385
+01:37:18,400 --> 01:37:19,380
+She's so happy, though.
+
+2386
+01:37:20,400 --> 01:37:20,960
+But that's the thing.
+
+2387
+01:37:20,980 --> 01:37:23,580
+She goes from suicidal to, she's bipolar, I think.
+
+2388
+01:37:23,580 --> 01:37:24,740
+Yeah, I think she can just not.
+
+2389
+01:37:24,740 --> 01:37:26,180
+I think if she catches it with her face.
+
+2390
+01:37:26,240 --> 01:37:28,900
+I think Xanax would be good for Asuka.
+
+2391
+01:37:29,160 --> 01:37:31,480
+A little Zoloft, a little Paxson, just something.
+
+2392
+01:37:31,600 --> 01:37:32,940
+comment on the metaphor right there.
+
+2393
+01:37:33,520 --> 01:37:35,360
+Oh, a big old wank in the face?
+
+2394
+01:37:35,550 --> 01:37:35,980
+Yeah, yeah, yeah.
+
+2395
+01:37:39,820 --> 01:37:40,860
+A big old exploding
+
+2396
+01:37:40,860 --> 01:37:41,900
+wank in the face.
+
+2397
+01:37:42,700 --> 01:37:43,060
+I
+
+2398
+01:37:43,060 --> 01:37:44,120
+love that scene
+
+2399
+01:37:44,230 --> 01:37:45,680
+where she drives over the body
+
+2400
+01:37:46,550 --> 01:37:47,340
+and the arm goes...
+
+2401
+01:37:48,860 --> 01:37:49,880
+There's just some things in there
+
+2402
+01:37:50,220 --> 01:37:51,640
+that you're just like, oh, this is so sick.
+
+2403
+01:37:51,820 --> 01:37:53,320
+This is great. Rewind. Let me see that again.
+
+2404
+01:37:53,430 --> 01:37:53,760
+You know?
+
+2405
+01:37:57,040 --> 01:37:57,600
+Battery power.
+
+2406
+01:37:59,240 --> 01:38:00,120
+That's another thing I always like.
+
+2407
+01:38:00,260 --> 01:38:05,060
+The Avas are, in fact, if you pull the plug, they've got five minutes, give or take, depending on the plot line.
+
+2408
+01:38:07,700 --> 01:38:10,400
+Great way to keep them in this one centralized location.
+
+2409
+01:38:10,580 --> 01:38:12,760
+Great way to keep everything tied together.
+
+2410
+01:38:15,040 --> 01:38:21,060
+This is really, especially for the time, you don't really notice it now because there's so many other shows out that are trying to be Evangelion.
+
+2411
+01:38:21,160 --> 01:38:21,860
+Oh, yeah.
+
+2412
+01:38:22,140 --> 01:38:23,980
+Nothing like this had really ever been seen before.
+
+2413
+01:38:24,940 --> 01:38:27,780
+Oh, right there, Tiffany said, eat this ashloch.
+
+2414
+01:38:28,040 --> 01:38:32,980
+That was Tiffany's writing, actually, because I just sort of said, what's an obnoxious word in German?
+
+2415
+01:38:34,560 --> 01:38:36,620
+And because we'd already said Schweinhund.
+
+2416
+01:38:37,600 --> 01:38:42,300
+And so then she came up with Aschloch, which I think is fairly self-explanatory.
+
+2417
+01:38:42,460 --> 01:38:44,000
+I don't think I need to translate that.
+
+2418
+01:38:44,400 --> 01:38:45,220
+Kids, go ask your parents.
+
+2419
+01:38:47,000 --> 01:38:47,160
+That's
+
+2420
+01:38:47,160 --> 01:38:48,000
+what the Internet's for.
+
+2421
+01:38:48,400 --> 01:38:48,780
+Exactly.
+
+2422
+01:38:57,040 --> 01:38:57,180
+Exactly.
+
+2423
+01:38:57,420 --> 01:39:04,440
+Do you guys remember, um, uh, oh, did you see
+
+2424
+01:39:04,440 --> 01:39:06,060
+that side, Quarrow on the side?
+
+2425
+01:39:06,500 --> 01:39:09,200
+These things look like, do you guys remember the cartoon characters, the Shmoo?
+
+2426
+01:39:10,740 --> 01:39:11,400
+Shmoo, yes.
+
+2427
+01:39:11,520 --> 01:39:11,980
+From Heddle Barber.
+
+2428
+01:39:12,100 --> 01:39:16,620
+There's something about the shape of the heads on the Emma series makes me think of a Shmoo.
+
+2429
+01:39:16,900 --> 01:39:21,400
+Makes me think of the Mountain Dew Extreme commercials where a guy sky surfs and go catches a Mountain Dew in the middle of it.
+
+2430
+01:39:21,500 --> 01:39:23,000
+You know, I mean, they've got their little surfboards.
+
+2431
+01:39:24,620 --> 01:39:26,400
+It looks like the head of a porpoise, too.
+
+2432
+01:39:27,120 --> 01:39:31,620
+And I never understood why they engineered them with these luscious lips.
+
+2433
+01:39:32,540 --> 01:39:33,060
+Do you know what I mean?
+
+2434
+01:39:33,300 --> 01:39:34,720
+It's downright terrifying.
+
+2435
+01:39:35,820 --> 01:39:37,780
+They are the most frightening.
+
+2436
+01:39:39,620 --> 01:39:41,460
+Ava's in drag with that lipstick.
+
+2437
+01:39:41,500 --> 01:39:43,200
+Ah!
+
+2438
+01:40:41,480 --> 01:40:45,240
+指先は私を求める
+
+2439
+01:40:47,140 --> 01:40:49,160
+私に帰
+
+2440
+01:40:49,160 --> 01:40:54,440
+りなさい 生まれる前に
+
+2441
+01:40:55,340 --> 01:41:00,800
+あなたが過ごした大地へと
+
+2442
+01:41:02,200 --> 01:41:09,980
+この手に帰りなさい 巡り合うため
+
+2443
+01:41:10,060 --> 01:41:14,420
+The miracles will happen, no matter what ever
+
+2444
+01:41:16,460 --> 01:41:18,800
+The soul of the Rufura
+
+2445
+01:41:51,560 --> 01:41:59,760
+I'm going to go to
+
+2446
+01:41:59,760 --> 01:42:06,980
+the
+
+2447
+01:42:21,340 --> 01:42:23,100
+I'm the soul of the love
+
+2448
+01:42:53,280 --> 01:43:05,360
+I'm going to
+
+2449
+01:43:21,340 --> 01:43:27,920
+The world
+
+2450
+01:43:27,920 --> 01:43:39,200
+is
+
+2451
+01:43:39,200 --> 01:43:43,160
+born
+
+2452
+01:43:51,440 --> 01:43:54,100
+I'm still feeling calm and calm
+
+2453
+01:43:57,500 --> 01:43:58,160
+I'm trying to ask my life
+
+2454
+01:44:01,140 --> 01:44:03,940
+I'm asking for my life
+
+2455
+01:44:06,260 --> 01:44:08,360
+My指先 is asking for me
+
+2456
+01:44:12,320 --> 01:44:14,820
+I'm going to be back to
+
+2457
+01:44:14,820 --> 01:44:15,140
+my life
+
+2458
+01:44:16,880 --> 01:44:20,320
+I'm living before you
+
+2459
+01:44:20,380 --> 01:44:24,360
+You have to go to the forest
+
+2460
+01:44:27,320 --> 01:44:28,720
+Come back to this hand
+
+2461
+01:44:31,180 --> 01:44:33,400
+To meet you
+
+2462
+01:44:34,920 --> 01:44:37,660
+The miracle will happen to you
+
+2463
+01:44:40,860 --> 01:44:43,640
+The world will be the "Ruflar"
+
+2464
+01:44:59,640 --> 01:45:01,040
+Thank you.
+
+2465
+01:45:16,600 --> 01:45:22,860
+I will return to
+
+2466
+01:45:22,860 --> 01:45:46,200
+the first place to the first place in the world.
+
+2467
+01:45:46,260 --> 01:45:48,200
+I'm the soul of
+
+2468
+01:46:16,420 --> 01:46:18,720
+I'm
+
+2469
+01:46:18,720 --> 01:46:21,140
+going to go back
+
+2470
+01:46:46,380 --> 01:46:47,300
+The soul of
+
+2471
+01:46:47,300 --> 01:46:48,440
+the soul
+
+2472
+01:47:02,720 --> 01:47:05,780
+The skin of the blue sky is filled with the skin
+
+2473
+01:47:39,300 --> 01:47:39,340
+*outro music*
+
